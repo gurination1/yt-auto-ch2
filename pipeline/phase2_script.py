@@ -4,20 +4,22 @@ import random
 from pipeline.config import HOOK_PATTERNS, BEACONS_LINK, GEMINI_PRO
 from pipeline.gemini import GeminiClient, _robust_json_loads
 
-def get_next_tuesday_3pm_ist_utc():
-    # IST is UTC+5:30. 3:00 PM IST = 15:00 IST = 09:30 AM UTC.
+def get_next_weekday_2pm_ist_utc():
+    # IST is UTC+5:30. 2:00 PM IST = 14:00 IST = 08:30 AM UTC.
     now = datetime.datetime.now(datetime.timezone.utc)
     ist_offset = datetime.timedelta(hours=5, minutes=30)
     now_ist = now + ist_offset
     
     target_date = now_ist.date()
-    # Find next Tuesday (1=Tue)
-    days_ahead = (1 - target_date.weekday() + 7) % 7
-    if days_ahead == 0 and now_ist.time() >= datetime.time(15, 0):
-        days_ahead = 7
-    target_date += datetime.timedelta(days=days_ahead)
+    # If it's past 2 PM IST today, start looking from tomorrow
+    if now_ist.time() >= datetime.time(14, 0):
+        target_date += datetime.timedelta(days=1)
         
-    target_dt_ist = datetime.datetime.combine(target_date, datetime.time(15, 0))
+    # Find next weekday (0=Mon, 1=Tue, 2=Wed, 3=Thu, 4=Fri)
+    while target_date.weekday() >= 5: # Saturday=5, Sunday=6
+        target_date += datetime.timedelta(days=1)
+        
+    target_dt_ist = datetime.datetime.combine(target_date, datetime.time(14, 0))
     target_dt_utc = target_dt_ist - ist_offset
     return target_dt_utc.strftime("%Y-%m-%dT%H:%M:%SZ")
 
@@ -40,7 +42,7 @@ def generate_script(topic: dict, format_type: str) -> dict:
         prompt = f"""Generate an extremely viral, high-retention 25-35 second YouTube Short educational script on the topic: "{topic['topic']}".
 Use the following hook concept as your core theme: "{hook_formatted}" (short hook: "{topic.get('short_hook', '')}").
 
-Narration Style Requirements (with CH2 Nature Nourisher Niche Quality Signals):
+Narration Style Requirements (with CH1 EduFun Niche Quality Signals):
 1. Pacing & Punchiness: 5 to 15 words per segment's narration. CRITICAL: NEVER split a single sentence across multiple segments! Each segment MUST contain 1 or 2 complete, self-contained sentences. If you split a sentence, the voiceover will pause awkwardly mid-sentence.
 2. Conversational & Extreme Simplicity: Use ONLY 5th-grade vocabulary. Extremely simple words, no complex grammar, no SAT words. Must be so simple a 10-year-old understands instantly.
 3. Engaging Tone: The voiceover narration must be conversational, highly engaging, and relatable—like a friend telling an exciting story. Write the voiceover to be energetic, warm, and inviting.
@@ -54,25 +56,29 @@ COMPANION LAYER - NICHE & FORMAT UPGRADE (SHORT):
   * Deliver (3-20s): The actual value/story/reveal. Fast. Dense. No filler.
   * Payoff + CTA (20-30s): The punchline, answer, result, or twist (one line only), then end.
   * Avoid: Words that do not carry weight, silence over 1s, padding, slow pacing.
-- NICHE QUALITY SIGNALS (Nature):
-  * SPECIFIC DETAIL OVER GENERAL WONDER: Avoid vague awe ("nature is incredible"). Use highly specific facts ("this tree releases a chemical signal that neighboring trees detect within 30 minutes"). Every script must contain at least one detail this specific per segment.
-  * ONE SUBJECT BEFORE THE BIG IDEA: Always ground the video in one specific creature, place, or phenomenon first. Zoom out to the bigger lesson only after the viewer is already invested.
-  * LANGUAGE THAT CREATES PICTURES: Write so the viewer can picture what's being described even when visuals don't show it exactly.
-  * PACING THAT BREATHES: Nature content has slower natural pacing. Let shots and voiceover settle, never feel rushed.
-  * MACRO THEN WIDE: Start visually close — one leaf, one creature, one sound. Then pull back to the wider world.
+- NICHE QUALITY SIGNALS (Education):
+  * SHOW THE RESULT FIRST: State or show the answer/outcome before explaining how you get there. Viewers stay to understand something they just saw — not to wait.
+  * B-ROLL THAT PROVES THE POINT: Every concept explained verbally must have a visual that demonstrates it, not just decorates it.
+  * ONE CLEAR GAIN PER VIDEO: Teach exactly one thing. Script must answer: "What is the single thing this viewer will walk away with?"
+  * TEXT OVERLAYS THAT REINFORCE, NOT REPEAT: Use text for key terms, surprising numbers, simple diagrams, or summary sentences. Do not transcribe verbatim.
+  * CONTINUOUS CURIOSITY LOOP: Every 2-3 segments, give a new reason to stay with a new question (e.g., "But here's where it gets interesting...").
 
 For every `broll_query` field, write a SHORT, SPECIFIC, STOCK-FOOTAGE-FRIENDLY
-search term of 3-6 words MAXIMUM. Write exactly what a human would type into
-a stock video search bar (Pexels, Pixabay, etc). Use concrete nouns and visual
-objects — NOT instructions or descriptions of what you want.
+search term of 1-3 CONCRETE PHYSICAL NOUNS MAXIMUM (e.g., "water pipes", "ancient scroll", "mummy coffin", "sea sponges", "gold jewelry").
+Write exactly what a human would type into a stock video search bar. Use concrete nouns and visual objects — NOT instructions, verbs, or descriptions of what you want.
 
-CORRECT examples: "Stephen Hawking wheelchair smiling", "DNA double helix blue",
-"quantum computer chip closeup", "black hole space vortex", "astronaut spacewalk ISS",
-"brain neurons firing", "atom particle collider", "coral reef fish colorful"
+CRITICAL BROLL QUERY RULES:
+- MUST be 1-3 simple, concrete physical nouns (e.g. "water pipes", "ancient scroll", "mummy coffin", "sea sponges", "gold jewelry", "smartphone").
+- NEVER include abstract adjectives, verbs, or meta-words like "animated", "defect", "dramatic", "unraveling", "stuck", "shattered", "cross section", "concept", "visualization", "illustration".
+- Write queries that represent real physical footage found in stock video libraries or YouTube documentaries.
+
+CORRECT examples: "Stephen Hawking wheelchair", "DNA double helix",
+"quantum computer chip", "black hole space", "astronaut spacewalk",
+"brain neurons firing", "atom particle collider", "coral reef fish"
 
 WRONG examples: "visually jarring close-up of the topic", "macro b-roll of scientific
 element", "closing beautiful shot returning to start", "diagram concept visualization",
-"TMAO molecular structure" (too specific for stock footage), "chemical" (too ambiguous, returns factories)
+"animated gate valve defect", "ancient scroll unraveling dramatic", "cross section stuck"
 
 IMPORTANT B-ROLL RULES:
 - Stock video sites DO NOT HAVE specific molecules or rare deep-sea fish by name.
@@ -140,7 +146,7 @@ For the final segment (Segment {segment_count}) specifically:
         prompt = f"""Generate a comprehensive 7-10 minute YouTube educational script on the topic: "{topic['topic']}".
 The script must have 15 to 18 segments, each targeting 25-35 seconds of narration.
 
-Narration Style Requirements (with CH2 Nature Nourisher Niche Quality Signals):
+Narration Style Requirements (with CH1 EduFun Niche Quality Signals):
 1. Conversational & Simple Language: Use very simple, easy-to-understand, and highly relatable words that anyone can easily follow. Avoid obscure, complex, or overly difficult English vocabulary. Keep the narration friendly, extremely engaging, and relatable—like a friend explaining an amazing topic.
 2. Engaging Tone: The voiceover narration must be conversational, highly engaging, and relatable—like a friend telling an exciting story. Write the voiceover to be energetic, warm, and inviting.
 Structure the narrative into:
@@ -159,12 +165,12 @@ COMPANION LAYER - NICHE & FORMAT UPGRADE (LONG):
   * Payoff + CTA (5:00-5:30, segments 17-18): Wrap core idea. One line CTA. End clean.
 - PATTERN INTERRUPT: Include exactly 2-3 pattern interrupts total (visual shift, tonal change, new angle) around 1:30, 3:00, and 4:30.
 - Avoid: intro/context >45s, padding middle, saving best point for end, or >3 main points.
-- NICHE QUALITY SIGNALS (Nature):
-  * SPECIFIC DETAIL OVER GENERAL WONDER: Avoid vague awe ("nature is incredible"). Use highly specific facts ("this tree releases a chemical signal that neighboring trees detect within 30 minutes"). Every segment should contain at least one detail this specific.
-  * ONE SUBJECT BEFORE THE BIG IDEA: Always ground the video in one specific creature, place, or phenomenon first. Zoom out to the bigger lesson only after the viewer is already invested.
-  * LANGUAGE THAT CREATES PICTURES: Write so the viewer can picture what's being described even when visuals don't show it exactly.
-  * PACING THAT BREATHES: Nature content has slower natural pacing. Let shots and voiceover settle, never feel rushed.
-  * MACRO THEN WIDE: Start visually close — one leaf, one creature, one sound. Then pull back to the wider world.
+- NICHE QUALITY SIGNALS (Education):
+  * SHOW THE RESULT FIRST: State or show the answer/outcome before explaining how you get there. Viewers stay to understand something they just saw — not to wait.
+  * B-ROLL THAT PROVES THE POINT: Every concept explained verbally must have a visual that demonstrates it, not just decorates it.
+  * ONE CLEAR GAIN PER VIDEO: Teach exactly one thing. Script must answer: "What is the single thing this viewer will walk away with?"
+  * TEXT OVERLAYS THAT REINFORCE, NOT REPEAT: Use text for key terms, surprising numbers, simple diagrams, or summary sentences. Do not transcribe verbatim.
+  * CONTINUOUS CURIOSITY LOOP: Every 60-90 seconds, give a new reason to stay with a new question (e.g., "But here's where it gets interesting...").
 
 For every `broll_query` field, write a SHORT, SPECIFIC, STOCK-FOOTAGE-FRIENDLY
 search term of 3-6 words MAXIMUM. Write exactly what a human would type into
@@ -230,7 +236,7 @@ You MUST return your response ONLY as a raw JSON object with no markdown syntax.
 
     # Add scheduling metadata for long form
     if format_type == "long":
-        script["publish_at"] = get_next_tuesday_3pm_ist_utc()
+        script["publish_at"] = get_next_weekday_2pm_ist_utc()
     else:
         # Default publish_at for shorts: let's set it to None so we can upload as private first
         script["publish_at"] = None
