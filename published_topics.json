@@ -1,6 +1,5 @@
 {
   "topics": [
-    "What most people don't know about trees: A single Douglas fir can share 40% of its carbon with other trees through fungal networks.",
     "What most people don't know about lightning: 'Blue jets' can erupt 50 miles into the mesosphere, far above typical storm clouds, reaching near the edge of space.",
     "What most people don't know about Earth's early oxygen: The Great Oxidation Event triggered the Huronian glaciation, turning the planet into a \"Snowball Earth\" for 300 million years by oxidizing atmospheric methane.",
     "Many animal species communicate at a universal rhythm of 2-3 vocalizations per second, irrespective of their size or habitat.",
@@ -89,8 +88,9 @@
     "Wildfire Smoke Plumes Traverse Continents, Affecting Air Quality Far from Flames",
     "Scientists just uncovered a secret network of underwater caves teeming with giant tube worms, defying expectations for deep-sea ecosystems.",
     "The hidden truth about male Emperor Penguins: They fast for up to 120 days in -60\u00b0C (-76\u00b0F) Antarctic winter, losing half their body weight, to incubate a single egg.",
-    "Massive, ancient sponge mounds were unexpectedly discovered 'hidden in plain sight' off Southern California, challenging assumptions about well-explored marine areas."
+    "Massive, ancient sponge mounds were unexpectedly discovered 'hidden in plain sight' off Southern California, challenging assumptions about well-explored marine areas.",
+    "New analysis reveals that prescribed fires are crucial for protecting giant sequoias, as these ancient trees show increased resilience in treated areas against extreme wildfires."
   ],
-  "subcluster_idx": 1,
-  "call_count": 91
+  "subcluster_idx": 2,
+  "call_count": 92
 }
