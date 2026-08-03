@@ -1,6 +1,5 @@
 {
   "topics": [
-    "Many animal species communicate at a universal rhythm of 2-3 vocalizations per second, irrespective of their size or habitat.",
     "What most people don't know about deep-sea Pompeii worms: They can withstand a temperature gradient of 60\u00b0C across their bodies while living near hydrothermal vents.",
     "What most people don't know about Black Walnut trees: They can create a 50-foot 'kill zone' around them by releasing juglone, a potent herbicide that suppresses over 100 plant species.",
     "What most people don't know about tornadoes: Less than 1% of all tornadoes rotate 'backward' (anticyclonically), defying the typical cyclonic spin of low-pressure systems.",
@@ -89,8 +88,9 @@
     "Massive, ancient sponge mounds were unexpectedly discovered 'hidden in plain sight' off Southern California, challenging assumptions about well-explored marine areas.",
     "New analysis reveals that prescribed fires are crucial for protecting giant sequoias, as these ancient trees show increased resilience in treated areas against extreme wildfires.",
     "The hidden truth about wave clouds: Kelvin-Helmholtz clouds, resembling breaking ocean waves, form when two distinct air layers move at different speeds, creating a shear instability where the faster-moving upper layer literally 'rolls' over the slower lower layer, often signaling atmospheric turbulence for aircraft.",
-    "How dark energy expands the observable universe cosmos #404"
+    "How dark energy expands the observable universe cosmos #404",
+    "Methane hydrate degassing events, a potent geophysics phenomenon, are now being re-examined as the primary scientific explanation for historical disappearances within the Bermuda Triangle, shifting focus from supernatural theories."
   ],
-  "subcluster_idx": 4,
-  "call_count": 94
+  "subcluster_idx": 0,
+  "call_count": 95
 }
