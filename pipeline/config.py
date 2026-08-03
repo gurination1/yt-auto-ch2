@@ -70,12 +70,14 @@ THUMBNAIL_LAYOUTS = [
 
 # topic sub-cluster rotation for Natural World Mysteries channel
 NATURAL_WORLD_SUBCLUSTERS = [
-    "deep ocean and marine biology",
-    "forest ecosystems and plant behavior",
-    "extreme weather and atmospheric phenomena",
-    "geology ancient earth and extreme environments",
-    "wild animal behavior and survival strategies",
+    "Deep Sea Mysteries and Unexplained Ocean Phenomena",
+    "Ancient Ruins and Lost Civilizations",
+    "Extreme Earth Phenomena and Geological Wonders",
+    "Forbidden Archaeology and Mysterious Artifacts",
+    "Bermuda Triangle and Cryptic Maritime Incidents"
 ]
+TOPIC_SUBCLUSTERS = NATURAL_WORLD_SUBCLUSTERS
+SCIENCE_SUBCLUSTERS = NATURAL_WORLD_SUBCLUSTERS
 
 YT_CATEGORY_EDUCATION = "27"
 YT_CATEGORY_SCIENCE   = "28"
