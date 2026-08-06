@@ -1,6 +1,5 @@
 {
   "topics": [
-    "What most people don't know about Black Walnut trees: They can create a 50-foot 'kill zone' around them by releasing juglone, a potent herbicide that suppresses over 100 plant species.",
     "What most people don't know about tornadoes: Less than 1% of all tornadoes rotate 'backward' (anticyclonically), defying the typical cyclonic spin of low-pressure systems.",
     "What most people don't know about Earth's first life: The oceans may have been purple due to widespread microbial life using retinal, predating green chlorophyll.",
     "The Amazonian spider *Taczanowskia waska* mimics a parasitic fungus, both in appearance and behavior, to evade predators and ambush prey.",
@@ -89,8 +88,9 @@
     "The hidden truth about wave clouds: Kelvin-Helmholtz clouds, resembling breaking ocean waves, form when two distinct air layers move at different speeds, creating a shear instability where the faster-moving upper layer literally 'rolls' over the slower lower layer, often signaling atmospheric turbulence for aircraft.",
     "How dark energy expands the observable universe cosmos #404",
     "Methane hydrate degassing events, a potent geophysics phenomenon, are now being re-examined as the primary scientific explanation for historical disappearances within the Bermuda Triangle, shifting focus from supernatural theories.",
-    "How the ocean \"exhales\" carbon into the deep: The Biological Carbon Pump's efficiency, driven by microbial processes and particulate organic carbon export, dictates how much atmospheric CO2 is sequestered for millennia, but its sensitivity to warming is still a mystery."
+    "How the ocean \"exhales\" carbon into the deep: The Biological Carbon Pump's efficiency, driven by microbial processes and particulate organic carbon export, dictates how much atmospheric CO2 is sequestered for millennia, but its sensitivity to warming is still a mystery.",
+    "A new quantum experiment reveals photons exhibiting \"negative dwell time,\" appearing to spend less than zero time inside a cloud of atoms, deepening the mystery of time's nature."
   ],
-  "subcluster_idx": 1,
-  "call_count": 96
+  "subcluster_idx": 2,
+  "call_count": 97
 }
