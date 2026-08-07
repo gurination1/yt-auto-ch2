@@ -1,6 +1,5 @@
 {
   "topics": [
-    "What most people don't know about dust storms: Sahara Desert dust, packed with phosphorus, travels 5,000 miles across the Atlantic to fertilize the Amazon rainforest annually.",
     "What most people don't know about Earth's ancient volcanoes: For 2.5 billion years, Earth produced lavas called komatiites that flowed at over 1600\u00b0C, hundreds of degrees hotter than any modern eruption.",
     "Animals use sophisticated communication to cooperate across different species, coordinating behaviors like finding food or avoiding predators.",
     "What most people don't know about deep-sea gigantism: The Japanese spider crab (*Macrocheira kaempferi*) can have a 12-foot leg span and live over 100 years due to its extremely slow metabolism.",
@@ -89,8 +88,9 @@
     "Quantum Teleportation Breakthrough Physics #1786071075",
     "Alibaba's Qwen3.8-Max AI reportedly codes for over ten days straight, marking a significant leap in autonomous AI development.",
     "Neutron Star Density Mysteries Astrophysics #1786077552",
-    "How the Casimir effect reveals that \"empty\" space is actually teeming with virtual particles, which create a measurable force that can push uncharged metal plates together."
+    "How the Casimir effect reveals that \"empty\" space is actually teeming with virtual particles, which create a measurable force that can push uncharged metal plates together.",
+    "Solar Wind Cosmic Shields Science #1786090736"
   ],
-  "subcluster_idx": 2,
-  "call_count": 102
+  "subcluster_idx": 3,
+  "call_count": 103
 }
