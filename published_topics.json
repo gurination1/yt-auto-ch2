@@ -1,6 +1,5 @@
 {
   "topics": [
-    "What most people don't know about plant senses: The Evening Primrose (*Oenothera biennis*) can \"hear\" the specific wing vibrations of pollinators, increasing its nectar output by 20% within 3 minutes.",
     "What most people don't know about dust storms: Sahara Desert dust, packed with phosphorus, travels 5,000 miles across the Atlantic to fertilize the Amazon rainforest annually.",
     "What most people don't know about Earth's ancient volcanoes: For 2.5 billion years, Earth produced lavas called komatiites that flowed at over 1600\u00b0C, hundreds of degrees hotter than any modern eruption.",
     "Animals use sophisticated communication to cooperate across different species, coordinating behaviors like finding food or avoiding predators.",
@@ -89,8 +88,9 @@
     "A novel cell-inspired nanoreactor efficiently produces hydrogen peroxide using only visible light, mimicking living cells' energy conversion for cleaner chemical manufacturing.",
     "Quantum Teleportation Breakthrough Physics #1786071075",
     "Alibaba's Qwen3.8-Max AI reportedly codes for over ten days straight, marking a significant leap in autonomous AI development.",
-    "Neutron Star Density Mysteries Astrophysics #1786077552"
+    "Neutron Star Density Mysteries Astrophysics #1786077552",
+    "How the Casimir effect reveals that \"empty\" space is actually teeming with virtual particles, which create a measurable force that can push uncharged metal plates together."
   ],
-  "subcluster_idx": 1,
-  "call_count": 101
+  "subcluster_idx": 2,
+  "call_count": 102
 }
