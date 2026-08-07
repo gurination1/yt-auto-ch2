@@ -1,6 +1,5 @@
 {
   "topics": [
-    "What most people don't know about deep-sea gigantism: The Japanese spider crab (*Macrocheira kaempferi*) can have a 12-foot leg span and live over 100 years due to its extremely slow metabolism.",
     "What most people don't know about plant movement: The Telegraph Plant (*Codariocalyx motorius*) has tiny side leaflets that continuously rotate in elliptical patterns, completing a full cycle in under 10 minutes, driven by an internal clock, not external touch.",
     "What most people don't know about supercooled clouds: Water droplets can remain liquid at temperatures as low as -40\u00b0C (-40\u00b0F), forming 'supercooled liquid clouds' that pose a severe icing hazard to aircraft and are critical for initiating precipitation.",
     "What most people don't know about Earth's ancient magnetic field: For billions of years, the geodynamo was 5-10 times weaker than today, yet protected early life from solar radiation 3.45 billion years ago.",
@@ -89,8 +88,9 @@
     "How the Casimir effect reveals that \"empty\" space is actually teeming with virtual particles, which create a measurable force that can push uncharged metal plates together.",
     "Solar Wind Cosmic Shields Science #1786090736",
     "AI-Generated Viruses: Unveiling New Therapeutic Frontiers and Biosecurity Challenges",
-    "How dark energy expands the observable universe cosmos #13"
+    "How dark energy expands the observable universe cosmos #13",
+    "Astronomers are captivated by the discovery of a dormant supermassive black hole wandering 30,000 light-years from its host galaxy's center, only revealed by its dramatic shredding of a passing star, challenging long-held assumptions about galactic core black holes."
   ],
-  "subcluster_idx": 0,
-  "call_count": 105
+  "subcluster_idx": 1,
+  "call_count": 106
 }
