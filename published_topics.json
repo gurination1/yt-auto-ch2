@@ -1,6 +1,5 @@
 {
   "topics": [
-    "What most people don't know about plant movement: The Telegraph Plant (*Codariocalyx motorius*) has tiny side leaflets that continuously rotate in elliptical patterns, completing a full cycle in under 10 minutes, driven by an internal clock, not external touch.",
     "What most people don't know about supercooled clouds: Water droplets can remain liquid at temperatures as low as -40\u00b0C (-40\u00b0F), forming 'supercooled liquid clouds' that pose a severe icing hazard to aircraft and are critical for initiating precipitation.",
     "What most people don't know about Earth's ancient magnetic field: For billions of years, the geodynamo was 5-10 times weaker than today, yet protected early life from solar radiation 3.45 billion years ago.",
     "Even occasional visits from mountain lions can trigger powerful 'trophic cascades' that reshape entire suburban ecosystems, changing deer activity, plant growth, and other predator populations.",
@@ -89,8 +88,9 @@
     "Solar Wind Cosmic Shields Science #1786090736",
     "AI-Generated Viruses: Unveiling New Therapeutic Frontiers and Biosecurity Challenges",
     "How dark energy expands the observable universe cosmos #13",
-    "Astronomers are captivated by the discovery of a dormant supermassive black hole wandering 30,000 light-years from its host galaxy's center, only revealed by its dramatic shredding of a passing star, challenging long-held assumptions about galactic core black holes."
+    "Astronomers are captivated by the discovery of a dormant supermassive black hole wandering 30,000 light-years from its host galaxy's center, only revealed by its dramatic shredding of a passing star, challenging long-held assumptions about galactic core black holes.",
+    "New collider experiments are providing intriguing hints that the mysterious X(2370) particle could be a 'glueball-dominated' entity, a theoretical particle made almost entirely of the strong nuclear force's carriers, offering a rare glimpse into the pure dynamics of fundamental interactions."
   ],
-  "subcluster_idx": 1,
-  "call_count": 106
+  "subcluster_idx": 2,
+  "call_count": 107
 }
