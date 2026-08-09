@@ -1,6 +1,5 @@
 {
   "topics": [
-    "What most people don't know about Earth's earliest geology: For its first 1.5 billion years, Earth likely lacked true plate tectonics, instead operating under a 'stagnant lid' regime where the crust did not subduct, leading to a much hotter mantle and different surface dynamics.",
     "Extreme heat causes cognitive impairment and aggression in wild animals, impacting their survival strategies.",
     "What most people don't know about deep-sea defense mechanisms: The *Vampire Squid* (*Vampyroteuthis infernalis*) doesn't release traditional ink, but rather a cloud of sticky, bioluminescent mucus containing hundreds of light-producing spheres to confuse predators.",
     "What most people don't know about plant memory: The model plant *Arabidopsis thaliana* can pass on acquired stress resilience (e.g., to drought or cold) to its offspring for up to four generations through specific epigenetic modifications.",
@@ -89,8 +88,9 @@
     "Humanoid robots are transitioning from lab curiosities to agile, mass-producible machines performing complex tasks, including advanced martial arts routines.",
     "How 'hot Jupiter' exoplanets, such as WASP-121b, can experience atmospheric conditions so extreme that specific high-temperature minerals, like corundum, vaporize and then condense to create actual rain made of liquid rubies and sapphires in their upper atmospheres.",
     "Quantum heat waves have been observed moving through a crystal at room temperature in focused, wave-like rays, challenging the traditional understanding of heat dissipation and offering a potential breakthrough for thermal management in next-generation electronics.",
-    "A groundbreaking 'metacrystal' made of carved gold film has enabled the first room-temperature quantum material to sort and transport distinct quantum states of light, potentially eliminating the need for bulky, ultra-cold refrigeration in future quantum technologies."
+    "A groundbreaking 'metacrystal' made of carved gold film has enabled the first room-temperature quantum material to sort and transport distinct quantum states of light, potentially eliminating the need for bulky, ultra-cold refrigeration in future quantum technologies.",
+    "How some CRISPR-Cas systems act as a 'molecular shredder,' non-specifically cleaving all surrounding genetic material once a target RNA/DNA is detected, forming the basis for ultra-sensitive diagnostics like SHERLOCK."
   ],
-  "subcluster_idx": 3,
-  "call_count": 113
+  "subcluster_idx": 4,
+  "call_count": 114
 }
