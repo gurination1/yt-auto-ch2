@@ -1,6 +1,5 @@
 {
   "topics": [
-    "Deep-sea microbes thrive in extremely alkaline (pH 12) environments, challenging assumptions about life's limits and potential origins.",
     "Trees use electrical signals, not just fungi, to anticipate events like solar eclipses.",
     "What most people don't know about polar stratospheric clouds: They form only at extremely low temperatures, below -78\u00b0C (-108\u00b0F), and are crucial for triggering ozone depletion in the Arctic and Antarctic.",
     "Recent discovery of complex animal ecosystems thriving within the Earth's deep crust beneath the seafloor, challenging prior beliefs about the limits of subsurface life.",
@@ -89,8 +88,9 @@
     "How singing sand dunes actually work: The bizarre phenomenon is caused by a specific shear-induced acoustic resonance where a uniform layer of dry sand grains slides over a stable layer, generating frequencies from 70 to 400 Hz.",
     "Corals generate microscopic oxygen vortices, revealing a hidden survival mechanism vulnerable to warming oceans.",
     "The World Meteorological Organization warns that a rapidly strengthening El Ni\u00f1o, with record-warm Pacific waters, is poised to intensify extreme weather, posing an unprecedented threat to the Amazon rainforest's already weakened ecosystems through drought and wildfires.",
-    "How monarch butterflies navigate 3,000 miles: They use a time-compensated sun compass, but also detect polarized light through specialized cryptochrome proteins in their antennae, providing a crucial compass even on cloudy days."
+    "How monarch butterflies navigate 3,000 miles: They use a time-compensated sun compass, but also detect polarized light through specialized cryptochrome proteins in their antennae, providing a crucial compass even on cloudy days.",
+    "The reintroduction of wolves to Isle Royale National Park has dramatically reshaped the island's ecosystem, with wolf populations recovering and moose numbers responding to renewed predation, offering a compelling case study of apex predator impact."
   ],
-  "subcluster_idx": 3,
-  "call_count": 120
+  "subcluster_idx": 4,
+  "call_count": 121
 }
