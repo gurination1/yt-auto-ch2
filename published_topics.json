@@ -1,6 +1,5 @@
 {
   "topics": [
-    "Early Earth's Dynamic Crust: A recent breakthrough reveals that Earth's continental crust began forming and undergoing subduction-like processes much earlier than previously believed, challenging the long-held 'stagnant lid' hypothesis for our planet's infancy.",
     "What most people don't know about homing pigeons: They can detect changes in Earth's magnetic field as small as 10 nanoteslas, allowing navigation over hundreds of miles.",
     "Deep-sea microbes thrive in extremely alkaline (pH 12) environments, challenging assumptions about life's limits and potential origins.",
     "Trees use electrical signals, not just fungi, to anticipate events like solar eclipses.",
@@ -89,8 +88,9 @@
     "The Viral Sahara Tortoise 'Greening' Hoax Debunked",
     "New research reveals that the decentralized decision-making of ant colonies is providing a revolutionary blueprint for next-generation swarm robotics.",
     "How singing sand dunes actually work: The bizarre phenomenon is caused by a specific shear-induced acoustic resonance where a uniform layer of dry sand grains slides over a stable layer, generating frequencies from 70 to 400 Hz.",
-    "Corals generate microscopic oxygen vortices, revealing a hidden survival mechanism vulnerable to warming oceans."
+    "Corals generate microscopic oxygen vortices, revealing a hidden survival mechanism vulnerable to warming oceans.",
+    "The World Meteorological Organization warns that a rapidly strengthening El Ni\u00f1o, with record-warm Pacific waters, is poised to intensify extreme weather, posing an unprecedented threat to the Amazon rainforest's already weakened ecosystems through drought and wildfires."
   ],
-  "subcluster_idx": 1,
-  "call_count": 118
+  "subcluster_idx": 2,
+  "call_count": 119
 }
