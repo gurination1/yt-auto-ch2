@@ -1,6 +1,5 @@
 {
   "topics": [
-    "What most people don't know about pistol shrimp: Its claw snaps so fast it creates a bubble that briefly reaches 5,000 Kelvin (hotter than the sun's surface) and generates a sound louder than a jet engine (up to 218 decibels).",
     "New research suggests plants possess a rudimentary ability to \"count\" and learn patterns, challenging traditional views of plant intelligence.",
     "The mysterious 'candilazo' phenomenon turning Caracas skies blood-red after recent seismic activity.",
     "What most people don't know about Earth's inner core: It's not uniformly solid; its western hemisphere appears to be growing differently from its eastern, with iron crystals aligned along distinct axes, creating a complex, anisotropic structure.",
@@ -89,8 +88,9 @@
     "Urban Wildlife Encounters Amidst Extreme Weather: The recent viral sighting of a Burmese python in a Hong Kong shopping district highlights how climate-driven downpours and habitat disruption are forcing wild animals into urban environments, increasing human-wildlife conflict and revealing the shrinking boundaries of natural habitats.",
     "How ant colonies prevent disease outbreaks: Ants detect dead nestmates using specific \"death pheromones,\" primarily oleic acid, which triggers **necrophoresis** behavior, causing workers to quickly remove deceased individuals from the nest to maintain hygiene.",
     "How dark energy expands the observable universe cosmos #560",
-    "How dark energy expands the observable universe cosmos #438"
+    "How dark energy expands the observable universe cosmos #438",
+    "How some rainforest trees directly absorb nutrients from the air: The bizarre mechanism of 'canopy roots' allows certain trees to grow adventitious roots upwards into aerial moss mats and detritus, bypassing nutrient-poor soil entirely to capture nutrients from rainwater and decaying organic matter."
   ],
-  "subcluster_idx": 1,
-  "call_count": 125
+  "subcluster_idx": 2,
+  "call_count": 126
 }
