@@ -1,6 +1,5 @@
 {
   "topics": [
-    "The three-legged deer adopting fawns: A testament to maternal resilience in the wild.",
     "What most people don't know about pistol shrimp: Its claw snaps so fast it creates a bubble that briefly reaches 5,000 Kelvin (hotter than the sun's surface) and generates a sound louder than a jet engine (up to 218 decibels).",
     "New research suggests plants possess a rudimentary ability to \"count\" and learn patterns, challenging traditional views of plant intelligence.",
     "The mysterious 'candilazo' phenomenon turning Caracas skies blood-red after recent seismic activity.",
@@ -89,8 +88,9 @@
     "The reintroduction of wolves to Isle Royale National Park has dramatically reshaped the island's ecosystem, with wolf populations recovering and moose numbers responding to renewed predation, offering a compelling case study of apex predator impact.",
     "Urban Wildlife Encounters Amidst Extreme Weather: The recent viral sighting of a Burmese python in a Hong Kong shopping district highlights how climate-driven downpours and habitat disruption are forcing wild animals into urban environments, increasing human-wildlife conflict and revealing the shrinking boundaries of natural habitats.",
     "How ant colonies prevent disease outbreaks: Ants detect dead nestmates using specific \"death pheromones,\" primarily oleic acid, which triggers **necrophoresis** behavior, causing workers to quickly remove deceased individuals from the nest to maintain hygiene.",
-    "How dark energy expands the observable universe cosmos #560"
+    "How dark energy expands the observable universe cosmos #560",
+    "How dark energy expands the observable universe cosmos #438"
   ],
-  "subcluster_idx": 0,
-  "call_count": 124
+  "subcluster_idx": 1,
+  "call_count": 125
 }
