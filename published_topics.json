@@ -1,6 +1,5 @@
 {
   "topics": [
-    "What most people don't know about Earth's inner core: It's not uniformly solid; its western hemisphere appears to be growing differently from its eastern, with iron crystals aligned along distinct axes, creating a complex, anisotropic structure.",
     "AI is decoding complex animal communication, hinting at future interspecies conversations.",
     "Expedition uncovers 31 new marine species in the South Atlantic, including a fast-moving gossamer worm and previously undescribed jellyfish, comb jellies, and siphonophores.",
     "What most people don't know about forest soil: A single teaspoon of healthy forest soil can contain more microorganisms than there are people on Earth, including over 10,000 species of bacteria and fungi.",
@@ -89,8 +88,9 @@
     "How dark energy expands the observable universe cosmos #438",
     "How some rainforest trees directly absorb nutrients from the air: The bizarre mechanism of 'canopy roots' allows certain trees to grow adventitious roots upwards into aerial moss mats and detritus, bypassing nutrient-poor soil entirely to capture nutrients from rainwater and decaying organic matter.",
     "Recently released, jaw-dropping viral videos capture the high-stakes, perilous Mara River crossing during the Great Wildebeest Migration, showcasing the brutal yet essential predator-prey dynamics in one of nature's most dramatic spectacles.",
-    "A viral video from India's Tadoba-Andhari Tiger Reserve sparks outrage, highlighting the dangerous breakdown of safety protocols as tourists directly confront an apex predator, raising urgent questions about wildlife tourism ethics."
+    "A viral video from India's Tadoba-Andhari Tiger Reserve sparks outrage, highlighting the dangerous breakdown of safety protocols as tourists directly confront an apex predator, raising urgent questions about wildlife tourism ethics.",
+    "How ocean acidification disrupts the *otolith calcification* process in fish, leading to sensory impairment that can \"deafen\" them and hinder their ability to avoid predators or find suitable habitats."
   ],
-  "subcluster_idx": 4,
-  "call_count": 128
+  "subcluster_idx": 5,
+  "call_count": 129
 }
