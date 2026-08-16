@@ -1,6 +1,5 @@
 {
   "topics": [
-    "What most people don't know about the African Lungfish: It can survive 3-5 years without food or water by burying itself in mud, slowing its metabolism to 1/60th of normal, and breathing air through a cocoon of dried mucus.",
     "California's electric-blue glowing beaches: a dazzling natural light show explained.",
     "Global mangrove forests are recovering, but rising sea levels threaten to drown them.",
     "What most people don't know about noctilucent clouds: They are the highest clouds on Earth, forming at 80-85 km (50-53 miles) in the mesosphere, and are made of ice crystals that require temperatures as low as -160\u00b0C.",
@@ -89,8 +88,9 @@
     "New research reveals the iconic Stonehenge 'altar stone' was transported over 460 miles from Scotland, challenging historical understanding of ancient transport capabilities.",
     "How deep-sea creatures actually keep their proteins from crushing under immense pressure using specialized organic molecules.",
     "Colobus Congoensis: Mysterious New Monkey Species Discovered in Congo's Dense Rainforests with Striking Orange Mouth",
-    "How dark energy expands the observable universe cosmos #657"
+    "How dark energy expands the observable universe cosmos #657",
+    "How pit vipers, like rattlesnakes, don't just 'sense' heat, but actually create a detailed thermal image of their prey in their brain by integrating signals from their **pit organs** with visual input, essentially giving them a sixth sense for infrared vision."
   ],
-  "subcluster_idx": 3,
-  "call_count": 134
+  "subcluster_idx": 4,
+  "call_count": 135
 }
