@@ -1,6 +1,5 @@
 {
   "topics": [
-    "The Andean leaf-eared mouse's extreme high-altitude survival, including detoxifying poisonous plants.",
     "What most people don't know about deep-sea energy: Some hydrothermal vent communities are powered not by sulfur-eating bacteria, but by methane-oxidizing archaea living symbiotically inside Bathymodiolus mussels.",
     "China's Planted Forests Show Surprising Recovery Speed Over Natural Forests After Extreme Heat",
     "Massive Saharan dust plume blankets Gulf Coast, creating hazy skies and high heat.",
@@ -89,8 +88,9 @@
     "Ancient Warming Event Reveals Future of Forest Collapse: A new *Science* study warns modern forests face unprecedented thinning, mimicking a 56-million-year-old climate crisis but at ten times the speed.",
     "How dark energy expands the observable universe cosmos #241",
     "How the ocean's \"sea sparkle\" is actually a complex cellular defense mechanism in dinoflagellates, where mechanical agitation triggers a **scintillon-based luciferin-luciferase reaction** to emit light, startling predators.",
-    "The creation of \"cybertypes\" using advanced underwater imaging, robotics, and genomic sequencing is revolutionizing deep-sea animal study, allowing scientists to capture full genetic and physiological data of delicate organisms in their natural habitat."
+    "The creation of \"cybertypes\" using advanced underwater imaging, robotics, and genomic sequencing is revolutionizing deep-sea animal study, allowing scientists to capture full genetic and physiological data of delicate organisms in their natural habitat.",
+    "Rainforest biodiversity rebounds within a single generation, driven by key animal species."
   ],
-  "subcluster_idx": 1,
-  "call_count": 139
+  "subcluster_idx": 2,
+  "call_count": 140
 }
