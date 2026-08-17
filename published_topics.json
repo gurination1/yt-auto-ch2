@@ -1,6 +1,5 @@
 {
   "topics": [
-    "Earth's core is secretly pushing ancient gold upward through mantle plumes, as revealed by shocking clues hidden inside Hawaiian volcanic rocks.",
     "The Andean leaf-eared mouse's extreme high-altitude survival, including detoxifying poisonous plants.",
     "What most people don't know about deep-sea energy: Some hydrothermal vent communities are powered not by sulfur-eating bacteria, but by methane-oxidizing archaea living symbiotically inside Bathymodiolus mussels.",
     "China's Planted Forests Show Surprising Recovery Speed Over Natural Forests After Extreme Heat",
@@ -89,8 +88,9 @@
     "How pit vipers, like rattlesnakes, don't just 'sense' heat, but actually create a detailed thermal image of their prey in their brain by integrating signals from their **pit organs** with visual input, essentially giving them a sixth sense for infrared vision.",
     "Ancient Warming Event Reveals Future of Forest Collapse: A new *Science* study warns modern forests face unprecedented thinning, mimicking a 56-million-year-old climate crisis but at ten times the speed.",
     "How dark energy expands the observable universe cosmos #241",
-    "How the ocean's \"sea sparkle\" is actually a complex cellular defense mechanism in dinoflagellates, where mechanical agitation triggers a **scintillon-based luciferin-luciferase reaction** to emit light, startling predators."
+    "How the ocean's \"sea sparkle\" is actually a complex cellular defense mechanism in dinoflagellates, where mechanical agitation triggers a **scintillon-based luciferin-luciferase reaction** to emit light, startling predators.",
+    "The creation of \"cybertypes\" using advanced underwater imaging, robotics, and genomic sequencing is revolutionizing deep-sea animal study, allowing scientists to capture full genetic and physiological data of delicate organisms in their natural habitat."
   ],
-  "subcluster_idx": 0,
-  "call_count": 138
+  "subcluster_idx": 1,
+  "call_count": 139
 }
