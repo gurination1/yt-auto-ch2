@@ -1,6 +1,5 @@
 {
   "topics": [
-    "Massive Saharan dust plume blankets Gulf Coast, creating hazy skies and high heat.",
     "What most people don't know about Earth's ancient skies: For millions of years during the Archean Eon, Earth's atmosphere was so rich in methane that the sky likely appeared an eerie orange or red, not blue, due to a thick organic haze.",
     "Turkey Vulture's Extreme Survival Tactics: Vomiting and Urohydrosis",
     "An international team discovered 31 new marine species, including a fast-moving gossamer worm and previously undescribed jellyfish, comb jellies, and siphonophores, during a two-week expedition in the midwater zone off the coast of Brazil.",
@@ -89,8 +88,9 @@
     "The creation of \"cybertypes\" using advanced underwater imaging, robotics, and genomic sequencing is revolutionizing deep-sea animal study, allowing scientists to capture full genetic and physiological data of delicate organisms in their natural habitat.",
     "Rainforest biodiversity rebounds within a single generation, driven by key animal species.",
     "How Arctic Terns navigate the longest migration on Earth by essentially \"turning off\" their internal clock: During their 49,000-mile annual journey, they suppress their **circadian rhythm** through **light-induced clock gene repression**, maximizing foraging time under continuous polar daylight.",
-    "Arctic's vanishing sea ice is forcing polar bears to increasingly prey on vulnerable seabird colonies, leading to unprecedented ecosystem disruption."
+    "Arctic's vanishing sea ice is forcing polar bears to increasingly prey on vulnerable seabird colonies, leading to unprecedented ecosystem disruption.",
+    "Despite a brief recovery on parts of the Great Barrier Reef due to recent monsoons, scientists warn its long-term vulnerability to mass bleaching events remains high, with the latest global event being the most extensive on record."
   ],
-  "subcluster_idx": 4,
-  "call_count": 142
+  "subcluster_idx": 5,
+  "call_count": 143
 }
