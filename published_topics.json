@@ -1,6 +1,5 @@
 {
   "topics": [
-    "An international team discovered 31 new marine species, including a fast-moving gossamer worm and previously undescribed jellyfish, comb jellies, and siphonophores, during a two-week expedition in the midwater zone off the coast of Brazil.",
     "What most people don't know about wetland plants: Rice paddies can emit up to 10% of global agricultural methane, with each *Oryza sativa* plant actively pumping the gas from the soil through specialized tissues called aerenchyma.",
     "Super Typhoon Bavi's Rapid Intensification Fueled by Global Marine Heatwaves",
     "Archaeologists Uncover Ancient Byzantine City and Tombs with 'Golden Tongues' in Egyptian Desert",
@@ -89,8 +88,9 @@
     "Arctic's vanishing sea ice is forcing polar bears to increasingly prey on vulnerable seabird colonies, leading to unprecedented ecosystem disruption.",
     "Despite a brief recovery on parts of the Great Barrier Reef due to recent monsoons, scientists warn its long-term vulnerability to mass bleaching events remains high, with the latest global event being the most extensive on record.",
     "How the giant termite mounds of Africa function as sophisticated, self-regulating ventilation systems, using intricate tunnel networks and the principles of *convection currents* to maintain stable internal temperature and humidity for the colony.",
-    "Yellowstone's dramatic hydrothermal explosion creates new boiling pool, reshaping the landscape overnight."
+    "Yellowstone's dramatic hydrothermal explosion creates new boiling pool, reshaping the landscape overnight.",
+    "The Labrador Sea's newly recognized critical role in supplying oxygen to vast deep-sea North Atlantic ecosystems is fundamentally reshaping oceanographic understanding."
   ],
-  "subcluster_idx": 0,
-  "call_count": 145
+  "subcluster_idx": 1,
+  "call_count": 146
 }
