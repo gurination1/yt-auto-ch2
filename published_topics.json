@@ -1,6 +1,5 @@
 {
   "topics": [
-    "Turkey Vulture's Extreme Survival Tactics: Vomiting and Urohydrosis",
     "An international team discovered 31 new marine species, including a fast-moving gossamer worm and previously undescribed jellyfish, comb jellies, and siphonophores, during a two-week expedition in the midwater zone off the coast of Brazil.",
     "What most people don't know about wetland plants: Rice paddies can emit up to 10% of global agricultural methane, with each *Oryza sativa* plant actively pumping the gas from the soil through specialized tissues called aerenchyma.",
     "Super Typhoon Bavi's Rapid Intensification Fueled by Global Marine Heatwaves",
@@ -89,8 +88,9 @@
     "How Arctic Terns navigate the longest migration on Earth by essentially \"turning off\" their internal clock: During their 49,000-mile annual journey, they suppress their **circadian rhythm** through **light-induced clock gene repression**, maximizing foraging time under continuous polar daylight.",
     "Arctic's vanishing sea ice is forcing polar bears to increasingly prey on vulnerable seabird colonies, leading to unprecedented ecosystem disruption.",
     "Despite a brief recovery on parts of the Great Barrier Reef due to recent monsoons, scientists warn its long-term vulnerability to mass bleaching events remains high, with the latest global event being the most extensive on record.",
-    "How the giant termite mounds of Africa function as sophisticated, self-regulating ventilation systems, using intricate tunnel networks and the principles of *convection currents* to maintain stable internal temperature and humidity for the colony."
+    "How the giant termite mounds of Africa function as sophisticated, self-regulating ventilation systems, using intricate tunnel networks and the principles of *convection currents* to maintain stable internal temperature and humidity for the colony.",
+    "Yellowstone's dramatic hydrothermal explosion creates new boiling pool, reshaping the landscape overnight."
   ],
-  "subcluster_idx": 6,
-  "call_count": 144
+  "subcluster_idx": 0,
+  "call_count": 145
 }
