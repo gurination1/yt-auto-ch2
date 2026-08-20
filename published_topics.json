@@ -1,6 +1,5 @@
 {
   "topics": [
-    "What most people don't know about wetland plants: Rice paddies can emit up to 10% of global agricultural methane, with each *Oryza sativa* plant actively pumping the gas from the soil through specialized tissues called aerenchyma.",
     "Super Typhoon Bavi's Rapid Intensification Fueled by Global Marine Heatwaves",
     "Archaeologists Uncover Ancient Byzantine City and Tombs with 'Golden Tongues' in Egyptian Desert",
     "What most people don't know about honeypot ants: They transform specific worker ants into living, grape-sized food storage units, filled with nectar and water for the colony's survival during lean times.",
@@ -89,8 +88,9 @@
     "Despite a brief recovery on parts of the Great Barrier Reef due to recent monsoons, scientists warn its long-term vulnerability to mass bleaching events remains high, with the latest global event being the most extensive on record.",
     "How the giant termite mounds of Africa function as sophisticated, self-regulating ventilation systems, using intricate tunnel networks and the principles of *convection currents* to maintain stable internal temperature and humidity for the colony.",
     "Yellowstone's dramatic hydrothermal explosion creates new boiling pool, reshaping the landscape overnight.",
-    "The Labrador Sea's newly recognized critical role in supplying oxygen to vast deep-sea North Atlantic ecosystems is fundamentally reshaping oceanographic understanding."
+    "The Labrador Sea's newly recognized critical role in supplying oxygen to vast deep-sea North Atlantic ecosystems is fundamentally reshaping oceanographic understanding.",
+    "How *Passiflora* vines actually work to avoid herbivory: They employ \"Batesian mimicry\" by growing specialized yellow stipules or nectaries on their leaves that precisely mimic the eggs of *Heliconius* butterflies, tricking egg-laying females into believing the plant is already occupied and deterring them from laying their own."
   ],
-  "subcluster_idx": 1,
-  "call_count": 146
+  "subcluster_idx": 2,
+  "call_count": 147
 }
