@@ -1,6 +1,5 @@
 {
   "topics": [
-    "Microplastics now pervade even the most isolated deep-sea hydrothermal vent ecosystems, contaminating 92% of sampled animals living two kilometers below the surface, revealing the global reach of plastic pollution.",
     "Invasive plants become 91% more productive in non-native habitats due to escaping natural enemies, profoundly altering new ecosystems.",
     "The hidden truth about deserts: Despite being defined by extreme aridity, parts of the Sonoran Desert receive 30% of their annual rainfall as violent summer monsoons, leading to sudden, powerful flash floods that are vital for native species like the Saguaro cactus.",
     "The immortal jellyfish that resets its own age",
@@ -89,8 +88,9 @@
     "How *Passiflora* vines actually work to avoid herbivory: They employ \"Batesian mimicry\" by growing specialized yellow stipules or nectaries on their leaves that precisely mimic the eggs of *Heliconius* butterflies, tricking egg-laying females into believing the plant is already occupied and deterring them from laying their own.",
     "Recent viral videos are highlighting how tourist vehicles are directly impeding the Great Wildebeest Migration in Kenya's Maasai Mara, prompting urgent calls from national park rangers and the Ministry of Tourism for immediate action to protect the natural flow of this critical event.",
     "Discovery of a Giant Phantom Jellyfish (Stygiomedusa gigantea), a rarely seen deep-sea predator with 10-meter long arms, in a newly explored Antarctic ecosystem.",
-    "What if rising temperatures caused entire turtle populations to become 99% female, threatening their survival through the mechanism of **Temperature-Dependent Sex Determination (TSD)**?"
+    "What if rising temperatures caused entire turtle populations to become 99% female, threatening their survival through the mechanism of **Temperature-Dependent Sex Determination (TSD)**?",
+    "AI-powered robotic beehives are revolutionizing apiculture, deploying automated systems to monitor colony health, predict threats like disease and pests, and improve pollination efficiency, offering a critical technological solution to the global decline in bee populations."
   ],
-  "subcluster_idx": 5,
-  "call_count": 150
+  "subcluster_idx": 6,
+  "call_count": 151
 }
