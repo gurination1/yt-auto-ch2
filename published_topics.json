@@ -1,6 +1,5 @@
 {
   "topics": [
-    "The immortal jellyfish that resets its own age",
     "Scientists are using air filters to collect environmental DNA (eDNA) to track wildlife, even identifying specific populations.",
     "The hidden truth about deep-sea camouflage: The Hatchetfish uses bioluminescence for 'counter-illumination,' precisely matching the faint sunlight filtering down from 200-1000 meters to become invisible.",
     "Human sounds disrupt vital forest nutrient cycles by altering wildlife behavior near salmon streams.",
@@ -89,8 +88,9 @@
     "What if rising temperatures caused entire turtle populations to become 99% female, threatening their survival through the mechanism of **Temperature-Dependent Sex Determination (TSD)**?",
     "AI-powered robotic beehives are revolutionizing apiculture, deploying automated systems to monitor colony health, predict threats like disease and pests, and improve pollination efficiency, offering a critical technological solution to the global decline in bee populations.",
     "Heightened seismic and volcanic unrest detected across North America's West Coast, with ongoing monitoring revealing increased activity in the Cascadia Subduction Zone, Yellowstone, California's fault network, and the Cascade Range volcanoes, including recent earthquake swarms and ground deformation.",
-    "How deep-sea anglerfish can regenerate their bioluminescent esca (lure) and re-establish a symbiotic relationship with light-producing bacteria after damage, ensuring continuous hunting in perpetual darkness."
+    "How deep-sea anglerfish can regenerate their bioluminescent esca (lure) and re-establish a symbiotic relationship with light-producing bacteria after damage, ensuring continuous hunting in perpetual darkness.",
+    "The unexpected discovery of a kinkajou, a rainforest mammal, found roaming in North Texas heat, sparks a critical discussion about exotic pet trade and animal welfare."
   ],
-  "subcluster_idx": 1,
-  "call_count": 153
+  "subcluster_idx": 2,
+  "call_count": 154
 }
