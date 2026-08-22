@@ -1,6 +1,5 @@
 {
   "topics": [
-    "The hidden truth about deserts: Despite being defined by extreme aridity, parts of the Sonoran Desert receive 30% of their annual rainfall as violent summer monsoons, leading to sudden, powerful flash floods that are vital for native species like the Saguaro cactus.",
     "The immortal jellyfish that resets its own age",
     "Scientists are using air filters to collect environmental DNA (eDNA) to track wildlife, even identifying specific populations.",
     "The hidden truth about deep-sea camouflage: The Hatchetfish uses bioluminescence for 'counter-illumination,' precisely matching the faint sunlight filtering down from 200-1000 meters to become invisible.",
@@ -89,8 +88,9 @@
     "Discovery of a Giant Phantom Jellyfish (Stygiomedusa gigantea), a rarely seen deep-sea predator with 10-meter long arms, in a newly explored Antarctic ecosystem.",
     "What if rising temperatures caused entire turtle populations to become 99% female, threatening their survival through the mechanism of **Temperature-Dependent Sex Determination (TSD)**?",
     "AI-powered robotic beehives are revolutionizing apiculture, deploying automated systems to monitor colony health, predict threats like disease and pests, and improve pollination efficiency, offering a critical technological solution to the global decline in bee populations.",
-    "Heightened seismic and volcanic unrest detected across North America's West Coast, with ongoing monitoring revealing increased activity in the Cascadia Subduction Zone, Yellowstone, California's fault network, and the Cascade Range volcanoes, including recent earthquake swarms and ground deformation."
+    "Heightened seismic and volcanic unrest detected across North America's West Coast, with ongoing monitoring revealing increased activity in the Cascadia Subduction Zone, Yellowstone, California's fault network, and the Cascade Range volcanoes, including recent earthquake swarms and ground deformation.",
+    "How deep-sea anglerfish can regenerate their bioluminescent esca (lure) and re-establish a symbiotic relationship with light-producing bacteria after damage, ensuring continuous hunting in perpetual darkness."
   ],
-  "subcluster_idx": 0,
-  "call_count": 152
+  "subcluster_idx": 1,
+  "call_count": 153
 }
