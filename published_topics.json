@@ -1,6 +1,5 @@
 {
   "topics": [
-    "Scientists are using air filters to collect environmental DNA (eDNA) to track wildlife, even identifying specific populations.",
     "The hidden truth about deep-sea camouflage: The Hatchetfish uses bioluminescence for 'counter-illumination,' precisely matching the faint sunlight filtering down from 200-1000 meters to become invisible.",
     "Human sounds disrupt vital forest nutrient cycles by altering wildlife behavior near salmon streams.",
     "Tropical Storm Bertha's multi-pronged coastal threat as it approaches the US Gulf Coast.",
@@ -89,8 +88,9 @@
     "AI-powered robotic beehives are revolutionizing apiculture, deploying automated systems to monitor colony health, predict threats like disease and pests, and improve pollination efficiency, offering a critical technological solution to the global decline in bee populations.",
     "Heightened seismic and volcanic unrest detected across North America's West Coast, with ongoing monitoring revealing increased activity in the Cascadia Subduction Zone, Yellowstone, California's fault network, and the Cascade Range volcanoes, including recent earthquake swarms and ground deformation.",
     "How deep-sea anglerfish can regenerate their bioluminescent esca (lure) and re-establish a symbiotic relationship with light-producing bacteria after damage, ensuring continuous hunting in perpetual darkness.",
-    "The unexpected discovery of a kinkajou, a rainforest mammal, found roaming in North Texas heat, sparks a critical discussion about exotic pet trade and animal welfare."
+    "The unexpected discovery of a kinkajou, a rainforest mammal, found roaming in North Texas heat, sparks a critical discussion about exotic pet trade and animal welfare.",
+    "Emerging research indicates that behavioral flexibility in animals, such as changing foraging habits or seeking new microclimates, plays a more significant role than previously understood in slowing physical evolution, allowing species to adapt to rapid environmental shifts like climate change without immediate genetic alterations."
   ],
-  "subcluster_idx": 2,
-  "call_count": 154
+  "subcluster_idx": 3,
+  "call_count": 155
 }
