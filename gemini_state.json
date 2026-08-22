@@ -1,8 +1,14 @@
 {
   "0": {
-    "cooldown_until": 1787382000.620491,
-    "failures": 1,
+<<<<<<< HEAD
+    "cooldown_until": 1787385600.0,
+    "failures": 4,
+    "status": "daily_exhausted"
+=======
+    "cooldown_until": 0.0,
+    "failures": 0,
     "status": "active"
+>>>>>>> 3ea0e7f (fix: resolve gemini quota lockout, broll ranking bug, and black-screen assembly resilience [skip ci])
   },
   "1": {
     "cooldown_until": 0.0,
@@ -10,8 +16,8 @@
     "status": "active"
   },
   "2": {
-    "cooldown_until": 1787382000.9936585,
-    "failures": 1,
+    "cooldown_until": 0.0,
+    "failures": 0,
     "status": "active"
   },
   "3": {
@@ -20,8 +26,8 @@
     "status": "active"
   },
   "4": {
-    "cooldown_until": 1787382001.2280118,
-    "failures": 1,
+    "cooldown_until": 0.0,
+    "failures": 0,
     "status": "active"
   },
   "5": {
@@ -30,18 +36,18 @@
     "status": "active"
   },
   "6": {
-    "cooldown_until": 1787382001.5712295,
-    "failures": 1,
+    "cooldown_until": 0.0,
+    "failures": 0,
     "status": "active"
   },
   "7": {
-    "cooldown_until": 2101041089.2626593,
+    "cooldown_until": 2101038645.438908,
     "failures": 4,
     "status": "disabled"
   },
   "8": {
-    "cooldown_until": 1787382001.8808,
-    "failures": 1,
+    "cooldown_until": 0.0,
+    "failures": 0,
     "status": "active"
   },
   "9": {
@@ -50,8 +56,8 @@
     "status": "active"
   },
   "10": {
-    "cooldown_until": 1787382002.257068,
-    "failures": 1,
+    "cooldown_until": 0.0,
+    "failures": 0,
     "status": "active"
   },
   "11": {
@@ -65,7 +71,7 @@
     "status": "active"
   },
   "13": {
-    "cooldown_until": 2101126456.5879595,
+    "cooldown_until": 2101040598.208543,
     "failures": 4,
     "status": "disabled"
   },
