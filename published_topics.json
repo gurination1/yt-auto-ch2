@@ -1,6 +1,5 @@
 {
   "topics": [
-    "Extreme deep-sea pressure squeezes valuable nutrients from sinking marine snow, providing an unexpected food source for ocean microbes.",
     "The seeds of the Redstem Filaree (*Erodium cicutarium*) use hygroscopic awns that twist and untwist with humidity changes, actively drilling themselves up to 1 cm deep into the soil over several hours, ensuring optimal germination.",
     "The unprecedented atmospheric phenomenon of persistent heat domes trapping record-breaking temperatures across vast regions.",
     "Advanced underground scans have reportedly uncovered a hidden civilization beneath the Sahara Desert, revealing an ancient society isolated for millennia with unique architectural features and technologies.",
@@ -89,8 +88,9 @@
     "Southeast Asia's Choking Habitats: Indonesian Wildfires Ignite a Regional Haze Crisis, Threatening Biodiversity and Air Quality.",
     "Mariana Trench Abyssal Gigantism Creatures #834",
     "How some salt flats form perfect hexagons: The phenomenon is caused by a specific interplay of thermal contraction, expansion, and the crystallization of brine, leading to **ice-wedge polygon analogs** in salt crusts.",
-    "Rare oarfish sightings spark global 'doomsday' speculation, challenging scientific understanding of deep-sea creature behavior before geological events."
+    "Rare oarfish sightings spark global 'doomsday' speculation, challenging scientific understanding of deep-sea creature behavior before geological events.",
+    "Brazil's Atlantic Forest, once severely diminished, is experiencing a remarkable resurgence due to dedicated conservation efforts, with the successful reintroduction and monitored survival of iconic species like the golden lion tamarin signaling a powerful blueprint for ecosystem restoration."
   ],
-  "subcluster_idx": 1,
-  "call_count": 160
+  "subcluster_idx": 2,
+  "call_count": 161
 }
