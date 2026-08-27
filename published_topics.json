@@ -1,6 +1,5 @@
 {
   "topics": [
-    "Southern Right Whale mothers adopt an upside-down resting strategy to conserve energy and manage calf feeding.",
     "Extreme deep-sea pressure squeezes valuable nutrients from sinking marine snow, providing an unexpected food source for ocean microbes.",
     "The seeds of the Redstem Filaree (*Erodium cicutarium*) use hygroscopic awns that twist and untwist with humidity changes, actively drilling themselves up to 1 cm deep into the soil over several hours, ensuring optimal germination.",
     "The unprecedented atmospheric phenomenon of persistent heat domes trapping record-breaking temperatures across vast regions.",
@@ -89,8 +88,9 @@
     "How the mere scent of a predator, through **transgenerational epigenetic inheritance**, can cause physiological and behavioral changes in prey animals that persist for generations, even if descendants never encounter the predator.",
     "Southeast Asia's Choking Habitats: Indonesian Wildfires Ignite a Regional Haze Crisis, Threatening Biodiversity and Air Quality.",
     "Mariana Trench Abyssal Gigantism Creatures #834",
-    "How some salt flats form perfect hexagons: The phenomenon is caused by a specific interplay of thermal contraction, expansion, and the crystallization of brine, leading to **ice-wedge polygon analogs** in salt crusts."
+    "How some salt flats form perfect hexagons: The phenomenon is caused by a specific interplay of thermal contraction, expansion, and the crystallization of brine, leading to **ice-wedge polygon analogs** in salt crusts.",
+    "Rare oarfish sightings spark global 'doomsday' speculation, challenging scientific understanding of deep-sea creature behavior before geological events."
   ],
-  "subcluster_idx": 0,
-  "call_count": 159
+  "subcluster_idx": 1,
+  "call_count": 160
 }
