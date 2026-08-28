@@ -1,6 +1,5 @@
 {
   "topics": [
-    "The unprecedented atmospheric phenomenon of persistent heat domes trapping record-breaking temperatures across vast regions.",
     "Advanced underground scans have reportedly uncovered a hidden civilization beneath the Sahara Desert, revealing an ancient society isolated for millennia with unique architectural features and technologies.",
     "The hidden truth about naked mole-rats: These eusocial mammals (*Heterocephalus glaber*) live in colonies of up to 300 individuals led by a queen and possess an extraordinary resistance to cancer, attributed to a unique high-molecular-weight hyaluronan that prevents tumor growth, contributing to their lifespan of up to 32 years.",
     "Discovery of the largest and deepest whale graveyard ever found, stretching 750 miles across the ocean floor.",
@@ -89,8 +88,9 @@
     "How some salt flats form perfect hexagons: The phenomenon is caused by a specific interplay of thermal contraction, expansion, and the crystallization of brine, leading to **ice-wedge polygon analogs** in salt crusts.",
     "Rare oarfish sightings spark global 'doomsday' speculation, challenging scientific understanding of deep-sea creature behavior before geological events.",
     "Brazil's Atlantic Forest, once severely diminished, is experiencing a remarkable resurgence due to dedicated conservation efforts, with the successful reintroduction and monitored survival of iconic species like the golden lion tamarin signaling a powerful blueprint for ecosystem restoration.",
-    "Mycelium Fungal Underground Forest Networks #218"
+    "Mycelium Fungal Underground Forest Networks #218",
+    "A recent viral video captures a rare, dramatic encounter between a crocodile and a young elephant at a watering hole, showcasing the unexpected audacity of an ambush predator against formidable prey."
   ],
-  "subcluster_idx": 3,
-  "call_count": 162
+  "subcluster_idx": 4,
+  "call_count": 163
 }
