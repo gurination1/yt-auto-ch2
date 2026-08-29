@@ -1,6 +1,5 @@
 {
   "topics": [
-    "California's Post-Wildfire Reforestation Crisis and Ecosystem Shift",
     "The hidden truth about volcanic lightning: It's generated not by ice crystals, but by the friction of ash, rock fragments, and gas particles ejected during an eruption, with Chile's Calbuco eruption in 2015 producing thousands of bolts per minute.",
     "Scientists Discover Vast City of 60 Million Fish Nests Beneath Antarctic Ice Shelf",
     "New AI-powered camera trap analysis is dramatically accelerating the discovery of hidden behaviors and survival patterns in wild populations, turning months of data into days.",
@@ -89,8 +88,9 @@
     "A recent viral video captures a rare, dramatic encounter between a crocodile and a young elephant at a watering hole, showcasing the unexpected audacity of an ambush predator against formidable prey.",
     "Global temperature overshoot, even temporary, locking in irreversible biodiversity loss and ecosystem collapse, defying previous assumptions about recovery.",
     "How army ants construct dynamic, living bridges and rafts using their own bodies through a self-organizing process that optimizes for efficiency and traffic flow.",
-    "Hydrothermal Vent Chemosynthesis Life Ecosystems #326"
+    "Hydrothermal Vent Chemosynthesis Life Ecosystems #326",
+    "An expedition near Australia's Christmas and Cocos Islands uncovered 149 new deep-sea species, including a 'Shark Graveyard' containing ancient Megalodon teeth, revealing a massive gap in Indian Ocean biodiversity data."
   ],
-  "subcluster_idx": 0,
-  "call_count": 166
+  "subcluster_idx": 1,
+  "call_count": 167
 }
