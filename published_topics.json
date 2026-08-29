@@ -1,6 +1,5 @@
 {
   "topics": [
-    "Discovery of the largest and deepest whale graveyard ever found, stretching 750 miles across the ocean floor.",
     "California's Post-Wildfire Reforestation Crisis and Ecosystem Shift",
     "The hidden truth about volcanic lightning: It's generated not by ice crystals, but by the friction of ash, rock fragments, and gas particles ejected during an eruption, with Chile's Calbuco eruption in 2015 producing thousands of bolts per minute.",
     "Scientists Discover Vast City of 60 Million Fish Nests Beneath Antarctic Ice Shelf",
@@ -89,8 +88,9 @@
     "Mycelium Fungal Underground Forest Networks #218",
     "A recent viral video captures a rare, dramatic encounter between a crocodile and a young elephant at a watering hole, showcasing the unexpected audacity of an ambush predator against formidable prey.",
     "Global temperature overshoot, even temporary, locking in irreversible biodiversity loss and ecosystem collapse, defying previous assumptions about recovery.",
-    "How army ants construct dynamic, living bridges and rafts using their own bodies through a self-organizing process that optimizes for efficiency and traffic flow."
+    "How army ants construct dynamic, living bridges and rafts using their own bodies through a self-organizing process that optimizes for efficiency and traffic flow.",
+    "Hydrothermal Vent Chemosynthesis Life Ecosystems #326"
   ],
-  "subcluster_idx": 6,
-  "call_count": 165
+  "subcluster_idx": 0,
+  "call_count": 166
 }
