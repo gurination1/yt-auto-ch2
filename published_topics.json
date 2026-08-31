@@ -1,6 +1,5 @@
 {
   "topics": [
-    "The hidden truth about male Emperor Penguins: They fast for up to 120 days in -60\u00b0C (-76\u00b0F) Antarctic winter, losing half their body weight, to incubate a single egg.",
     "Massive, ancient sponge mounds were unexpectedly discovered 'hidden in plain sight' off Southern California, challenging assumptions about well-explored marine areas.",
     "New analysis reveals that prescribed fires are crucial for protecting giant sequoias, as these ancient trees show increased resilience in treated areas against extreme wildfires.",
     "The hidden truth about wave clouds: Kelvin-Helmholtz clouds, resembling breaking ocean waves, form when two distinct air layers move at different speeds, creating a shear instability where the faster-moving upper layer literally 'rolls' over the slower lower layer, often signaling atmospheric turbulence for aircraft.",
@@ -89,8 +88,9 @@
     "Mariana Trench Abyssal Gigantism Creatures #832",
     "Mariana Trench Abyssal Gigantism Creatures #643",
     "Mariana Trench Abyssal Gigantism Creatures #204",
-    "Mariana Trench Abyssal Gigantism Creatures #472"
+    "Mariana Trench Abyssal Gigantism Creatures #472",
+    "Mariana Trench Abyssal Gigantism Creatures #544"
   ],
-  "subcluster_idx": 6,
-  "call_count": 179
+  "subcluster_idx": 0,
+  "call_count": 180
 }
