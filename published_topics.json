@@ -1,6 +1,5 @@
 {
   "topics": [
-    "Massive, ancient sponge mounds were unexpectedly discovered 'hidden in plain sight' off Southern California, challenging assumptions about well-explored marine areas.",
     "New analysis reveals that prescribed fires are crucial for protecting giant sequoias, as these ancient trees show increased resilience in treated areas against extreme wildfires.",
     "The hidden truth about wave clouds: Kelvin-Helmholtz clouds, resembling breaking ocean waves, form when two distinct air layers move at different speeds, creating a shear instability where the faster-moving upper layer literally 'rolls' over the slower lower layer, often signaling atmospheric turbulence for aircraft.",
     "How dark energy expands the observable universe cosmos #404",
@@ -89,8 +88,9 @@
     "Mariana Trench Abyssal Gigantism Creatures #643",
     "Mariana Trench Abyssal Gigantism Creatures #204",
     "Mariana Trench Abyssal Gigantism Creatures #472",
-    "Mariana Trench Abyssal Gigantism Creatures #544"
+    "Mariana Trench Abyssal Gigantism Creatures #544",
+    "Mariana Trench Abyssal Gigantism Creatures #263"
   ],
-  "subcluster_idx": 0,
-  "call_count": 180
+  "subcluster_idx": 1,
+  "call_count": 181
 }
