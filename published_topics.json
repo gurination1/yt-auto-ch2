@@ -1,6 +1,5 @@
 {
   "topics": [
-    "Deep-sea squid mother guards giant eggs for record-breaking four years, challenging survival beliefs.",
     "What most people don't know about plant competition: Forest saplings, like young Sugar Maples (*Acer saccharum*), can 'see' the far-red light reflected by rival plants and initiate a shade avoidance response, accelerating vertical growth even before being physically overshadowed.",
     "Wildfire Smoke Plumes Traverse Continents, Affecting Air Quality Far from Flames",
     "Scientists just uncovered a secret network of underwater caves teeming with giant tube worms, defying expectations for deep-sea ecosystems.",
@@ -89,8 +88,9 @@
     "Mariana Trench Abyssal Gigantism Creatures #727",
     "Mariana Trench Abyssal Gigantism Creatures #233",
     "How deep-sea anglerfish males become permanent, parasitic mates: Tiny male anglerfish physically fuse with a much larger female, undergoing **circulatory anastomosis** where their bloodstreams merge, turning the male into a lifelong, nutrient-dependent sperm producer.",
-    "Mariana Trench Abyssal Gigantism Creatures #117"
+    "Mariana Trench Abyssal Gigantism Creatures #117",
+    "Mariana Trench Abyssal Gigantism Creatures #832"
   ],
-  "subcluster_idx": 2,
-  "call_count": 175
+  "subcluster_idx": 3,
+  "call_count": 176
 }
