@@ -151,7 +151,14 @@ def validate_config():
 BEACONS_LINK = os.environ.get("BEACONS_LINK", "https://beacons.ai/edu_fun")
 
 # Channel subcluster aliases for phase6_music compatibility
-NATURAL_WORLD_SUBCLUSTERS = SCIENCE_SUBCLUSTERS
+NATURE_SUBCLUSTERS = [
+    "deep sea ocean abyss and abyssal creatures",
+    "extreme animal survival adaptations and apex predators",
+    "bizarre plant mechanisms and carnivorous flora",
+    "microscopic organisms and extremophiles",
+    "unusual wildlife behaviors and evolutionary anomalies"
+]
+NATURAL_WORLD_SUBCLUSTERS = NATURE_SUBCLUSTERS
 HISTORY_SUBCLUSTERS = SCIENCE_SUBCLUSTERS
 MYSTERY_SUBCLUSTERS = SCIENCE_SUBCLUSTERS
 ENGINEERING_SUBCLUSTERS = SCIENCE_SUBCLUSTERS
