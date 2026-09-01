@@ -1,6 +1,5 @@
 {
   "topics": [
-    "The hidden truth about wave clouds: Kelvin-Helmholtz clouds, resembling breaking ocean waves, form when two distinct air layers move at different speeds, creating a shear instability where the faster-moving upper layer literally 'rolls' over the slower lower layer, often signaling atmospheric turbulence for aircraft.",
     "How dark energy expands the observable universe cosmos #404",
     "Methane hydrate degassing events, a potent geophysics phenomenon, are now being re-examined as the primary scientific explanation for historical disappearances within the Bermuda Triangle, shifting focus from supernatural theories.",
     "How the ocean \"exhales\" carbon into the deep: The Biological Carbon Pump's efficiency, driven by microbial processes and particulate organic carbon export, dictates how much atmospheric CO2 is sequestered for millennia, but its sensitivity to warming is still a mystery.",
@@ -89,8 +88,9 @@
     "Mariana Trench Abyssal Gigantism Creatures #472",
     "Mariana Trench Abyssal Gigantism Creatures #544",
     "Mariana Trench Abyssal Gigantism Creatures #263",
-    "Groundbreaking 2026 Amazon studies reveal a paradox: while the rainforest shows surprising rapid regrowth, escalating deforestation and warming are replacing specialist trees with generalists, halving biodiversity at forest edges and pushing the biome towards an irreversible 2040 tipping point."
+    "Groundbreaking 2026 Amazon studies reveal a paradox: while the rainforest shows surprising rapid regrowth, escalating deforestation and warming are replacing specialist trees with generalists, halving biodiversity at forest edges and pushing the biome towards an irreversible 2040 tipping point.",
+    "How some polymers can spontaneously repair large cracks, not just microscopic damage, by employing **dynamic covalent bonds** or **supramolecular chemistry** that allows their molecular networks to re-form and mend themselves."
   ],
-  "subcluster_idx": 2,
-  "call_count": 182
+  "subcluster_idx": 3,
+  "call_count": 183
 }
