@@ -55,12 +55,13 @@ SAFETY & COMPLIANCE CONSTRAINTS (MANDATORY):
 - Avoid political controversies, conspiracy theories, or tragic/graphic events.
 - Focus on educational, curious, and inspiring scientific information.
 
-AVOID: Space, physics, ancient history empires, financial markets, business scandals.
+AVOID: Modern space science, quantum physics, black holes, self-healing polymers, material chemistry, ancient human empires, military history.
+FOCUS: Real-world animal biology, apex predators, deep sea bioluminescent abyssal creatures, extreme animal survival adaptations, venom mechanisms, carnivorous plants, mysterious insect swarms.
 FOCUS: Nature, wildlife, ocean deep sea creatures, extreme animal survival adaptations, ecosystems, natural geological wonders.
 
 Return ONLY a raw JSON array of objects. No markdown, no preamble.
 Each object must have exactly these fields:
-- "topic": specific subject with a named fact, theory, or mechanism (e.g. "Quantum entanglement enables faster than light simulation without moving particles")
+- "topic": specific subject with a named fact, theory, or mechanism (e.g. "Mantis shrimp strike cavitation creates light and boils water at 4000 degrees")
 - "short_hook": opening question or statement, 8 words or less, creates a strong information gap
 - "hook_type": one of "curiosity_gap", "contrarian", "time_pressure", "self_identification", "narrative_pull"
 - "for_format": "short", "long", or "both"
