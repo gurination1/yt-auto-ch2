@@ -79,14 +79,14 @@ Each object must have exactly these fields:
         import random, time
         rand_id = int(time.time()) % 1000
         diverse_nature_topics = [
-            {"topic": f"Mantis Shrimp Sonic Shockwave Punch #{rand_id}", "short_hook": "Shrimp punch boils water into plasma bubbles.", "hook_type": "curiosity_gap", "for_format": "both", "subcluster": "extreme animal survival adaptations and apex predators"},
-            {"topic": f"Tardigrade Indestructible Cryptobiosis #{rand_id+1}", "short_hook": "Microscopic animal survives absolute zero and space.", "hook_type": "curiosity_gap", "for_format": "both", "subcluster": "microscopic organisms and extremophiles"},
-            {"topic": f"Deep Sea Anglerfish Bioluminescent Lure #{rand_id+2}", "short_hook": "Deep ocean predator hunts with glowing antenna.", "hook_type": "curiosity_gap", "for_format": "both", "subcluster": "deep sea ocean abyss and abyssal creatures"},
-            {"topic": f"Carnivorous Pitcher Plant Acid Digestive Trap #{rand_id+3}", "short_hook": "Jungle plant dissolves insects with enzymatic acid.", "hook_type": "curiosity_gap", "for_format": "both", "subcluster": "bizarre plant mechanisms and carnivorous flora"},
-            {"topic": f"Immortal Jellyfish Cellular Rejuvenation #{rand_id+4}", "short_hook": "Creature resets age to live forever.", "hook_type": "curiosity_gap", "for_format": "both", "subcluster": "unusual wildlife behaviors and evolutionary anomalies"},
-            {"topic": f"Bombardier Beetle Boiling Chemical Cannon #{rand_id+5}", "short_hook": "Beetle fires hundred-degree toxic chemical spray.", "hook_type": "curiosity_gap", "for_format": "both", "subcluster": "extreme animal survival adaptations and apex predators"},
-            {"topic": f"Electric Eel 860-Volt Bio-Battery Stun #{rand_id+6}", "short_hook": "Amazon predator discharges lethal electric shockwave.", "hook_type": "curiosity_gap", "for_format": "both", "subcluster": "unusual wildlife behaviors and evolutionary anomalies"},
-            {"topic": f"Cordyceps Zombie Ant Parasite Infiltration #{rand_id+7}", "short_hook": "Fungus hijacks insect brain to spread spores.", "hook_type": "curiosity_gap", "for_format": "both", "subcluster": "bizarre plant mechanisms and carnivorous flora"}
+            {"topic": f"Mantis Shrimp Sonic Shockwave Punch", "short_hook": "Shrimp punch boils water into plasma bubbles.", "hook_type": "curiosity_gap", "for_format": "both", "subcluster": "extreme animal survival adaptations and apex predators"},
+            {"topic": f"Tardigrade Indestructible Cryptobiosis", "short_hook": "Microscopic animal survives absolute zero and space.", "hook_type": "curiosity_gap", "for_format": "both", "subcluster": "microscopic organisms and extremophiles"},
+            {"topic": f"Deep Sea Anglerfish Bioluminescent Lure", "short_hook": "Deep ocean predator hunts with glowing antenna.", "hook_type": "curiosity_gap", "for_format": "both", "subcluster": "deep sea ocean abyss and abyssal creatures"},
+            {"topic": f"Carnivorous Pitcher Plant Acid Digestive Trap", "short_hook": "Jungle plant dissolves insects with enzymatic acid.", "hook_type": "curiosity_gap", "for_format": "both", "subcluster": "bizarre plant mechanisms and carnivorous flora"},
+            {"topic": f"Immortal Jellyfish Cellular Rejuvenation", "short_hook": "Creature resets age to live forever.", "hook_type": "curiosity_gap", "for_format": "both", "subcluster": "unusual wildlife behaviors and evolutionary anomalies"},
+            {"topic": f"Bombardier Beetle Boiling Chemical Cannon", "short_hook": "Beetle fires hundred-degree toxic chemical spray.", "hook_type": "curiosity_gap", "for_format": "both", "subcluster": "extreme animal survival adaptations and apex predators"},
+            {"topic": f"Electric Eel 860-Volt Bio-Battery Stun", "short_hook": "Amazon predator discharges lethal electric shockwave.", "hook_type": "curiosity_gap", "for_format": "both", "subcluster": "unusual wildlife behaviors and evolutionary anomalies"},
+            {"topic": f"Cordyceps Zombie Ant Parasite Infiltration", "short_hook": "Fungus hijacks insect brain to spread spores.", "hook_type": "curiosity_gap", "for_format": "both", "subcluster": "bizarre plant mechanisms and carnivorous flora"}
         ]
         random.shuffle(diverse_nature_topics)
         topics_list = diverse_nature_topics
