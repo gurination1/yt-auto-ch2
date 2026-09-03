@@ -99,18 +99,21 @@ THUMBNAIL_LAYOUTS = [
     "split_left",         # dark left panel with text, right panel shows frame
 ]
 
-# topic sub-cluster rotation for Science and Technology channel
+# topic sub-cluster rotation for Nature and Extreme Biology channel
+CHANNEL_NICHE = os.environ.get("CHANNEL_NICHE", "nature")
 SCIENCE_SUBCLUSTERS = [
-    "space exploration and astrophysics",
-    "physics and quantum mechanics mysteries",
-    "advanced chemistry and materials science",
-    "biotechnology and genetic engineering",
-    "future technology and computing breakthroughs",
+    "ocean abyssal fauna and deep sea adaptations",
+    "extreme animal evolutionary mechanisms and venoms",
+    "microscopic predators and bizarre parasites",
+    "apex predator hunting tactics and animal survival",
+    "prehistoric organisms and bizarre living fossils",
 ]
+NATURAL_WORLD_SUBCLUSTERS = SCIENCE_SUBCLUSTERS
 
 YT_CATEGORY_EDUCATION = "27"
-YT_CATEGORY_SCIENCE   = "28"
-NASA_BROLL_ENABLED    = True
+YT_CATEGORY_SCIENCE   = "15"  # Pets & Animals
+YT_CATEGORY_DEFAULT   = "15"
+NASA_BROLL_ENABLED    = False
 
 
 
