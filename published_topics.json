@@ -1,6 +1,5 @@
 {
   "topics": [
-    "How dark energy expands the observable universe cosmos #404",
     "Methane hydrate degassing events, a potent geophysics phenomenon, are now being re-examined as the primary scientific explanation for historical disappearances within the Bermuda Triangle, shifting focus from supernatural theories.",
     "How the ocean \"exhales\" carbon into the deep: The Biological Carbon Pump's efficiency, driven by microbial processes and particulate organic carbon export, dictates how much atmospheric CO2 is sequestered for millennia, but its sensitivity to warming is still a mystery.",
     "A new quantum experiment reveals photons exhibiting \"negative dwell time,\" appearing to spend less than zero time inside a cloud of atoms, deepening the mystery of time's nature.",
@@ -89,8 +88,9 @@
     "The immortal Hydra that defies aging by constantly cloning its own stem cells",
     "The Abyssal Comb Jelly that fires synchronized, rainbow-colored light waves using tiny beating cilia in total darkness",
     "The Emerald Cockroach Wasp's bizarre venom that turns cockroaches into docile, self-sacrificing zombies for its offspring.",
-    "Newly Discovered Fungi That Build Microscopic Sticky Nets to Trap Worms"
+    "Newly Discovered Fungi That Build Microscopic Sticky Nets to Trap Worms",
+    "The Mantis shrimp whose sonic punch boils water into plasma bubbles"
   ],
-  "subcluster_idx": 3,
-  "call_count": 193
+  "subcluster_idx": 4,
+  "call_count": 194
 }
