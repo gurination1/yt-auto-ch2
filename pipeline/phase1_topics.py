@@ -24,21 +24,23 @@ def select_topic(format_type: str) -> dict:
 
     # ── 2. Determine subcluster + evergreen vs trending ──────────────────────
     current_subcluster = NATURE_SUBCLUSTERS[subcluster_idx % len(NATURE_SUBCLUSTERS)]
-    is_trending = (call_count % 3 != 0)
+    is_trending = (call_count % 3 != 0)   # 2 out of 3 calls = trending topic
 
     if is_trending:
         topic_instruction = (
-            f"Use Google Search to find current HIGHLY VIRAL news from the last 24-48 hours SPECIFICALLY about {current_subcluster}. "
-            f"Generate 5 TRENDING topics strictly within {current_subcluster} that are currently exploding on social media or making massive news. "
-            f"Frame each as a timely, highly intriguing analysis. Strictly preserve this channel's dedicated niche and do NOT generate generic news."
+            f"Use Google Search to find mind-blowing, highly viral recent discoveries or breakthroughs from the last 24-48 hours specifically about {current_subcluster}. "
+            f"Generate 5 TRENDING topics that reveal a startling reality normal people did NOT know. "
+            f"STRICT RULES: Must be a concrete, verified true discovery with massive visual curiosity. NO dry academic papers. "
+            f"Every topic must make an average person say: 'Wait, is that actually real?!'"
         )
     else:
         topic_instruction = (
-            f"Generate 5 EVERGREEN topics about {current_subcluster}. "
-            f"Each must reveal a bizarre, counterintuitive, or little-known fact "
-            f"that educated adults don't know. Frame as 'What if X happened' or 'How Y actually works'. "
-            f"Every topic MUST name a specific mechanism, animal power, hunting behavior, or biological adaptation — "
-            f"NOT a vague 'scientists are surprised' hook."
+            f"Generate 5 insanely fascinating, real-world EVERGREEN topics about {current_subcluster}. "
+            f"CRITICAL REQUIREMENTS: "
+            f"1. Must reveal a bizarre, shocking, or counter-intuitive secret that 99% of people do NOT know. "
+            f"2. FORBIDDEN: Do NOT write generic textbook concepts (e.g. 'Quantum Computing Superposition Logic', 'How Photosynthesis Works', 'What if giant excavators dig canals'). "
+            f"3. REQUIRED: A specific real-world anomaly, unbelievable physical fact, or mind-bending paradox (e.g. 'The metal that melts in your hand but shatters glass', 'Why hot water freezes faster than cold water', 'The room that is so quiet you can hear your own blood pumping'). "
+            f"4. Easy to understand: An 8th grader must instantly grasp why it is insane. Zero PhD jargon."
         )
 
     # ── 3. Build Gemini prompt ───────────────────────────────────────────────
@@ -53,15 +55,17 @@ SAFETY & COMPLIANCE CONSTRAINTS (MANDATORY):
 - The topics MUST be 100% advertiser-friendly, family-friendly, and compliant with YouTube/Meta community guidelines.
 - Strictly AVOID: medical advice, health/cure claims, Covid-19/vaccine/epidemic speculation, dangerous stunts/activities, illegal substances, or weapons.
 - Avoid political controversies, conspiracy theories, or tragic/graphic events.
-- Focus on educational, curious, and inspiring wildlife and natural science information.
+- Focus on educational, curious, and inspiring wildlife, extreme biology, and natural world information.
 
-AVOID: Modern space science, quantum physics, black holes, self-healing polymers, material chemistry, ancient human empires, military history.
-FOCUS: Real-world animal biology, apex predators, deep sea bioluminescent abyssal creatures, extreme animal survival adaptations, venom mechanisms, carnivorous plants, mysterious insect swarms.
+AUDIENCE & HOOK RULES:
+- The topic MUST be so clear, punchy, and intriguing that someone scrolling TikTok or Shorts immediately stops.
+- Pick concrete creatures, plants, survival adaptations, or natural phenomena with high visual payoff.
+- FORBIDDEN: Abstract theories, philosophical musings, hypothetical scenarios ('What if X happened...').
 
 Return ONLY a raw JSON array of objects. No markdown, no preamble.
 Each object must have exactly these fields:
-- "topic": specific subject with a named fact, theory, or mechanism (e.g. "Mantis shrimp strike cavitation creates light and boils water at 4000 degrees")
-- "short_hook": opening question or statement, 8 words or less, creates a strong information gap
+- "topic": specific, punchy curiosity subject naming the real anomaly or creature (e.g. "The Mantis shrimp whose sonic punch boils water into plasma bubbles")
+- "short_hook": opening question or bold statement, 8 words or less, creates an irresistible curiosity gap
 - "hook_type": one of "curiosity_gap", "contrarian", "time_pressure", "self_identification", "narrative_pull"
 - "for_format": "short", "long", or "both"
 - "subcluster": the sub-cluster this belongs to (string)
@@ -70,26 +74,22 @@ Each object must have exactly these fields:
     print(f"[Phase1] Requesting topics — subcluster: {current_subcluster} | trending: {is_trending}")
     client = GeminiClient()
     try:
-        response_text = client.generate_text(prompt, use_grounding=is_trending, temperature=0.75)
+        response_text = client.generate_text(prompt, use_grounding=False, temperature=0.85)
         topics_list = _robust_json_loads(response_text)
-        if not isinstance(topics_list, list) or not topics_list:
-            raise ValueError("Response is not a valid non-empty JSON list")
+        if not isinstance(topics_list, list):
+            raise ValueError("Response is not a JSON list")
+        if not topics_list:
+            raise ValueError("Response is an empty list")
     except Exception as e:
         print(f"[Phase1] Error fetching or parsing topics from Gemini: {e}")
         import random, time
         rand_id = int(time.time()) % 1000
-        diverse_nature_topics = [
-            {"topic": f"Mantis Shrimp Sonic Shockwave Punch", "short_hook": "Shrimp punch boils water into plasma bubbles.", "hook_type": "curiosity_gap", "for_format": "both", "subcluster": "extreme animal survival adaptations and apex predators"},
-            {"topic": f"Tardigrade Indestructible Cryptobiosis", "short_hook": "Microscopic animal survives absolute zero and space.", "hook_type": "curiosity_gap", "for_format": "both", "subcluster": "microscopic organisms and extremophiles"},
-            {"topic": f"Deep Sea Anglerfish Bioluminescent Lure", "short_hook": "Deep ocean predator hunts with glowing antenna.", "hook_type": "curiosity_gap", "for_format": "both", "subcluster": "deep sea ocean abyss and abyssal creatures"},
-            {"topic": f"Carnivorous Pitcher Plant Acid Digestive Trap", "short_hook": "Jungle plant dissolves insects with enzymatic acid.", "hook_type": "curiosity_gap", "for_format": "both", "subcluster": "bizarre plant mechanisms and carnivorous flora"},
-            {"topic": f"Immortal Jellyfish Cellular Rejuvenation", "short_hook": "Creature resets age to live forever.", "hook_type": "curiosity_gap", "for_format": "both", "subcluster": "unusual wildlife behaviors and evolutionary anomalies"},
-            {"topic": f"Bombardier Beetle Boiling Chemical Cannon", "short_hook": "Beetle fires hundred-degree toxic chemical spray.", "hook_type": "curiosity_gap", "for_format": "both", "subcluster": "extreme animal survival adaptations and apex predators"},
-            {"topic": f"Electric Eel 860-Volt Bio-Battery Stun", "short_hook": "Amazon predator discharges lethal electric shockwave.", "hook_type": "curiosity_gap", "for_format": "both", "subcluster": "unusual wildlife behaviors and evolutionary anomalies"},
-            {"topic": f"Cordyceps Zombie Ant Parasite Infiltration", "short_hook": "Fungus hijacks insect brain to spread spores.", "hook_type": "curiosity_gap", "for_format": "both", "subcluster": "bizarre plant mechanisms and carnivorous flora"}
+        topics_list = [
+            {"topic": "The Mantis shrimp whose sonic punch boils water into plasma bubbles", "short_hook": "This tiny shrimp punches faster than a bullet!", "hook_type": "curiosity_gap", "for_format": "both", "subcluster": current_subcluster},
+            {"topic": "Tardigrades: The microscopic water bears that survive outer space and absolute zero", "short_hook": "This microscopic creature is practically immortal.", "hook_type": "curiosity_gap", "for_format": "both", "subcluster": current_subcluster},
+            {"topic": "The immortal jellyfish Turritopsis dohrnii that resets its own age to live forever", "short_hook": "This jellyfish found the secret to eternal youth.", "hook_type": "curiosity_gap", "for_format": "both", "subcluster": current_subcluster},
+            {"topic": "The Bombardier beetle that fires a boiling chemical explosion from its abdomen", "short_hook": "This beetle shoots boiling toxic acid!", "hook_type": "curiosity_gap", "for_format": "both", "subcluster": current_subcluster}
         ]
-        random.shuffle(diverse_nature_topics)
-        topics_list = diverse_nature_topics
 
     # ── 4. Pick first topic matching format_type and not a duplicate ─────────
     import re
@@ -144,7 +144,9 @@ Each object must have exactly these fields:
         except Exception as e:
             print(f"Error parsing retried topics: {e}")
 
+    # Fallback to first generated if no non-duplicate found
     if not selected_topic:
+        print("[Phase1] Warning: Could not generate a completely non-duplicate topic. Using first available as fallback.")
         for item in topics_list:
             if item.get("for_format", "both") in (format_type, "both"):
                 selected_topic = item
@@ -152,6 +154,7 @@ Each object must have exactly these fields:
         if not selected_topic:
             selected_topic = topics_list[0]
             selected_topic["for_format"] = format_type
+
 
     print(f"[Phase1] Selected: {selected_topic['topic']}")
 
