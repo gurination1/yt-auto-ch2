@@ -1,6 +1,5 @@
 {
   "topics": [
-    "How the ocean \"exhales\" carbon into the deep: The Biological Carbon Pump's efficiency, driven by microbial processes and particulate organic carbon export, dictates how much atmospheric CO2 is sequestered for millennia, but its sensitivity to warming is still a mystery.",
     "A new quantum experiment reveals photons exhibiting \"negative dwell time,\" appearing to spend less than zero time inside a cloud of atoms, deepening the mystery of time's nature.",
     "A novel cell-inspired nanoreactor efficiently produces hydrogen peroxide using only visible light, mimicking living cells' energy conversion for cleaner chemical manufacturing.",
     "Quantum Teleportation Breakthrough Physics #1786071075",
@@ -89,8 +88,9 @@
     "The Emerald Cockroach Wasp's bizarre venom that turns cockroaches into docile, self-sacrificing zombies for its offspring.",
     "Newly Discovered Fungi That Build Microscopic Sticky Nets to Trap Worms",
     "The Mantis shrimp whose sonic punch boils water into plasma bubbles",
-    "The Coelacanth, a 'living fossil' fish thought extinct for 65 million years, has a bizarre five-year pregnancy, the longest of any vertebrate, and hunts in deep darkness using a specialized electric organ in its head."
+    "The Coelacanth, a 'living fossil' fish thought extinct for 65 million years, has a bizarre five-year pregnancy, the longest of any vertebrate, and hunts in deep darkness using a specialized electric organ in its head.",
+    "The 'Suicidal' Deep-Sea Squid That Explosively Lights Up To Scare Predators"
   ],
-  "subcluster_idx": 0,
-  "call_count": 195
+  "subcluster_idx": 1,
+  "call_count": 196
 }
