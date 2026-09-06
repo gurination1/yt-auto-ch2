@@ -1,6 +1,5 @@
 {
   "topics": [
-    "A novel cell-inspired nanoreactor efficiently produces hydrogen peroxide using only visible light, mimicking living cells' energy conversion for cleaner chemical manufacturing.",
     "Quantum Teleportation Breakthrough Physics #1786071075",
     "Alibaba's Qwen3.8-Max AI reportedly codes for over ten days straight, marking a significant leap in autonomous AI development.",
     "Neutron Star Density Mysteries Astrophysics #1786077552",
@@ -89,8 +88,9 @@
     "The Mantis shrimp whose sonic punch boils water into plasma bubbles",
     "The Coelacanth, a 'living fossil' fish thought extinct for 65 million years, has a bizarre five-year pregnancy, the longest of any vertebrate, and hunts in deep darkness using a specialized electric organ in its head.",
     "The 'Suicidal' Deep-Sea Squid That Explosively Lights Up To Scare Predators",
-    "Newly identified tarantula venom causes prey insects to enter a bizarre 'living coma,' perfectly preserving them as fresh food for weeks."
+    "Newly identified tarantula venom causes prey insects to enter a bizarre 'living coma,' perfectly preserving them as fresh food for weeks.",
+    "The microscopic animal that steals DNA from any creature it encounters to instantly evolve and adapt to new threats."
   ],
-  "subcluster_idx": 2,
-  "call_count": 197
+  "subcluster_idx": 3,
+  "call_count": 198
 }
