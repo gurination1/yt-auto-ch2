@@ -1,6 +1,5 @@
 {
   "topics": [
-    "Alibaba's Qwen3.8-Max AI reportedly codes for over ten days straight, marking a significant leap in autonomous AI development.",
     "Neutron Star Density Mysteries Astrophysics #1786077552",
     "How the Casimir effect reveals that \"empty\" space is actually teeming with virtual particles, which create a measurable force that can push uncharged metal plates together.",
     "Solar Wind Cosmic Shields Science #1786090736",
@@ -89,8 +88,9 @@
     "The 'Suicidal' Deep-Sea Squid That Explosively Lights Up To Scare Predators",
     "Newly identified tarantula venom causes prey insects to enter a bizarre 'living coma,' perfectly preserving them as fresh food for weeks.",
     "The microscopic 'vampire' cell that uses a needle-like tube to literally suck the guts out of fish in seconds.",
-    "Orcas are now documented creating perfectly synchronized, massive waves to wash seals directly off ice floes, showcasing unprecedented hunting coordination."
+    "Orcas are now documented creating perfectly synchronized, massive waves to wash seals directly off ice floes, showcasing unprecedented hunting coordination.",
+    "Ancient 'walking shark' discovered, closely related to modern sharks that hunt prey on land."
   ],
-  "subcluster_idx": 4,
-  "call_count": 199
+  "subcluster_idx": 0,
+  "call_count": 200
 }
