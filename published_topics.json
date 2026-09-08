@@ -1,11 +1,5 @@
 {
   "topics": [
-    "A novel cell-inspired nanoreactor efficiently produces hydrogen peroxide using only visible light, mimicking living cells' energy conversion for cleaner chemical manufacturing.",
-    "Quantum Teleportation Breakthrough Physics #1786071075",
-    "Alibaba's Qwen3.8-Max AI reportedly codes for over ten days straight, marking a significant leap in autonomous AI development.",
-    "Neutron Star Density Mysteries Astrophysics #1786077552",
-    "How the Casimir effect reveals that \"empty\" space is actually teeming with virtual particles, which create a measurable force that can push uncharged metal plates together.",
-    "Solar Wind Cosmic Shields Science #1786090736",
     "AI-Generated Viruses: Unveiling New Therapeutic Frontiers and Biosecurity Challenges",
     "How dark energy expands the observable universe cosmos #13",
     "Astronomers are captivated by the discovery of a dormant supermassive black hole wandering 30,000 light-years from its host galaxy's center, only revealed by its dramatic shredding of a passing star, challenging long-held assumptions about galactic core black holes.",
@@ -89,8 +83,14 @@
     "The Mantis shrimp whose sonic punch boils water into plasma bubbles",
     "The Coelacanth, a 'living fossil' fish thought extinct for 65 million years, has a bizarre five-year pregnancy, the longest of any vertebrate, and hunts in deep darkness using a specialized electric organ in its head.",
     "The 'Suicidal' Deep-Sea Squid That Explosively Lights Up To Scare Predators",
-    "Newly identified tarantula venom causes prey insects to enter a bizarre 'living coma,' perfectly preserving them as fresh food for weeks."
+    "Newly identified tarantula venom causes prey insects to enter a bizarre 'living coma,' perfectly preserving them as fresh food for weeks.",
+    "The microscopic 'vampire' cell that uses a needle-like tube to literally suck the guts out of fish in seconds.",
+    "Orcas are now documented creating perfectly synchronized, massive waves to wash seals directly off ice floes, showcasing unprecedented hunting coordination.",
+    "Ancient 'walking shark' discovered, closely related to modern sharks that hunt prey on land.",
+    "The ultra-black deep-sea fish that absorb 99.95% of all light, becoming perfectly invisible in the bioluminescent abyss.",
+    "Scientists reveal the 'molecular switch' that allows snakes to instantly tweak their venom's potency and composition, adapting to new prey in real-time, defying previous evolutionary timelines.",
+    "The Microscopic Parasite That Brainwashes Water Fleas to Commit 'Suicide' by Seeking Predators"
   ],
-  "subcluster_idx": 2,
-  "call_count": 197
+  "subcluster_idx": 3,
+  "call_count": 203
 }
