@@ -1,6 +1,5 @@
 {
   "topics": [
-    "Solar Wind Cosmic Shields Science #1786090736",
     "AI-Generated Viruses: Unveiling New Therapeutic Frontiers and Biosecurity Challenges",
     "How dark energy expands the observable universe cosmos #13",
     "Astronomers are captivated by the discovery of a dormant supermassive black hole wandering 30,000 light-years from its host galaxy's center, only revealed by its dramatic shredding of a passing star, challenging long-held assumptions about galactic core black holes.",
@@ -89,8 +88,9 @@
     "Orcas are now documented creating perfectly synchronized, massive waves to wash seals directly off ice floes, showcasing unprecedented hunting coordination.",
     "Ancient 'walking shark' discovered, closely related to modern sharks that hunt prey on land.",
     "The ultra-black deep-sea fish that absorb 99.95% of all light, becoming perfectly invisible in the bioluminescent abyss.",
-    "Scientists reveal the 'molecular switch' that allows snakes to instantly tweak their venom's potency and composition, adapting to new prey in real-time, defying previous evolutionary timelines."
+    "Scientists reveal the 'molecular switch' that allows snakes to instantly tweak their venom's potency and composition, adapting to new prey in real-time, defying previous evolutionary timelines.",
+    "The Microscopic Parasite That Brainwashes Water Fleas to Commit 'Suicide' by Seeking Predators"
   ],
-  "subcluster_idx": 2,
-  "call_count": 202
+  "subcluster_idx": 3,
+  "call_count": 203
 }
