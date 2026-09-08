@@ -84,9 +84,10 @@
     "Scientists reveal the 'molecular switch' that allows snakes to instantly tweak their venom's potency and composition, adapting to new prey in real-time, defying previous evolutionary timelines.",
     "The Microscopic Parasite That Brainwashes Water Fleas to Commit 'Suicide' by Seeking Predators",
     "The Alligator Snapping Turtle's Tongue Worm: A Deceptive Lure That Fakes Injured Prey",
-    "The \"Terror Beast\" of the Cambrian: A newly discovered, gigantic, worm-like predator with external jaws that dominated ancient oceans."
+    "The \"Terror Beast\" of the Cambrian: A newly discovered, gigantic, worm-like predator with external jaws that dominated ancient oceans.",
+    "The Wood Frog: A real-life zombie that freezes solid and reanimates without harm."
   ],
-  "subcluster_idx": 3,
-  "call_count": 203,
-  "fallback_idx": 0
+  "subcluster_idx": 4,
+  "fallback_idx": 1,
+  "call_count": 204
 }
