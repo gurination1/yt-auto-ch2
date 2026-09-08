@@ -1,10 +1,7 @@
 {
   "topics": [
     "AI-Generated Viruses: Unveiling New Therapeutic Frontiers and Biosecurity Challenges",
-    "How dark energy expands the observable universe cosmos #13",
-    "Astronomers are captivated by the discovery of a dormant supermassive black hole wandering 30,000 light-years from its host galaxy's center, only revealed by its dramatic shredding of a passing star, challenging long-held assumptions about galactic core black holes.",
     "New collider experiments are providing intriguing hints that the mysterious X(2370) particle could be a 'glueball-dominated' entity, a theoretical particle made almost entirely of the strong nuclear force's carriers, offering a rare glimpse into the pure dynamics of fundamental interactions.",
-    "How dark energy expands the observable universe cosmos #514",
     "AI-Generated Viruses: Scientists Create Novel Functional Bacteriophages from Scratch",
     "Humanoid robots are transitioning from lab curiosities to agile, mass-producible machines performing complex tasks, including advanced martial arts routines.",
     "How 'hot Jupiter' exoplanets, such as WASP-121b, can experience atmospheric conditions so extreme that specific high-temperature minerals, like corundum, vaporize and then condense to create actual rain made of liquid rubies and sapphires in their upper atmospheres.",
@@ -20,8 +17,6 @@
     "The reintroduction of wolves to Isle Royale National Park has dramatically reshaped the island's ecosystem, with wolf populations recovering and moose numbers responding to renewed predation, offering a compelling case study of apex predator impact.",
     "Urban Wildlife Encounters Amidst Extreme Weather: The recent viral sighting of a Burmese python in a Hong Kong shopping district highlights how climate-driven downpours and habitat disruption are forcing wild animals into urban environments, increasing human-wildlife conflict and revealing the shrinking boundaries of natural habitats.",
     "How ant colonies prevent disease outbreaks: Ants detect dead nestmates using specific \"death pheromones,\" primarily oleic acid, which triggers **necrophoresis** behavior, causing workers to quickly remove deceased individuals from the nest to maintain hygiene.",
-    "How dark energy expands the observable universe cosmos #560",
-    "How dark energy expands the observable universe cosmos #438",
     "How some rainforest trees directly absorb nutrients from the air: The bizarre mechanism of 'canopy roots' allows certain trees to grow adventitious roots upwards into aerial moss mats and detritus, bypassing nutrient-poor soil entirely to capture nutrients from rainwater and decaying organic matter.",
     "Recently released, jaw-dropping viral videos capture the high-stakes, perilous Mara River crossing during the Great Wildebeest Migration, showcasing the brutal yet essential predator-prey dynamics in one of nature's most dramatic spectacles.",
     "A viral video from India's Tadoba-Andhari Tiger Reserve sparks outrage, highlighting the dangerous breakdown of safety protocols as tourists directly confront an apex predator, raising urgent questions about wildlife tourism ethics.",
@@ -30,10 +25,8 @@
     "New research reveals the iconic Stonehenge 'altar stone' was transported over 460 miles from Scotland, challenging historical understanding of ancient transport capabilities.",
     "How deep-sea creatures actually keep their proteins from crushing under immense pressure using specialized organic molecules.",
     "Colobus Congoensis: Mysterious New Monkey Species Discovered in Congo's Dense Rainforests with Striking Orange Mouth",
-    "How dark energy expands the observable universe cosmos #657",
     "How pit vipers, like rattlesnakes, don't just 'sense' heat, but actually create a detailed thermal image of their prey in their brain by integrating signals from their **pit organs** with visual input, essentially giving them a sixth sense for infrared vision.",
     "Ancient Warming Event Reveals Future of Forest Collapse: A new *Science* study warns modern forests face unprecedented thinning, mimicking a 56-million-year-old climate crisis but at ten times the speed.",
-    "How dark energy expands the observable universe cosmos #241",
     "How the ocean's \"sea sparkle\" is actually a complex cellular defense mechanism in dinoflagellates, where mechanical agitation triggers a **scintillon-based luciferin-luciferase reaction** to emit light, startling predators.",
     "The creation of \"cybertypes\" using advanced underwater imaging, robotics, and genomic sequencing is revolutionizing deep-sea animal study, allowing scientists to capture full genetic and physiological data of delicate organisms in their natural habitat.",
     "Rainforest biodiversity rebounds within a single generation, driven by key animal species.",
@@ -57,16 +50,16 @@
     "How some salt flats form perfect hexagons: The phenomenon is caused by a specific interplay of thermal contraction, expansion, and the crystallization of brine, leading to **ice-wedge polygon analogs** in salt crusts.",
     "Rare oarfish sightings spark global 'doomsday' speculation, challenging scientific understanding of deep-sea creature behavior before geological events.",
     "Brazil's Atlantic Forest, once severely diminished, is experiencing a remarkable resurgence due to dedicated conservation efforts, with the successful reintroduction and monitored survival of iconic species like the golden lion tamarin signaling a powerful blueprint for ecosystem restoration.",
-    "Mycelium Fungal Underground Forest Networks #218",
+    "Mycelium Fungal Underground Forest Networks",
     "A recent viral video captures a rare, dramatic encounter between a crocodile and a young elephant at a watering hole, showcasing the unexpected audacity of an ambush predator against formidable prey.",
     "Global temperature overshoot, even temporary, locking in irreversible biodiversity loss and ecosystem collapse, defying previous assumptions about recovery.",
     "How army ants construct dynamic, living bridges and rafts using their own bodies through a self-organizing process that optimizes for efficiency and traffic flow.",
-    "Hydrothermal Vent Chemosynthesis Life Ecosystems #326",
+    "Hydrothermal Vent Chemosynthesis Life Ecosystems",
     "An expedition near Australia's Christmas and Cocos Islands uncovered 149 new deep-sea species, including a 'Shark Graveyard' containing ancient Megalodon teeth, revealing a massive gap in Indian Ocean biodiversity data.",
     "How the sloth's multi-chambered stomach, a process of **foregut fermentation**, allows it to extract maximum nutrients from low-quality leaves over an astonishing 30-day digestion cycle.",
     "The Great Nile Migration in South Sudan, a monumental movement of six million antelope, is now being recognized as the world's largest land mammal migration, a scale previously unseen and largely unappreciated by outsiders.",
     "Mysterious disappearance of feral hog populations in Louisiana, with drone footage revealing an unexpected predator responsible for their decline.",
-    "Ant Colony Superorganism Collective Intelligence #466",
+    "Ant Colony Superorganism Collective Intelligence",
     "How deep-sea anglerfish males become permanent, parasitic mates: Tiny male anglerfish physically fuse with a much larger female, undergoing **circulatory anastomosis** where their bloodstreams merge, turning the male into a lifelong, nutrient-dependent sperm producer.",
     "Groundbreaking 2026 Amazon studies reveal a paradox: while the rainforest shows surprising rapid regrowth, escalating deforestation and warming are replacing specialist trees with generalists, halving biodiversity at forest edges and pushing the biome towards an irreversible 2040 tipping point.",
     "How some polymers can spontaneously repair large cracks, not just microscopic damage, by employing **dynamic covalent bonds** or **supramolecular chemistry** that allows their molecular networks to re-form and mend themselves.",
@@ -92,5 +85,6 @@
     "The Microscopic Parasite That Brainwashes Water Fleas to Commit 'Suicide' by Seeking Predators"
   ],
   "subcluster_idx": 3,
-  "call_count": 203
+  "call_count": 203,
+  "fallback_idx": 0
 }
