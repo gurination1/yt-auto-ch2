@@ -86,9 +86,10 @@
     "The Alligator Snapping Turtle's Tongue Worm: A Deceptive Lure That Fakes Injured Prey",
     "The \"Terror Beast\" of the Cambrian: A newly discovered, gigantic, worm-like predator with external jaws that dominated ancient oceans.",
     "The Wood Frog: A real-life zombie that freezes solid and reanimates without harm.",
-    "New 'Zombie' Fungus Found in British Caves Manipulating Spiders"
+    "New 'Zombie' Fungus Found in British Caves Manipulating Spiders",
+    "Uncharted Indian Ocean Reveals 'Sea Pig' Colonies"
   ],
-  "subcluster_idx": 0,
-  "fallback_idx": 2,
-  "call_count": 205
+  "subcluster_idx": 1,
+  "fallback_idx": 3,
+  "call_count": 206
 }
