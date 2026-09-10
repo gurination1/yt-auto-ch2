@@ -88,9 +88,10 @@
     "The Wood Frog: A real-life zombie that freezes solid and reanimates without harm.",
     "New 'Zombie' Fungus Found in British Caves Manipulating Spiders",
     "Uncharted Indian Ocean Reveals 'Sea Pig' Colonies",
-    "The Sea Slug That Steals Stinging Cells"
+    "The Sea Slug That Steals Stinging Cells",
+    "Peptides Survive Concentrated Sulfuric Acid"
   ],
-  "subcluster_idx": 2,
-  "fallback_idx": 4,
-  "call_count": 207
+  "subcluster_idx": 3,
+  "fallback_idx": 5,
+  "call_count": 208
 }
