@@ -1,6 +1,5 @@
 {
   "topics": [
-    "Humanoid robots are transitioning from lab curiosities to agile, mass-producible machines performing complex tasks, including advanced martial arts routines.",
     "How 'hot Jupiter' exoplanets, such as WASP-121b, can experience atmospheric conditions so extreme that specific high-temperature minerals, like corundum, vaporize and then condense to create actual rain made of liquid rubies and sapphires in their upper atmospheres.",
     "Quantum heat waves have been observed moving through a crystal at room temperature in focused, wave-like rays, challenging the traditional understanding of heat dissipation and offering a potential breakthrough for thermal management in next-generation electronics.",
     "A groundbreaking 'metacrystal' made of carved gold film has enabled the first room-temperature quantum material to sort and transport distinct quantum states of light, potentially eliminating the need for bulky, ultra-cold refrigeration in future quantum technologies.",
@@ -89,9 +88,10 @@
     "Peptides Survive Concentrated Sulfuric Acid",
     "Arctic Bacteria's Million-Year Cryptobiosis",
     "The mind-bending parasite that chemically castrates crabs and forces males to act like females.",
-    "Alien 'Elbow' Squid Filmed for First Time in New Deep-Sea Region"
+    "Alien 'Elbow' Squid Filmed for First Time in New Deep-Sea Region",
+    "Rattlesnake's Own Blood: The Ultimate Antivenom"
   ],
-  "subcluster_idx": 1,
-  "fallback_idx": 8,
-  "call_count": 211
+  "subcluster_idx": 2,
+  "fallback_idx": 9,
+  "call_count": 212
 }
