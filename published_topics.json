@@ -1,6 +1,5 @@
 {
   "topics": [
-    "Quantum heat waves have been observed moving through a crystal at room temperature in focused, wave-like rays, challenging the traditional understanding of heat dissipation and offering a potential breakthrough for thermal management in next-generation electronics.",
     "A groundbreaking 'metacrystal' made of carved gold film has enabled the first room-temperature quantum material to sort and transport distinct quantum states of light, potentially eliminating the need for bulky, ultra-cold refrigeration in future quantum technologies.",
     "How some CRISPR-Cas systems act as a 'molecular shredder,' non-specifically cleaving all surrounding genetic material once a target RNA/DNA is detected, forming the basis for ultra-sensitive diagnostics like SHERLOCK.",
     "The Viral Sahara Tortoise 'Greening' Hoax Debunked",
@@ -89,9 +88,10 @@
     "The mind-bending parasite that chemically castrates crabs and forces males to act like females.",
     "Alien 'Elbow' Squid Filmed for First Time in New Deep-Sea Region",
     "Rattlesnake's Own Blood: The Ultimate Antivenom",
-    "The 'Conan the Bacterium' that can repair its DNA from thousands of radiation hits."
+    "The 'Conan the Bacterium' that can repair its DNA from thousands of radiation hits.",
+    "Ancient 'Goo-Filled Bag' Animal Found in 3D Fossil"
   ],
-  "subcluster_idx": 3,
-  "fallback_idx": 10,
-  "call_count": 213
+  "subcluster_idx": 4,
+  "fallback_idx": 11,
+  "call_count": 214
 }
