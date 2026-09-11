@@ -1,6 +1,5 @@
 {
   "topics": [
-    "A groundbreaking 'metacrystal' made of carved gold film has enabled the first room-temperature quantum material to sort and transport distinct quantum states of light, potentially eliminating the need for bulky, ultra-cold refrigeration in future quantum technologies.",
     "How some CRISPR-Cas systems act as a 'molecular shredder,' non-specifically cleaving all surrounding genetic material once a target RNA/DNA is detected, forming the basis for ultra-sensitive diagnostics like SHERLOCK.",
     "The Viral Sahara Tortoise 'Greening' Hoax Debunked",
     "New research reveals that the decentralized decision-making of ant colonies is providing a revolutionary blueprint for next-generation swarm robotics.",
@@ -89,9 +88,10 @@
     "Alien 'Elbow' Squid Filmed for First Time in New Deep-Sea Region",
     "Rattlesnake's Own Blood: The Ultimate Antivenom",
     "The 'Conan the Bacterium' that can repair its DNA from thousands of radiation hits.",
-    "Ancient 'Goo-Filled Bag' Animal Found in 3D Fossil"
+    "Ancient 'Goo-Filled Bag' Animal Found in 3D Fossil",
+    "Caterpillars Bribe Ants with Dopamine for Protection"
   ],
-  "subcluster_idx": 4,
-  "fallback_idx": 11,
-  "call_count": 214
+  "subcluster_idx": 0,
+  "fallback_idx": 12,
+  "call_count": 215
 }
