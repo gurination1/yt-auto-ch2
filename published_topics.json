@@ -1,6 +1,5 @@
 {
   "topics": [
-    "AI-Generated Viruses: Scientists Create Novel Functional Bacteriophages from Scratch",
     "Humanoid robots are transitioning from lab curiosities to agile, mass-producible machines performing complex tasks, including advanced martial arts routines.",
     "How 'hot Jupiter' exoplanets, such as WASP-121b, can experience atmospheric conditions so extreme that specific high-temperature minerals, like corundum, vaporize and then condense to create actual rain made of liquid rubies and sapphires in their upper atmospheres.",
     "Quantum heat waves have been observed moving through a crystal at room temperature in focused, wave-like rays, challenging the traditional understanding of heat dissipation and offering a potential breakthrough for thermal management in next-generation electronics.",
@@ -89,9 +88,10 @@
     "The Sea Slug That Steals Stinging Cells",
     "Peptides Survive Concentrated Sulfuric Acid",
     "Arctic Bacteria's Million-Year Cryptobiosis",
-    "The mind-bending parasite that chemically castrates crabs and forces males to act like females."
+    "The mind-bending parasite that chemically castrates crabs and forces males to act like females.",
+    "Alien 'Elbow' Squid Filmed for First Time in New Deep-Sea Region"
   ],
-  "subcluster_idx": 0,
-  "fallback_idx": 7,
-  "call_count": 210
+  "subcluster_idx": 1,
+  "fallback_idx": 8,
+  "call_count": 211
 }
