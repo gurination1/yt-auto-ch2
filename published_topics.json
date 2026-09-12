@@ -1,9 +1,5 @@
 {
   "topics": [
-    "How 'hot Jupiter' exoplanets, such as WASP-121b, can experience atmospheric conditions so extreme that specific high-temperature minerals, like corundum, vaporize and then condense to create actual rain made of liquid rubies and sapphires in their upper atmospheres.",
-    "Quantum heat waves have been observed moving through a crystal at room temperature in focused, wave-like rays, challenging the traditional understanding of heat dissipation and offering a potential breakthrough for thermal management in next-generation electronics.",
-    "A groundbreaking 'metacrystal' made of carved gold film has enabled the first room-temperature quantum material to sort and transport distinct quantum states of light, potentially eliminating the need for bulky, ultra-cold refrigeration in future quantum technologies.",
-    "How some CRISPR-Cas systems act as a 'molecular shredder,' non-specifically cleaving all surrounding genetic material once a target RNA/DNA is detected, forming the basis for ultra-sensitive diagnostics like SHERLOCK.",
     "The Viral Sahara Tortoise 'Greening' Hoax Debunked",
     "New research reveals that the decentralized decision-making of ant colonies is providing a revolutionary blueprint for next-generation swarm robotics.",
     "How singing sand dunes actually work: The bizarre phenomenon is caused by a specific shear-induced acoustic resonance where a uniform layer of dry sand grains slides over a stable layer, generating frequencies from 70 to 400 Hz.",
@@ -89,9 +85,13 @@
     "Arctic Bacteria's Million-Year Cryptobiosis",
     "The mind-bending parasite that chemically castrates crabs and forces males to act like females.",
     "Alien 'Elbow' Squid Filmed for First Time in New Deep-Sea Region",
-    "Rattlesnake's Own Blood: The Ultimate Antivenom"
+    "Rattlesnake's Own Blood: The Ultimate Antivenom",
+    "The 'Conan the Bacterium' that can repair its DNA from thousands of radiation hits.",
+    "Ancient 'Goo-Filled Bag' Animal Found in 3D Fossil",
+    "Caterpillars Bribe Ants with Dopamine for Protection",
+    "The Deep Sea's 'Squishy Secret': Why Soft Bodies Survive Crushing Pressure"
   ],
-  "subcluster_idx": 2,
-  "fallback_idx": 9,
-  "call_count": 212
+  "subcluster_idx": 1,
+  "fallback_idx": 13,
+  "call_count": 216
 }
