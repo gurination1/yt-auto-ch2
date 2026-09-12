@@ -1,6 +1,5 @@
 {
   "topics": [
-    "New research reveals that the decentralized decision-making of ant colonies is providing a revolutionary blueprint for next-generation swarm robotics.",
     "How singing sand dunes actually work: The bizarre phenomenon is caused by a specific shear-induced acoustic resonance where a uniform layer of dry sand grains slides over a stable layer, generating frequencies from 70 to 400 Hz.",
     "Corals generate microscopic oxygen vortices, revealing a hidden survival mechanism vulnerable to warming oceans.",
     "The World Meteorological Organization warns that a rapidly strengthening El Ni\u00f1o, with record-warm Pacific waters, is poised to intensify extreme weather, posing an unprecedented threat to the Amazon rainforest's already weakened ecosystems through drought and wildfires.",
@@ -89,9 +88,10 @@
     "Ancient 'Goo-Filled Bag' Animal Found in 3D Fossil",
     "Caterpillars Bribe Ants with Dopamine for Protection",
     "The Deep Sea's 'Squishy Secret': Why Soft Bodies Survive Crushing Pressure",
-    "Nanobodies: The Future of Snakebite Treatment"
+    "Nanobodies: The Future of Snakebite Treatment",
+    "Microbes actively detoxifying nuclear waste using radiation as energy"
   ],
-  "subcluster_idx": 2,
-  "fallback_idx": 14,
-  "call_count": 217
+  "subcluster_idx": 3,
+  "fallback_idx": 15,
+  "call_count": 218
 }
