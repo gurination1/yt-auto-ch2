@@ -1,6 +1,5 @@
 {
   "topics": [
-    "The World Meteorological Organization warns that a rapidly strengthening El Ni\u00f1o, with record-warm Pacific waters, is poised to intensify extreme weather, posing an unprecedented threat to the Amazon rainforest's already weakened ecosystems through drought and wildfires.",
     "How monarch butterflies navigate 3,000 miles: They use a time-compensated sun compass, but also detect polarized light through specialized cryptochrome proteins in their antennae, providing a crucial compass even on cloudy days.",
     "The reintroduction of wolves to Isle Royale National Park has dramatically reshaped the island's ecosystem, with wolf populations recovering and moose numbers responding to renewed predation, offering a compelling case study of apex predator impact.",
     "Urban Wildlife Encounters Amidst Extreme Weather: The recent viral sighting of a Burmese python in a Hong Kong shopping district highlights how climate-driven downpours and habitat disruption are forcing wild animals into urban environments, increasing human-wildlife conflict and revealing the shrinking boundaries of natural habitats.",
@@ -89,9 +88,10 @@
     "Nanobodies: The Future of Snakebite Treatment",
     "Microbes actively detoxifying nuclear waste using radiation as energy",
     "The Mimic Octopus: Nature's Master Shapeshifter That Becomes Other Animals",
-    "Flesh-Eating Screwworm Outbreak in Texas"
+    "Flesh-Eating Screwworm Outbreak in Texas",
+    "Deep-Sea Pressure Squeezes Food from Marine Snow"
   ],
-  "subcluster_idx": 0,
-  "fallback_idx": 17,
-  "call_count": 220
+  "subcluster_idx": 1,
+  "fallback_idx": 18,
+  "call_count": 221
 }
