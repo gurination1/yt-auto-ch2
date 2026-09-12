@@ -1,6 +1,5 @@
 {
   "topics": [
-    "The Viral Sahara Tortoise 'Greening' Hoax Debunked",
     "New research reveals that the decentralized decision-making of ant colonies is providing a revolutionary blueprint for next-generation swarm robotics.",
     "How singing sand dunes actually work: The bizarre phenomenon is caused by a specific shear-induced acoustic resonance where a uniform layer of dry sand grains slides over a stable layer, generating frequencies from 70 to 400 Hz.",
     "Corals generate microscopic oxygen vortices, revealing a hidden survival mechanism vulnerable to warming oceans.",
@@ -89,9 +88,10 @@
     "The 'Conan the Bacterium' that can repair its DNA from thousands of radiation hits.",
     "Ancient 'Goo-Filled Bag' Animal Found in 3D Fossil",
     "Caterpillars Bribe Ants with Dopamine for Protection",
-    "The Deep Sea's 'Squishy Secret': Why Soft Bodies Survive Crushing Pressure"
+    "The Deep Sea's 'Squishy Secret': Why Soft Bodies Survive Crushing Pressure",
+    "Nanobodies: The Future of Snakebite Treatment"
   ],
-  "subcluster_idx": 1,
-  "fallback_idx": 13,
-  "call_count": 216
+  "subcluster_idx": 2,
+  "fallback_idx": 14,
+  "call_count": 217
 }
