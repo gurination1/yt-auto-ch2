@@ -1,6 +1,5 @@
 {
   "topics": [
-    "How singing sand dunes actually work: The bizarre phenomenon is caused by a specific shear-induced acoustic resonance where a uniform layer of dry sand grains slides over a stable layer, generating frequencies from 70 to 400 Hz.",
     "Corals generate microscopic oxygen vortices, revealing a hidden survival mechanism vulnerable to warming oceans.",
     "The World Meteorological Organization warns that a rapidly strengthening El Ni\u00f1o, with record-warm Pacific waters, is poised to intensify extreme weather, posing an unprecedented threat to the Amazon rainforest's already weakened ecosystems through drought and wildfires.",
     "How monarch butterflies navigate 3,000 miles: They use a time-compensated sun compass, but also detect polarized light through specialized cryptochrome proteins in their antennae, providing a crucial compass even on cloudy days.",
@@ -89,9 +88,10 @@
     "Caterpillars Bribe Ants with Dopamine for Protection",
     "The Deep Sea's 'Squishy Secret': Why Soft Bodies Survive Crushing Pressure",
     "Nanobodies: The Future of Snakebite Treatment",
-    "Microbes actively detoxifying nuclear waste using radiation as energy"
+    "Microbes actively detoxifying nuclear waste using radiation as energy",
+    "The Mimic Octopus: Nature's Master Shapeshifter That Becomes Other Animals"
   ],
-  "subcluster_idx": 3,
-  "fallback_idx": 15,
-  "call_count": 218
+  "subcluster_idx": 4,
+  "fallback_idx": 16,
+  "call_count": 219
 }
