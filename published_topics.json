@@ -1,6 +1,5 @@
 {
   "topics": [
-    "A viral video from India's Tadoba-Andhari Tiger Reserve sparks outrage, highlighting the dangerous breakdown of safety protocols as tourists directly confront an apex predator, raising urgent questions about wildlife tourism ethics.",
     "How ocean acidification disrupts the *otolith calcification* process in fish, leading to sensory impairment that can \"deafen\" them and hinder their ability to avoid predators or find suitable habitats.",
     "Scientists are marveling at Longhorn Crazy Ants' ability to anticipate and proactively clear obstacles for nestmates carrying food, showcasing complex, forward-looking swarm intelligence.",
     "New research reveals the iconic Stonehenge 'altar stone' was transported over 460 miles from Scotland, challenging historical understanding of ancient transport capabilities.",
@@ -89,9 +88,10 @@
     "The aquatic beetle Regimbartia attenuata that survives being swallowed by a frog by actively crawling through its digestive tract and escaping alive through the anus.",
     "The microscopic fungus that forces infected ants to climb high branches and clamp their jaws into a death grip",
     "The Scaly-Foot Gastropod's magnetic iron-sulfide armor",
-    "The ribbon worm's explosive, branching venomous proboscis that hunts like an alien parasite"
+    "The ribbon worm's explosive, branching venomous proboscis that hunts like an alien parasite",
+    "Siberian permafrost nematodes that woke up and successfully reproduced after sleeping for 46,000 years"
   ],
-  "subcluster_idx": 2,
-  "fallback_idx": 24,
-  "call_count": 227
+  "subcluster_idx": 3,
+  "fallback_idx": 0,
+  "call_count": 228
 }
