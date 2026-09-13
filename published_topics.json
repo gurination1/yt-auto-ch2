@@ -1,6 +1,5 @@
 {
   "topics": [
-    "How ant colonies prevent disease outbreaks: Ants detect dead nestmates using specific \"death pheromones,\" primarily oleic acid, which triggers **necrophoresis** behavior, causing workers to quickly remove deceased individuals from the nest to maintain hygiene.",
     "How some rainforest trees directly absorb nutrients from the air: The bizarre mechanism of 'canopy roots' allows certain trees to grow adventitious roots upwards into aerial moss mats and detritus, bypassing nutrient-poor soil entirely to capture nutrients from rainwater and decaying organic matter.",
     "Recently released, jaw-dropping viral videos capture the high-stakes, perilous Mara River crossing during the Great Wildebeest Migration, showcasing the brutal yet essential predator-prey dynamics in one of nature's most dramatic spectacles.",
     "A viral video from India's Tadoba-Andhari Tiger Reserve sparks outrage, highlighting the dangerous breakdown of safety protocols as tourists directly confront an apex predator, raising urgent questions about wildlife tourism ethics.",
@@ -89,9 +88,10 @@
     "Deep-Sea Pressure Squeezes Food from Marine Snow",
     "Geography cone snail's weaponized insulin venom that freezes fish in instant diabetic coma",
     "Radical 'Glass' State Survival in Extremophiles",
-    "The aquatic beetle Regimbartia attenuata that survives being swallowed by a frog by actively crawling through its digestive tract and escaping alive through the anus."
+    "The aquatic beetle Regimbartia attenuata that survives being swallowed by a frog by actively crawling through its digestive tract and escaping alive through the anus.",
+    "The microscopic fungus that forces infected ants to climb high branches and clamp their jaws into a death grip"
   ],
-  "subcluster_idx": 4,
-  "fallback_idx": 21,
-  "call_count": 224
+  "subcluster_idx": 0,
+  "fallback_idx": 22,
+  "call_count": 225
 }
