@@ -1,6 +1,5 @@
 {
   "topics": [
-    "How some rainforest trees directly absorb nutrients from the air: The bizarre mechanism of 'canopy roots' allows certain trees to grow adventitious roots upwards into aerial moss mats and detritus, bypassing nutrient-poor soil entirely to capture nutrients from rainwater and decaying organic matter.",
     "Recently released, jaw-dropping viral videos capture the high-stakes, perilous Mara River crossing during the Great Wildebeest Migration, showcasing the brutal yet essential predator-prey dynamics in one of nature's most dramatic spectacles.",
     "A viral video from India's Tadoba-Andhari Tiger Reserve sparks outrage, highlighting the dangerous breakdown of safety protocols as tourists directly confront an apex predator, raising urgent questions about wildlife tourism ethics.",
     "How ocean acidification disrupts the *otolith calcification* process in fish, leading to sensory impairment that can \"deafen\" them and hinder their ability to avoid predators or find suitable habitats.",
@@ -89,9 +88,10 @@
     "Geography cone snail's weaponized insulin venom that freezes fish in instant diabetic coma",
     "Radical 'Glass' State Survival in Extremophiles",
     "The aquatic beetle Regimbartia attenuata that survives being swallowed by a frog by actively crawling through its digestive tract and escaping alive through the anus.",
-    "The microscopic fungus that forces infected ants to climb high branches and clamp their jaws into a death grip"
+    "The microscopic fungus that forces infected ants to climb high branches and clamp their jaws into a death grip",
+    "The Scaly-Foot Gastropod's magnetic iron-sulfide armor"
   ],
-  "subcluster_idx": 0,
-  "fallback_idx": 22,
-  "call_count": 225
+  "subcluster_idx": 1,
+  "fallback_idx": 23,
+  "call_count": 226
 }
