@@ -1,6 +1,5 @@
 {
   "topics": [
-    "New research reveals the iconic Stonehenge 'altar stone' was transported over 460 miles from Scotland, challenging historical understanding of ancient transport capabilities.",
     "How deep-sea creatures actually keep their proteins from crushing under immense pressure using specialized organic molecules.",
     "Colobus Congoensis: Mysterious New Monkey Species Discovered in Congo's Dense Rainforests with Striking Orange Mouth",
     "How pit vipers, like rattlesnakes, don't just 'sense' heat, but actually create a detailed thermal image of their prey in their brain by integrating signals from their **pit organs** with visual input, essentially giving them a sixth sense for infrared vision.",
@@ -89,9 +88,10 @@
     "The ribbon worm's explosive, branching venomous proboscis that hunts like an alien parasite",
     "Siberian permafrost nematodes that woke up and successfully reproduced after sleeping for 46,000 years",
     "The African Crested Rat's deadly poison-absorbing hair armor",
-    "The stolen host genes used by hairworms to chemically hijack cricket brains"
+    "The stolen host genes used by hairworms to chemically hijack cricket brains",
+    "The deep-sea snail with a suit of solid iron armor forged directly from volcanic vents"
   ],
-  "subcluster_idx": 0,
-  "fallback_idx": 2,
-  "call_count": 230
+  "subcluster_idx": 1,
+  "fallback_idx": 3,
+  "call_count": 231
 }
