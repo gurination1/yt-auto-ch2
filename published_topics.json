@@ -1,6 +1,5 @@
 {
   "topics": [
-    "Scientists are marveling at Longhorn Crazy Ants' ability to anticipate and proactively clear obstacles for nestmates carrying food, showcasing complex, forward-looking swarm intelligence.",
     "New research reveals the iconic Stonehenge 'altar stone' was transported over 460 miles from Scotland, challenging historical understanding of ancient transport capabilities.",
     "How deep-sea creatures actually keep their proteins from crushing under immense pressure using specialized organic molecules.",
     "Colobus Congoensis: Mysterious New Monkey Species Discovered in Congo's Dense Rainforests with Striking Orange Mouth",
@@ -89,9 +88,10 @@
     "The Scaly-Foot Gastropod's magnetic iron-sulfide armor",
     "The ribbon worm's explosive, branching venomous proboscis that hunts like an alien parasite",
     "Siberian permafrost nematodes that woke up and successfully reproduced after sleeping for 46,000 years",
-    "The African Crested Rat's deadly poison-absorbing hair armor"
+    "The African Crested Rat's deadly poison-absorbing hair armor",
+    "The stolen host genes used by hairworms to chemically hijack cricket brains"
   ],
-  "subcluster_idx": 4,
-  "fallback_idx": 1,
-  "call_count": 229
+  "subcluster_idx": 0,
+  "fallback_idx": 2,
+  "call_count": 230
 }
