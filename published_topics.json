@@ -1,6 +1,5 @@
 {
   "topics": [
-    "How Arctic Terns navigate the longest migration on Earth by essentially \"turning off\" their internal clock: During their 49,000-mile annual journey, they suppress their **circadian rhythm** through **light-induced clock gene repression**, maximizing foraging time under continuous polar daylight.",
     "Arctic's vanishing sea ice is forcing polar bears to increasingly prey on vulnerable seabird colonies, leading to unprecedented ecosystem disruption.",
     "Despite a brief recovery on parts of the Great Barrier Reef due to recent monsoons, scientists warn its long-term vulnerability to mass bleaching events remains high, with the latest global event being the most extensive on record.",
     "How the giant termite mounds of Africa function as sophisticated, self-regulating ventilation systems, using intricate tunnel networks and the principles of *convection currents* to maintain stable internal temperature and humidity for the colony.",
@@ -89,9 +88,10 @@
     "The parasitic barnacle that castrates male crabs and rewires their brains to mother alien larvae",
     "The Deep-Sea Amphipod's Titanium-Infused Exoskeleton That Withstands Marianas Trench Pressure",
     "How the stonefish injects a neurotoxin so agonizing that victims desperately beg doctors to amputate their limbs without anesthesia.",
-    "How the Antarctic midge Belgica antarctica survives complete cellular dehydration and freezing by turning its body fluids into biological glass"
+    "How the Antarctic midge Belgica antarctica survives complete cellular dehydration and freezing by turning its body fluids into biological glass",
+    "Why the archerfish shoots high-velocity water droplets with complex hydrodynamic force to knock flying insects out of the air from feet away."
   ],
-  "subcluster_idx": 3,
-  "fallback_idx": 10,
-  "call_count": 238
+  "subcluster_idx": 4,
+  "fallback_idx": 11,
+  "call_count": 239
 }
