@@ -1,6 +1,5 @@
 {
   "topics": [
-    "The creation of \"cybertypes\" using advanced underwater imaging, robotics, and genomic sequencing is revolutionizing deep-sea animal study, allowing scientists to capture full genetic and physiological data of delicate organisms in their natural habitat.",
     "Rainforest biodiversity rebounds within a single generation, driven by key animal species.",
     "How Arctic Terns navigate the longest migration on Earth by essentially \"turning off\" their internal clock: During their 49,000-mile annual journey, they suppress their **circadian rhythm** through **light-induced clock gene repression**, maximizing foraging time under continuous polar daylight.",
     "Arctic's vanishing sea ice is forcing polar bears to increasingly prey on vulnerable seabird colonies, leading to unprecedented ecosystem disruption.",
@@ -89,9 +88,10 @@
     "The 'Devil Worm' (Halicephalobus mephisto) surviving miles underground in boiling, oxygen-free rock",
     "The Hairy Frog's Wolverine-like bone claws",
     "The parasitic barnacle that castrates male crabs and rewires their brains to mother alien larvae",
-    "The Deep-Sea Amphipod's Titanium-Infused Exoskeleton That Withstands Marianas Trench Pressure"
+    "The Deep-Sea Amphipod's Titanium-Infused Exoskeleton That Withstands Marianas Trench Pressure",
+    "How the stonefish injects a neurotoxin so agonizing that victims desperately beg doctors to amputate their limbs without anesthesia."
   ],
-  "subcluster_idx": 1,
-  "fallback_idx": 8,
-  "call_count": 236
+  "subcluster_idx": 2,
+  "fallback_idx": 9,
+  "call_count": 237
 }
