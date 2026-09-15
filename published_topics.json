@@ -1,6 +1,5 @@
 {
   "topics": [
-    "Ancient Warming Event Reveals Future of Forest Collapse: A new *Science* study warns modern forests face unprecedented thinning, mimicking a 56-million-year-old climate crisis but at ten times the speed.",
     "How the ocean's \"sea sparkle\" is actually a complex cellular defense mechanism in dinoflagellates, where mechanical agitation triggers a **scintillon-based luciferin-luciferase reaction** to emit light, startling predators.",
     "The creation of \"cybertypes\" using advanced underwater imaging, robotics, and genomic sequencing is revolutionizing deep-sea animal study, allowing scientists to capture full genetic and physiological data of delicate organisms in their natural habitat.",
     "Rainforest biodiversity rebounds within a single generation, driven by key animal species.",
@@ -89,9 +88,10 @@
     "The deep-sea snail with a suit of solid iron armor forged directly from volcanic vents",
     "How the box jellyfish's dual-action neurotoxin triggers instant cardiovascular collapse by punching microscopic holes in human red blood cells, causing potassium to flood the bloodstream and stopping the heart in seconds.",
     "The 'Devil Worm' (Halicephalobus mephisto) surviving miles underground in boiling, oxygen-free rock",
-    "The Hairy Frog's Wolverine-like bone claws"
+    "The Hairy Frog's Wolverine-like bone claws",
+    "The parasitic barnacle that castrates male crabs and rewires their brains to mother alien larvae"
   ],
-  "subcluster_idx": 4,
-  "fallback_idx": 6,
-  "call_count": 234
+  "subcluster_idx": 0,
+  "fallback_idx": 7,
+  "call_count": 235
 }
