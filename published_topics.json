@@ -1,6 +1,5 @@
 {
   "topics": [
-    "How the ocean's \"sea sparkle\" is actually a complex cellular defense mechanism in dinoflagellates, where mechanical agitation triggers a **scintillon-based luciferin-luciferase reaction** to emit light, startling predators.",
     "The creation of \"cybertypes\" using advanced underwater imaging, robotics, and genomic sequencing is revolutionizing deep-sea animal study, allowing scientists to capture full genetic and physiological data of delicate organisms in their natural habitat.",
     "Rainforest biodiversity rebounds within a single generation, driven by key animal species.",
     "How Arctic Terns navigate the longest migration on Earth by essentially \"turning off\" their internal clock: During their 49,000-mile annual journey, they suppress their **circadian rhythm** through **light-induced clock gene repression**, maximizing foraging time under continuous polar daylight.",
@@ -89,9 +88,10 @@
     "How the box jellyfish's dual-action neurotoxin triggers instant cardiovascular collapse by punching microscopic holes in human red blood cells, causing potassium to flood the bloodstream and stopping the heart in seconds.",
     "The 'Devil Worm' (Halicephalobus mephisto) surviving miles underground in boiling, oxygen-free rock",
     "The Hairy Frog's Wolverine-like bone claws",
-    "The parasitic barnacle that castrates male crabs and rewires their brains to mother alien larvae"
+    "The parasitic barnacle that castrates male crabs and rewires their brains to mother alien larvae",
+    "The Deep-Sea Amphipod's Titanium-Infused Exoskeleton That Withstands Marianas Trench Pressure"
   ],
-  "subcluster_idx": 0,
-  "fallback_idx": 7,
-  "call_count": 235
+  "subcluster_idx": 1,
+  "fallback_idx": 8,
+  "call_count": 236
 }
