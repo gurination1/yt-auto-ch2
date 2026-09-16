@@ -1,6 +1,5 @@
 {
   "topics": [
-    "How the giant termite mounds of Africa function as sophisticated, self-regulating ventilation systems, using intricate tunnel networks and the principles of *convection currents* to maintain stable internal temperature and humidity for the colony.",
     "Yellowstone's dramatic hydrothermal explosion creates new boiling pool, reshaping the landscape overnight.",
     "The Labrador Sea's newly recognized critical role in supplying oxygen to vast deep-sea North Atlantic ecosystems is fundamentally reshaping oceanographic understanding.",
     "How *Passiflora* vines actually work to avoid herbivory: They employ \"Batesian mimicry\" by growing specialized yellow stipules or nectaries on their leaves that precisely mimic the eggs of *Heliconius* butterflies, tricking egg-laying females into believing the plant is already occupied and deterring them from laying their own.",
@@ -89,9 +88,10 @@
     "How the Antarctic midge Belgica antarctica survives complete cellular dehydration and freezing by turning its body fluids into biological glass",
     "Why the archerfish shoots high-velocity water droplets with complex hydrodynamic force to knock flying insects out of the air from feet away.",
     "The microscopic parasitic flatworm Euhaplorchis californiensis that hacks killifish brains, forcing them to swim upside down and flash bright colors to attract predatory herons.",
-    "How the deep-sea siphonophore Bathyphysa conifera deploys a terrifying living fishing line lined with lethal stinging nematocysts that stretch for miles across the pitch-black abyss."
+    "How the deep-sea siphonophore Bathyphysa conifera deploys a terrifying living fishing line lined with lethal stinging nematocysts that stretch for miles across the pitch-black abyss.",
+    "How the platypus injects a specialized cocktail of venom containing nerve-shredding proteins that human painkillers literally cannot touch, defying standard medical treatment."
   ],
-  "subcluster_idx": 1,
-  "fallback_idx": 13,
-  "call_count": 241
+  "subcluster_idx": 2,
+  "fallback_idx": 14,
+  "call_count": 242
 }
