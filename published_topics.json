@@ -1,6 +1,5 @@
 {
   "topics": [
-    "Discovery of a Giant Phantom Jellyfish (Stygiomedusa gigantea), a rarely seen deep-sea predator with 10-meter long arms, in a newly explored Antarctic ecosystem.",
     "What if rising temperatures caused entire turtle populations to become 99% female, threatening their survival through the mechanism of **Temperature-Dependent Sex Determination (TSD)**?",
     "AI-powered robotic beehives are revolutionizing apiculture, deploying automated systems to monitor colony health, predict threats like disease and pests, and improve pollination efficiency, offering a critical technological solution to the global decline in bee populations.",
     "Heightened seismic and volcanic unrest detected across North America's West Coast, with ongoing monitoring revealing increased activity in the Cascadia Subduction Zone, Yellowstone, California's fault network, and the Cascade Range volcanoes, including recent earthquake swarms and ground deformation.",
@@ -89,9 +88,10 @@
     "How the microscopic tardigrade (water bear) weaves a protective shield of intrinsically disordered proteins to survive the absolute vacuum of space and 150-degree heat.",
     "How the Dracula ant (*Mystrium camillae*) snaps its mandibles at 200 miles per hour\u2014the fastest recorded animal movement\u2014by springing them together like a mouse trap.",
     "The microscopic fungal assassin *Tolypocladium* that injects precision neurotoxins into cicadas, replacing their muscle tissue with solid fungal spores while keeping them alive and flying to spread infection.",
-    "How the deep-sea ghost octopus (Grimpoteuthis) survives crushing abyssal pressure without collapsing by replacing hard bones with a gelatinous, water-retaining structural matrix."
+    "How the deep-sea ghost octopus (Grimpoteuthis) survives crushing abyssal pressure without collapsing by replacing hard bones with a gelatinous, water-retaining structural matrix.",
+    "How the tiny hooded pitohui bird coats its feathers in deadly batrachotoxin, a neurotoxin identical to poison dart frogs that paralyzes predators on contact."
   ],
-  "subcluster_idx": 1,
-  "fallback_idx": 18,
-  "call_count": 246
+  "subcluster_idx": 2,
+  "fallback_idx": 19,
+  "call_count": 247
 }
