@@ -1,6 +1,5 @@
 {
   "topics": [
-    "Recent viral videos are highlighting how tourist vehicles are directly impeding the Great Wildebeest Migration in Kenya's Maasai Mara, prompting urgent calls from national park rangers and the Ministry of Tourism for immediate action to protect the natural flow of this critical event.",
     "Discovery of a Giant Phantom Jellyfish (Stygiomedusa gigantea), a rarely seen deep-sea predator with 10-meter long arms, in a newly explored Antarctic ecosystem.",
     "What if rising temperatures caused entire turtle populations to become 99% female, threatening their survival through the mechanism of **Temperature-Dependent Sex Determination (TSD)**?",
     "AI-powered robotic beehives are revolutionizing apiculture, deploying automated systems to monitor colony health, predict threats like disease and pests, and improve pollination efficiency, offering a critical technological solution to the global decline in bee populations.",
@@ -89,9 +88,10 @@
     "How the platypus injects a specialized cocktail of venom containing nerve-shredding proteins that human painkillers literally cannot touch, defying standard medical treatment.",
     "How the microscopic tardigrade (water bear) weaves a protective shield of intrinsically disordered proteins to survive the absolute vacuum of space and 150-degree heat.",
     "How the Dracula ant (*Mystrium camillae*) snaps its mandibles at 200 miles per hour\u2014the fastest recorded animal movement\u2014by springing them together like a mouse trap.",
-    "The microscopic fungal assassin *Tolypocladium* that injects precision neurotoxins into cicadas, replacing their muscle tissue with solid fungal spores while keeping them alive and flying to spread infection."
+    "The microscopic fungal assassin *Tolypocladium* that injects precision neurotoxins into cicadas, replacing their muscle tissue with solid fungal spores while keeping them alive and flying to spread infection.",
+    "How the deep-sea ghost octopus (Grimpoteuthis) survives crushing abyssal pressure without collapsing by replacing hard bones with a gelatinous, water-retaining structural matrix."
   ],
-  "subcluster_idx": 0,
-  "fallback_idx": 17,
-  "call_count": 245
+  "subcluster_idx": 1,
+  "fallback_idx": 18,
+  "call_count": 246
 }
