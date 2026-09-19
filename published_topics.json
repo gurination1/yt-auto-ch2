@@ -1,6 +1,5 @@
 {
   "topics": [
-    "Heightened seismic and volcanic unrest detected across North America's West Coast, with ongoing monitoring revealing increased activity in the Cascadia Subduction Zone, Yellowstone, California's fault network, and the Cascade Range volcanoes, including recent earthquake swarms and ground deformation.",
     "How deep-sea anglerfish can regenerate their bioluminescent esca (lure) and re-establish a symbiotic relationship with light-producing bacteria after damage, ensuring continuous hunting in perpetual darkness.",
     "The unexpected discovery of a kinkajou, a rainforest mammal, found roaming in North Texas heat, sparks a critical discussion about exotic pet trade and animal welfare.",
     "Emerging research indicates that behavioral flexibility in animals, such as changing foraging habits or seeking new microclimates, plays a more significant role than previously understood in slowing physical evolution, allowing species to adapt to rapid environmental shifts like climate change without immediate genetic alterations.",
@@ -89,9 +88,10 @@
     "How the deep-sea ghost octopus (Grimpoteuthis) survives crushing abyssal pressure without collapsing by replacing hard bones with a gelatinous, water-retaining structural matrix.",
     "How the tiny hooded pitohui bird coats its feathers in deadly batrachotoxin, a neurotoxin identical to poison dart frogs that paralyzes predators on contact.",
     "How the brine shrimp Artemia franciscana embryo enters cryptobiosis, dropping its metabolic rate to virtually zero inside an impermeable cyst shell to survive total desiccation for decades.",
-    "How the Iberian ribbed newt pushes its own razor-sharp ribs directly through its sides to stab attackers with toxic biological daggers."
+    "How the Iberian ribbed newt pushes its own razor-sharp ribs directly through its sides to stab attackers with toxic biological daggers.",
+    "The microscopic parasitoid wasp Dinocampus coccinellae that hijacks ladybug nervous systems to build a twitching silk sleeping bag for its cocoon."
   ],
-  "subcluster_idx": 4,
-  "fallback_idx": 21,
-  "call_count": 249
+  "subcluster_idx": 0,
+  "fallback_idx": 22,
+  "call_count": 250
 }
