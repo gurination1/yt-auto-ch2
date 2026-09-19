@@ -1,6 +1,5 @@
 {
   "topics": [
-    "The unexpected discovery of a kinkajou, a rainforest mammal, found roaming in North Texas heat, sparks a critical discussion about exotic pet trade and animal welfare.",
     "Emerging research indicates that behavioral flexibility in animals, such as changing foraging habits or seeking new microclimates, plays a more significant role than previously understood in slowing physical evolution, allowing species to adapt to rapid environmental shifts like climate change without immediate genetic alterations.",
     "How the mere scent of a predator, through **transgenerational epigenetic inheritance**, can cause physiological and behavioral changes in prey animals that persist for generations, even if descendants never encounter the predator.",
     "Southeast Asia's Choking Habitats: Indonesian Wildfires Ignite a Regional Haze Crisis, Threatening Biodiversity and Air Quality.",
@@ -89,9 +88,10 @@
     "How the brine shrimp Artemia franciscana embryo enters cryptobiosis, dropping its metabolic rate to virtually zero inside an impermeable cyst shell to survive total desiccation for decades.",
     "How the Iberian ribbed newt pushes its own razor-sharp ribs directly through its sides to stab attackers with toxic biological daggers.",
     "The microscopic parasitoid wasp Dinocampus coccinellae that hijacks ladybug nervous systems to build a twitching silk sleeping bag for its cocoon.",
-    "How the deep-sea pearlfish uses a hardened muscular tail to violently spear its way backward into the suffocating anus of a living sea cucumber to hide from abyssal predators."
+    "How the deep-sea pearlfish uses a hardened muscular tail to violently spear its way backward into the suffocating anus of a living sea cucumber to hide from abyssal predators.",
+    "How the slow loris secretes a toxic oil from its arm glands that, when mixed with saliva, creates a flesh-rotting chemical weapon."
   ],
-  "subcluster_idx": 1,
-  "fallback_idx": 23,
-  "call_count": 251
+  "subcluster_idx": 2,
+  "fallback_idx": 24,
+  "call_count": 252
 }
