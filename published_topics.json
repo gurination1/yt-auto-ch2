@@ -1,6 +1,5 @@
 {
   "topics": [
-    "AI-powered robotic beehives are revolutionizing apiculture, deploying automated systems to monitor colony health, predict threats like disease and pests, and improve pollination efficiency, offering a critical technological solution to the global decline in bee populations.",
     "Heightened seismic and volcanic unrest detected across North America's West Coast, with ongoing monitoring revealing increased activity in the Cascadia Subduction Zone, Yellowstone, California's fault network, and the Cascade Range volcanoes, including recent earthquake swarms and ground deformation.",
     "How deep-sea anglerfish can regenerate their bioluminescent esca (lure) and re-establish a symbiotic relationship with light-producing bacteria after damage, ensuring continuous hunting in perpetual darkness.",
     "The unexpected discovery of a kinkajou, a rainforest mammal, found roaming in North Texas heat, sparks a critical discussion about exotic pet trade and animal welfare.",
@@ -89,9 +88,10 @@
     "The microscopic fungal assassin *Tolypocladium* that injects precision neurotoxins into cicadas, replacing their muscle tissue with solid fungal spores while keeping them alive and flying to spread infection.",
     "How the deep-sea ghost octopus (Grimpoteuthis) survives crushing abyssal pressure without collapsing by replacing hard bones with a gelatinous, water-retaining structural matrix.",
     "How the tiny hooded pitohui bird coats its feathers in deadly batrachotoxin, a neurotoxin identical to poison dart frogs that paralyzes predators on contact.",
-    "How the brine shrimp Artemia franciscana embryo enters cryptobiosis, dropping its metabolic rate to virtually zero inside an impermeable cyst shell to survive total desiccation for decades."
+    "How the brine shrimp Artemia franciscana embryo enters cryptobiosis, dropping its metabolic rate to virtually zero inside an impermeable cyst shell to survive total desiccation for decades.",
+    "How the Iberian ribbed newt pushes its own razor-sharp ribs directly through its sides to stab attackers with toxic biological daggers."
   ],
-  "subcluster_idx": 3,
-  "fallback_idx": 20,
-  "call_count": 248
+  "subcluster_idx": 4,
+  "fallback_idx": 21,
+  "call_count": 249
 }
