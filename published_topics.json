@@ -1,6 +1,5 @@
 {
   "topics": [
-    "Southeast Asia's Choking Habitats: Indonesian Wildfires Ignite a Regional Haze Crisis, Threatening Biodiversity and Air Quality.",
     "How some salt flats form perfect hexagons: The phenomenon is caused by a specific interplay of thermal contraction, expansion, and the crystallization of brine, leading to **ice-wedge polygon analogs** in salt crusts.",
     "Rare oarfish sightings spark global 'doomsday' speculation, challenging scientific understanding of deep-sea creature behavior before geological events.",
     "Brazil's Atlantic Forest, once severely diminished, is experiencing a remarkable resurgence due to dedicated conservation efforts, with the successful reintroduction and monitored survival of iconic species like the golden lion tamarin signaling a powerful blueprint for ecosystem restoration.",
@@ -89,9 +88,10 @@
     "How the deep-sea pearlfish uses a hardened muscular tail to violently spear its way backward into the suffocating anus of a living sea cucumber to hide from abyssal predators.",
     "How the slow loris secretes a toxic oil from its arm glands that, when mixed with saliva, creates a flesh-rotting chemical weapon.",
     "How the hydrothermal vent Pompeii worm (Alvinella pompejana) thrives under continuous thermal stress, enduring blistering 80\u00b0C waters while wrapped in a protective fleece of heavy-metal detoxifying bacteria",
-    "How the deep-sea pelican eel unhinges its massive, flexible jaws to swallow prey larger than its entire body whole"
+    "How the deep-sea pelican eel unhinges its massive, flexible jaws to swallow prey larger than its entire body whole",
+    "How the parasitic wasp Glyptapanteles forces its caterpillar host to abandon feeding and violently whip its head to guard alien cocoons until it starves."
   ],
-  "subcluster_idx": 4,
-  "fallback_idx": 1,
-  "call_count": 254
+  "subcluster_idx": 0,
+  "fallback_idx": 2,
+  "call_count": 255
 }
