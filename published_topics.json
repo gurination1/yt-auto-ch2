@@ -1,6 +1,5 @@
 {
   "topics": [
-    "How the mere scent of a predator, through **transgenerational epigenetic inheritance**, can cause physiological and behavioral changes in prey animals that persist for generations, even if descendants never encounter the predator.",
     "Southeast Asia's Choking Habitats: Indonesian Wildfires Ignite a Regional Haze Crisis, Threatening Biodiversity and Air Quality.",
     "How some salt flats form perfect hexagons: The phenomenon is caused by a specific interplay of thermal contraction, expansion, and the crystallization of brine, leading to **ice-wedge polygon analogs** in salt crusts.",
     "Rare oarfish sightings spark global 'doomsday' speculation, challenging scientific understanding of deep-sea creature behavior before geological events.",
@@ -89,9 +88,10 @@
     "The microscopic parasitoid wasp Dinocampus coccinellae that hijacks ladybug nervous systems to build a twitching silk sleeping bag for its cocoon.",
     "How the deep-sea pearlfish uses a hardened muscular tail to violently spear its way backward into the suffocating anus of a living sea cucumber to hide from abyssal predators.",
     "How the slow loris secretes a toxic oil from its arm glands that, when mixed with saliva, creates a flesh-rotting chemical weapon.",
-    "How the hydrothermal vent Pompeii worm (Alvinella pompejana) thrives under continuous thermal stress, enduring blistering 80\u00b0C waters while wrapped in a protective fleece of heavy-metal detoxifying bacteria"
+    "How the hydrothermal vent Pompeii worm (Alvinella pompejana) thrives under continuous thermal stress, enduring blistering 80\u00b0C waters while wrapped in a protective fleece of heavy-metal detoxifying bacteria",
+    "How the deep-sea pelican eel unhinges its massive, flexible jaws to swallow prey larger than its entire body whole"
   ],
-  "subcluster_idx": 3,
-  "fallback_idx": 0,
-  "call_count": 253
+  "subcluster_idx": 4,
+  "fallback_idx": 1,
+  "call_count": 254
 }
