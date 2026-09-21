@@ -1,6 +1,5 @@
 {
   "topics": [
-    "Brazil's Atlantic Forest, once severely diminished, is experiencing a remarkable resurgence due to dedicated conservation efforts, with the successful reintroduction and monitored survival of iconic species like the golden lion tamarin signaling a powerful blueprint for ecosystem restoration.",
     "Mycelium Fungal Underground Forest Networks",
     "A recent viral video captures a rare, dramatic encounter between a crocodile and a young elephant at a watering hole, showcasing the unexpected audacity of an ambush predator against formidable prey.",
     "Global temperature overshoot, even temporary, locking in irreversible biodiversity loss and ecosystem collapse, defying previous assumptions about recovery.",
@@ -89,9 +88,10 @@
     "How the deep-sea pelican eel unhinges its massive, flexible jaws to swallow prey larger than its entire body whole",
     "How the parasitic wasp Glyptapanteles forces its caterpillar host to abandon feeding and violently whip its head to guard alien cocoons until it starves.",
     "How deep-sea xenophyophores\u2014giant single-celled amoebas\u2014grow up to twenty centimeters wide under extreme pressures that would instantly rupture normal cells.",
-    "How the sea walnut (Beroe ovata) deploys specialized biochemical digestive enzymes that liquefy rival comb jellies from the inside out in seconds."
+    "How the sea walnut (Beroe ovata) deploys specialized biochemical digestive enzymes that liquefy rival comb jellies from the inside out in seconds.",
+    "How the desert resurrection plant (Selaginella lepidophylla) completely dries into a brittle brown ball for years, then instantly resurrects green tissue upon contact with water."
   ],
-  "subcluster_idx": 2,
-  "fallback_idx": 4,
-  "call_count": 257
+  "subcluster_idx": 3,
+  "fallback_idx": 5,
+  "call_count": 258
 }
