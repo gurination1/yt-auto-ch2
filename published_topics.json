@@ -1,6 +1,5 @@
 {
   "topics": [
-    "A recent viral video captures a rare, dramatic encounter between a crocodile and a young elephant at a watering hole, showcasing the unexpected audacity of an ambush predator against formidable prey.",
     "Global temperature overshoot, even temporary, locking in irreversible biodiversity loss and ecosystem collapse, defying previous assumptions about recovery.",
     "How army ants construct dynamic, living bridges and rafts using their own bodies through a self-organizing process that optimizes for efficiency and traffic flow.",
     "Hydrothermal Vent Chemosynthesis Life Ecosystems",
@@ -89,9 +88,10 @@
     "How deep-sea xenophyophores\u2014giant single-celled amoebas\u2014grow up to twenty centimeters wide under extreme pressures that would instantly rupture normal cells.",
     "How the sea walnut (Beroe ovata) deploys specialized biochemical digestive enzymes that liquefy rival comb jellies from the inside out in seconds.",
     "How the desert resurrection plant (Selaginella lepidophylla) completely dries into a brittle brown ball for years, then instantly resurrects green tissue upon contact with water.",
-    "How the paradoxical frog (*Pseudis paradoxa*) defies mammalian growth logic by shrinking to a fraction of its size as an adult."
+    "How the paradoxical frog (*Pseudis paradoxa*) defies mammalian growth logic by shrinking to a fraction of its size as an adult.",
+    "How the microscopic protozoan Toxoplasma gondii rewires mammalian fear circuits to make rodents actively run toward cat urine."
   ],
-  "subcluster_idx": 4,
-  "fallback_idx": 6,
-  "call_count": 259
+  "subcluster_idx": 0,
+  "fallback_idx": 7,
+  "call_count": 260
 }
