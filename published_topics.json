@@ -1,6 +1,5 @@
 {
   "topics": [
-    "Hydrothermal Vent Chemosynthesis Life Ecosystems",
     "An expedition near Australia's Christmas and Cocos Islands uncovered 149 new deep-sea species, including a 'Shark Graveyard' containing ancient Megalodon teeth, revealing a massive gap in Indian Ocean biodiversity data.",
     "How the sloth's multi-chambered stomach, a process of **foregut fermentation**, allows it to extract maximum nutrients from low-quality leaves over an astonishing 30-day digestion cycle.",
     "The Great Nile Migration in South Sudan, a monumental movement of six million antelope, is now being recognized as the world's largest land mammal migration, a scale previously unseen and largely unappreciated by outsiders.",
@@ -89,9 +88,10 @@
     "How the paradoxical frog (*Pseudis paradoxa*) defies mammalian growth logic by shrinking to a fraction of its size as an adult.",
     "How the microscopic protozoan Toxoplasma gondii rewires mammalian fear circuits to make rodents actively run toward cat urine.",
     "How the deep-sea dragonfish (*Aristostias scintillans*) generates its own infrared bioluminescence, casting a secret hunting spotlight that only it can see.",
-    "How the velvet ant's biochemical cocktail delivers pain so intense it causes temporary blindness and systemic shock"
+    "How the velvet ant's biochemical cocktail delivers pain so intense it causes temporary blindness and systemic shock",
+    "How the extremophile red alga (*Cyanidioschyzon merolae*) thrives inside boiling, highly acidic volcanic sulfur springs that instantly dissolve other lifeforms."
   ],
-  "subcluster_idx": 2,
-  "fallback_idx": 9,
-  "call_count": 262
+  "subcluster_idx": 3,
+  "fallback_idx": 10,
+  "call_count": 263
 }
