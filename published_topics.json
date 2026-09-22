@@ -1,6 +1,5 @@
 {
   "topics": [
-    "How army ants construct dynamic, living bridges and rafts using their own bodies through a self-organizing process that optimizes for efficiency and traffic flow.",
     "Hydrothermal Vent Chemosynthesis Life Ecosystems",
     "An expedition near Australia's Christmas and Cocos Islands uncovered 149 new deep-sea species, including a 'Shark Graveyard' containing ancient Megalodon teeth, revealing a massive gap in Indian Ocean biodiversity data.",
     "How the sloth's multi-chambered stomach, a process of **foregut fermentation**, allows it to extract maximum nutrients from low-quality leaves over an astonishing 30-day digestion cycle.",
@@ -89,9 +88,10 @@
     "How the desert resurrection plant (Selaginella lepidophylla) completely dries into a brittle brown ball for years, then instantly resurrects green tissue upon contact with water.",
     "How the paradoxical frog (*Pseudis paradoxa*) defies mammalian growth logic by shrinking to a fraction of its size as an adult.",
     "How the microscopic protozoan Toxoplasma gondii rewires mammalian fear circuits to make rodents actively run toward cat urine.",
-    "How the deep-sea dragonfish (*Aristostias scintillans*) generates its own infrared bioluminescence, casting a secret hunting spotlight that only it can see."
+    "How the deep-sea dragonfish (*Aristostias scintillans*) generates its own infrared bioluminescence, casting a secret hunting spotlight that only it can see.",
+    "How the velvet ant's biochemical cocktail delivers pain so intense it causes temporary blindness and systemic shock"
   ],
-  "subcluster_idx": 1,
-  "fallback_idx": 8,
-  "call_count": 261
+  "subcluster_idx": 2,
+  "fallback_idx": 9,
+  "call_count": 262
 }
