@@ -1,6 +1,5 @@
 {
   "topics": [
-    "The Great Nile Migration in South Sudan, a monumental movement of six million antelope, is now being recognized as the world's largest land mammal migration, a scale previously unseen and largely unappreciated by outsiders.",
     "Mysterious disappearance of feral hog populations in Louisiana, with drone footage revealing an unexpected predator responsible for their decline.",
     "Ant Colony Superorganism Collective Intelligence",
     "How deep-sea anglerfish males become permanent, parasitic mates: Tiny male anglerfish physically fuse with a much larger female, undergoing **circulatory anastomosis** where their bloodstreams merge, turning the male into a lifelong, nutrient-dependent sperm producer.",
@@ -89,9 +88,10 @@
     "How the velvet ant's biochemical cocktail delivers pain so intense it causes temporary blindness and systemic shock",
     "How the extremophile red alga (*Cyanidioschyzon merolae*) thrives inside boiling, highly acidic volcanic sulfur springs that instantly dissolve other lifeforms.",
     "How the wood-boring shipworm (*Teredo navalis*) utilizes specialized symbiotic gill bacteria to secrete heavy-duty wood-dissolving enzymes, turning solid oak ship hulls into literal dietary fuel.",
-    "How the parasitic fungus *Ophiocordyceps unilateralis* manipulates an ant's central nervous system to force a fatal death-grip high in the canopy."
+    "How the parasitic fungus *Ophiocordyceps unilateralis* manipulates an ant's central nervous system to force a fatal death-grip high in the canopy.",
+    "How hydrothermal vent-dwelling scale worms lock heavy metals into their dorsal plates to detoxify extreme abyssal chemistry."
   ],
-  "subcluster_idx": 0,
-  "fallback_idx": 12,
-  "call_count": 265
+  "subcluster_idx": 1,
+  "fallback_idx": 13,
+  "call_count": 266
 }
