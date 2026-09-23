@@ -1,6 +1,5 @@
 {
   "topics": [
-    "How the sloth's multi-chambered stomach, a process of **foregut fermentation**, allows it to extract maximum nutrients from low-quality leaves over an astonishing 30-day digestion cycle.",
     "The Great Nile Migration in South Sudan, a monumental movement of six million antelope, is now being recognized as the world's largest land mammal migration, a scale previously unseen and largely unappreciated by outsiders.",
     "Mysterious disappearance of feral hog populations in Louisiana, with drone footage revealing an unexpected predator responsible for their decline.",
     "Ant Colony Superorganism Collective Intelligence",
@@ -89,9 +88,10 @@
     "How the deep-sea dragonfish (*Aristostias scintillans*) generates its own infrared bioluminescence, casting a secret hunting spotlight that only it can see.",
     "How the velvet ant's biochemical cocktail delivers pain so intense it causes temporary blindness and systemic shock",
     "How the extremophile red alga (*Cyanidioschyzon merolae*) thrives inside boiling, highly acidic volcanic sulfur springs that instantly dissolve other lifeforms.",
-    "How the wood-boring shipworm (*Teredo navalis*) utilizes specialized symbiotic gill bacteria to secrete heavy-duty wood-dissolving enzymes, turning solid oak ship hulls into literal dietary fuel."
+    "How the wood-boring shipworm (*Teredo navalis*) utilizes specialized symbiotic gill bacteria to secrete heavy-duty wood-dissolving enzymes, turning solid oak ship hulls into literal dietary fuel.",
+    "How the parasitic fungus *Ophiocordyceps unilateralis* manipulates an ant's central nervous system to force a fatal death-grip high in the canopy."
   ],
-  "subcluster_idx": 4,
-  "fallback_idx": 11,
-  "call_count": 264
+  "subcluster_idx": 0,
+  "fallback_idx": 12,
+  "call_count": 265
 }
