@@ -1,6 +1,5 @@
 {
   "topics": [
-    "Ant Colony Superorganism Collective Intelligence",
     "How deep-sea anglerfish males become permanent, parasitic mates: Tiny male anglerfish physically fuse with a much larger female, undergoing **circulatory anastomosis** where their bloodstreams merge, turning the male into a lifelong, nutrient-dependent sperm producer.",
     "Groundbreaking 2026 Amazon studies reveal a paradox: while the rainforest shows surprising rapid regrowth, escalating deforestation and warming are replacing specialist trees with generalists, halving biodiversity at forest edges and pushing the biome towards an irreversible 2040 tipping point.",
     "How some polymers can spontaneously repair large cracks, not just microscopic damage, by employing **dynamic covalent bonds** or **supramolecular chemistry** that allows their molecular networks to re-form and mend themselves.",
@@ -89,9 +88,10 @@
     "How the wood-boring shipworm (*Teredo navalis*) utilizes specialized symbiotic gill bacteria to secrete heavy-duty wood-dissolving enzymes, turning solid oak ship hulls into literal dietary fuel.",
     "How the parasitic fungus *Ophiocordyceps unilateralis* manipulates an ant's central nervous system to force a fatal death-grip high in the canopy.",
     "How hydrothermal vent-dwelling scale worms lock heavy metals into their dorsal plates to detoxify extreme abyssal chemistry.",
-    "How the Brazilian wandering spider's venom triggers an agonizing, permanent physical reaction that medical science harnesses for targeted treatments"
+    "How the Brazilian wandering spider's venom triggers an agonizing, permanent physical reaction that medical science harnesses for targeted treatments",
+    "How the hydrothermal vent archaeon *Methanothermococcus thermolithotrophicus* uses pure hydrogen and carbon dioxide to thrive at scalding, pressure-cooking temperatures above 80\u00b0C"
   ],
-  "subcluster_idx": 2,
-  "fallback_idx": 14,
-  "call_count": 267
+  "subcluster_idx": 3,
+  "fallback_idx": 15,
+  "call_count": 268
 }
