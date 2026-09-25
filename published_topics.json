@@ -1,6 +1,5 @@
 {
   "topics": [
-    "How some polymers can spontaneously repair large cracks, not just microscopic damage, by employing **dynamic covalent bonds** or **supramolecular chemistry** that allows their molecular networks to re-form and mend themselves.",
     "New scientific evidence suggests that the first free-living cells on Earth may have emerged not once, but twice, challenging fundamental theories on the origin of life.",
     "The 'molecular quirk' in octopuses allowing their brains to grow 100-fold, hinting at protein synthesis superpowers.",
     "How the barreleye fish uses a transparent fluid-filled shield and upward-pointing tubular eyes that rotate beneath a translucent dome to track silhouette prey against faint surface light without losing its forward field of vision.",
@@ -89,9 +88,10 @@
     "How the Brazilian wandering spider's venom triggers an agonizing, permanent physical reaction that medical science harnesses for targeted treatments",
     "How the hydrothermal vent archaeon *Methanothermococcus thermolithotrophicus* uses pure hydrogen and carbon dioxide to thrive at scalding, pressure-cooking temperatures above 80\u00b0C",
     "How the pistol shrimp snaps its claw shut so fast that it creates a cavitation bubble reaching temperatures hotter than the surface of the sun.",
-    "How the microscopic predator Didinium nasutum shoots an invisible, harpoon-like toxic dart to instantly paralyze and swallow giant paramecia whole."
+    "How the microscopic predator Didinium nasutum shoots an invisible, harpoon-like toxic dart to instantly paralyze and swallow giant paramecia whole.",
+    "How the deep-sea Atolla jellyfish deploys a blinding 'burglar alarm' flash to summon massive predators to devour whatever is attacking it"
   ],
-  "subcluster_idx": 0,
-  "fallback_idx": 17,
-  "call_count": 270
+  "subcluster_idx": 1,
+  "fallback_idx": 18,
+  "call_count": 271
 }
