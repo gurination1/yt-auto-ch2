@@ -1,6 +1,5 @@
 {
   "topics": [
-    "The Abyssal Comb Jelly that fires synchronized, rainbow-colored light waves using tiny beating cilia in total darkness",
     "The Emerald Cockroach Wasp's bizarre venom that turns cockroaches into docile, self-sacrificing zombies for its offspring.",
     "Newly Discovered Fungi That Build Microscopic Sticky Nets to Trap Worms",
     "The Mantis shrimp whose sonic punch boils water into plasma bubbles",
@@ -89,9 +88,10 @@
     "How the microscopic rotifer-eating fungus *Zoophagus insidians* deploys deadly adhesive traps that instantly snap shut to capture and digest swimming predators.",
     "How the deep-sea barrelfish (*Macropoma microstoma*) protects its exposed, bulbous eyes by housing them inside a completely transparent, fluid-filled dome skull.",
     "How the caterpillar *Cerura vinula* shoots a concentrated stream of 45-percent formic acid directly into the eyes of attackers",
-    "How the desert extremophile bacterium *Chroococcidiopsis* survives inside solid salt crystals by sucking moisture straight out of arid air molecules"
+    "How the desert extremophile bacterium *Chroococcidiopsis* survives inside solid salt crystals by sucking moisture straight out of arid air molecules",
+    "How the deep-sea hagfish explosively secretes liters of instant protein slime that suffocates attacking sharks by clogging their gills."
   ],
-  "subcluster_idx": 3,
-  "fallback_idx": 1,
-  "call_count": 278
+  "subcluster_idx": 4,
+  "fallback_idx": 2,
+  "call_count": 279
 }
