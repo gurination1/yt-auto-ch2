@@ -1,6 +1,5 @@
 {
   "topics": [
-    "Newly identified tarantula venom causes prey insects to enter a bizarre 'living coma,' perfectly preserving them as fresh food for weeks.",
     "The microscopic 'vampire' cell that uses a needle-like tube to literally suck the guts out of fish in seconds.",
     "Orcas are now documented creating perfectly synchronized, massive waves to wash seals directly off ice floes, showcasing unprecedented hunting coordination.",
     "Ancient 'walking shark' discovered, closely related to modern sharks that hunt prey on land.",
@@ -89,9 +88,10 @@
     "How the deep-sea snail-fish (*Pseudoliparis*) survives the Mariana Trench by lacking a swim bladder and using a skeletal structure so loose and soft it completely liquefies out of water.",
     "How the blue-ringed octopus carries a neurotoxin so potent a single drop can instantly paralyze twenty humans, yet it hunts silently using weaponized saliva.",
     "The Axolotl Regenerative Genome: How this salamander regrows severed limbs, spinal cords, and heart muscle",
-    "The deep-sea 'glass sponge' Euplectella aspergillum weaves optical fibers from silica that outclass modern human internet cables in structural resilience and light transmission."
+    "The deep-sea 'glass sponge' Euplectella aspergillum weaves optical fibers from silica that outclass modern human internet cables in structural resilience and light transmission.",
+    "The Mimic Octopus: The cephalopod that shifts skin texture, color, and posture to impersonate 15 toxic predators"
   ],
-  "subcluster_idx": 4,
-  "fallback_idx": 9,
-  "call_count": 284
+  "subcluster_idx": 0,
+  "fallback_idx": 12,
+  "call_count": 285
 }
