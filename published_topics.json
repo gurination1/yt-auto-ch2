@@ -1,6 +1,5 @@
 {
   "topics": [
-    "The microscopic 'vampire' cell that uses a needle-like tube to literally suck the guts out of fish in seconds.",
     "Orcas are now documented creating perfectly synchronized, massive waves to wash seals directly off ice floes, showcasing unprecedented hunting coordination.",
     "Ancient 'walking shark' discovered, closely related to modern sharks that hunt prey on land.",
     "The ultra-black deep-sea fish that absorb 99.95% of all light, becoming perfectly invisible in the bioluminescent abyss.",
@@ -89,9 +88,10 @@
     "How the blue-ringed octopus carries a neurotoxin so potent a single drop can instantly paralyze twenty humans, yet it hunts silently using weaponized saliva.",
     "The Axolotl Regenerative Genome: How this salamander regrows severed limbs, spinal cords, and heart muscle",
     "The deep-sea 'glass sponge' Euplectella aspergillum weaves optical fibers from silica that outclass modern human internet cables in structural resilience and light transmission.",
-    "The Mimic Octopus: The cephalopod that shifts skin texture, color, and posture to impersonate 15 toxic predators"
+    "The Mimic Octopus: The cephalopod that shifts skin texture, color, and posture to impersonate 15 toxic predators",
+    "The Inland Taipan Neurotoxic Venom: The Australian serpent whose single bite drops 100 adult humans"
   ],
-  "subcluster_idx": 0,
-  "fallback_idx": 12,
-  "call_count": 285
+  "subcluster_idx": 1,
+  "fallback_idx": 15,
+  "call_count": 286
 }
