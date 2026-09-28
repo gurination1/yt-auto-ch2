@@ -1,6 +1,5 @@
 {
   "topics": [
-    "The 'Suicidal' Deep-Sea Squid That Explosively Lights Up To Scare Predators",
     "Newly identified tarantula venom causes prey insects to enter a bizarre 'living coma,' perfectly preserving them as fresh food for weeks.",
     "The microscopic 'vampire' cell that uses a needle-like tube to literally suck the guts out of fish in seconds.",
     "Orcas are now documented creating perfectly synchronized, massive waves to wash seals directly off ice floes, showcasing unprecedented hunting coordination.",
@@ -89,9 +88,10 @@
     "How the parasitic barnacle Loxothylacus panopaei injects liquid root-like filaments throughout a living crab's body to castrate it and hijack its maternal instincts.",
     "How the deep-sea snail-fish (*Pseudoliparis*) survives the Mariana Trench by lacking a swim bladder and using a skeletal structure so loose and soft it completely liquefies out of water.",
     "How the blue-ringed octopus carries a neurotoxin so potent a single drop can instantly paralyze twenty humans, yet it hunts silently using weaponized saliva.",
-    "The Axolotl Regenerative Genome: How this salamander regrows severed limbs, spinal cords, and heart muscle"
+    "The Axolotl Regenerative Genome: How this salamander regrows severed limbs, spinal cords, and heart muscle",
+    "The deep-sea 'glass sponge' Euplectella aspergillum weaves optical fibers from silica that outclass modern human internet cables in structural resilience and light transmission."
   ],
-  "subcluster_idx": 3,
-  "fallback_idx": 8,
-  "call_count": 283
+  "subcluster_idx": 4,
+  "fallback_idx": 9,
+  "call_count": 284
 }
