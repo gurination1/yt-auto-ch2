@@ -1,6 +1,5 @@
 {
   "topics": [
-    "The Mantis shrimp whose sonic punch boils water into plasma bubbles",
     "The Coelacanth, a 'living fossil' fish thought extinct for 65 million years, has a bizarre five-year pregnancy, the longest of any vertebrate, and hunts in deep darkness using a specialized electric organ in its head.",
     "The 'Suicidal' Deep-Sea Squid That Explosively Lights Up To Scare Predators",
     "Newly identified tarantula venom causes prey insects to enter a bizarre 'living coma,' perfectly preserving them as fresh food for weeks.",
@@ -89,9 +88,10 @@
     "How the desert extremophile bacterium *Chroococcidiopsis* survives inside solid salt crystals by sucking moisture straight out of arid air molecules",
     "How the deep-sea hagfish explosively secretes liters of instant protein slime that suffocates attacking sharks by clogging their gills.",
     "How the parasitic barnacle Loxothylacus panopaei injects liquid root-like filaments throughout a living crab's body to castrate it and hijack its maternal instincts.",
-    "How the deep-sea snail-fish (*Pseudoliparis*) survives the Mariana Trench by lacking a swim bladder and using a skeletal structure so loose and soft it completely liquefies out of water."
+    "How the deep-sea snail-fish (*Pseudoliparis*) survives the Mariana Trench by lacking a swim bladder and using a skeletal structure so loose and soft it completely liquefies out of water.",
+    "How the blue-ringed octopus carries a neurotoxin so potent a single drop can instantly paralyze twenty humans, yet it hunts silently using weaponized saliva."
   ],
-  "subcluster_idx": 1,
-  "fallback_idx": 4,
-  "call_count": 281
+  "subcluster_idx": 2,
+  "fallback_idx": 5,
+  "call_count": 282
 }
