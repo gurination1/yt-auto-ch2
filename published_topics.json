@@ -1,6 +1,5 @@
 {
   "topics": [
-    "The ultra-black deep-sea fish that absorb 99.95% of all light, becoming perfectly invisible in the bioluminescent abyss.",
     "Scientists reveal the 'molecular switch' that allows snakes to instantly tweak their venom's potency and composition, adapting to new prey in real-time, defying previous evolutionary timelines.",
     "The Microscopic Parasite That Brainwashes Water Fleas to Commit 'Suicide' by Seeking Predators",
     "The Alligator Snapping Turtle's Tongue Worm: A Deceptive Lure That Fakes Injured Prey",
@@ -89,9 +88,10 @@
     "The Mimic Octopus: The cephalopod that shifts skin texture, color, and posture to impersonate 15 toxic predators",
     "The Inland Taipan Neurotoxic Venom: The Australian serpent whose single bite drops 100 adult humans",
     "How the predatory sea slug *Pleurobranchaea maculata* weaponizes its own diet by sequestering lethal tetrodotoxin to repel hungry reef fish.",
-    "How the hyper-saline lake archaeon *Halobacterium salinarum* builds a purple protein shield to harvest pure sunlight directly into cellular energy."
+    "How the hyper-saline lake archaeon *Halobacterium salinarum* builds a purple protein shield to harvest pure sunlight directly into cellular energy.",
+    "How the assassin bug (*Reduviidae*) glues the corpses of its dead victims onto its back to create a terrifying biochemical camouflage shield."
   ],
-  "subcluster_idx": 3,
-  "fallback_idx": 17,
-  "call_count": 288
+  "subcluster_idx": 4,
+  "fallback_idx": 18,
+  "call_count": 289
 }
