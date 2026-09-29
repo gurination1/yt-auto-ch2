@@ -1,6 +1,5 @@
 {
   "topics": [
-    "The Microscopic Parasite That Brainwashes Water Fleas to Commit 'Suicide' by Seeking Predators",
     "The Alligator Snapping Turtle's Tongue Worm: A Deceptive Lure That Fakes Injured Prey",
     "The \"Terror Beast\" of the Cambrian: A newly discovered, gigantic, worm-like predator with external jaws that dominated ancient oceans.",
     "The Wood Frog: A real-life zombie that freezes solid and reanimates without harm.",
@@ -89,9 +88,10 @@
     "How the predatory sea slug *Pleurobranchaea maculata* weaponizes its own diet by sequestering lethal tetrodotoxin to repel hungry reef fish.",
     "How the hyper-saline lake archaeon *Halobacterium salinarum* builds a purple protein shield to harvest pure sunlight directly into cellular energy.",
     "How the assassin bug (*Reduviidae*) glues the corpses of its dead victims onto its back to create a terrifying biochemical camouflage shield.",
-    "How the parasitic nematode Myrmeconema neotropicum swells ant abdomens into bright red berries, tricking birds into eating and spreading them."
+    "How the parasitic nematode Myrmeconema neotropicum swells ant abdomens into bright red berries, tricking birds into eating and spreading them.",
+    "How the deep-sea dragonfish uses specialized skin pigments that absorb all surrounding light to achieve absolute invisibility in the pitch-black ocean."
   ],
-  "subcluster_idx": 0,
-  "fallback_idx": 19,
-  "call_count": 290
+  "subcluster_idx": 1,
+  "fallback_idx": 20,
+  "call_count": 291
 }
