@@ -1,6 +1,5 @@
 {
   "topics": [
-    "The Wood Frog: A real-life zombie that freezes solid and reanimates without harm.",
     "New 'Zombie' Fungus Found in British Caves Manipulating Spiders",
     "Uncharted Indian Ocean Reveals 'Sea Pig' Colonies",
     "The Sea Slug That Steals Stinging Cells",
@@ -89,9 +88,10 @@
     "How the parasitic nematode Myrmeconema neotropicum swells ant abdomens into bright red berries, tricking birds into eating and spreading them.",
     "How the deep-sea dragonfish uses specialized skin pigments that absorb all surrounding light to achieve absolute invisibility in the pitch-black ocean.",
     "The Electrophorus Electric Eel Electrocytes: Thousands of stacked bio-batteries discharging 860 volts",
-    "How the Yellowstone hot spring archaeon *Sulfolobus acidocaldarius* repairs shredded DNA inside boiling, battery-acid water using specialized sliding clamp proteins."
+    "How the Yellowstone hot spring archaeon *Sulfolobus acidocaldarius* repairs shredded DNA inside boiling, battery-acid water using specialized sliding clamp proteins.",
+    "How the bombardier beetle mixes boiling, volatile chemicals inside an internal combustion chamber to fire a targeted, high-speed toxic acid spray."
   ],
-  "subcluster_idx": 3,
-  "fallback_idx": 24,
-  "call_count": 293
+  "subcluster_idx": 4,
+  "fallback_idx": 0,
+  "call_count": 294
 }
