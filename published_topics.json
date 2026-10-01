@@ -1,6 +1,5 @@
 {
   "topics": [
-    "The Sea Slug That Steals Stinging Cells",
     "Peptides Survive Concentrated Sulfuric Acid",
     "Arctic Bacteria's Million-Year Cryptobiosis",
     "The mind-bending parasite that chemically castrates crabs and forces males to act like females.",
@@ -89,9 +88,10 @@
     "How the Yellowstone hot spring archaeon *Sulfolobus acidocaldarius* repairs shredded DNA inside boiling, battery-acid water using specialized sliding clamp proteins.",
     "How the bombardier beetle mixes boiling, volatile chemicals inside an internal combustion chamber to fire a targeted, high-speed toxic acid spray.",
     "How the parasitic roundworm *Spinochordodes tellinii* chemically reprograms grasshoppers to commit deliberate mass suicide by leaping into deep water.",
-    "How the deep-sea ghost shark (*Chimaeridae*) deploys a venomous retractable spine on its head that pierces attackers in total darkness."
+    "How the deep-sea ghost shark (*Chimaeridae*) deploys a venomous retractable spine on its head that pierces attackers in total darkness.",
+    "How the funnel-web spider's robust delta-hexatoxin targets human nervous systems with surgical precision, locking open voltage-gated channels to trigger massive, rapid paralysis."
   ],
-  "subcluster_idx": 1,
-  "fallback_idx": 2,
-  "call_count": 296
+  "subcluster_idx": 2,
+  "fallback_idx": 3,
+  "call_count": 297
 }
