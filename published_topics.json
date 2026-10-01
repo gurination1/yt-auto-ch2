@@ -1,6 +1,5 @@
 {
   "topics": [
-    "Uncharted Indian Ocean Reveals 'Sea Pig' Colonies",
     "The Sea Slug That Steals Stinging Cells",
     "Peptides Survive Concentrated Sulfuric Acid",
     "Arctic Bacteria's Million-Year Cryptobiosis",
@@ -89,9 +88,10 @@
     "The Electrophorus Electric Eel Electrocytes: Thousands of stacked bio-batteries discharging 860 volts",
     "How the Yellowstone hot spring archaeon *Sulfolobus acidocaldarius* repairs shredded DNA inside boiling, battery-acid water using specialized sliding clamp proteins.",
     "How the bombardier beetle mixes boiling, volatile chemicals inside an internal combustion chamber to fire a targeted, high-speed toxic acid spray.",
-    "How the parasitic roundworm *Spinochordodes tellinii* chemically reprograms grasshoppers to commit deliberate mass suicide by leaping into deep water."
+    "How the parasitic roundworm *Spinochordodes tellinii* chemically reprograms grasshoppers to commit deliberate mass suicide by leaping into deep water.",
+    "How the deep-sea ghost shark (*Chimaeridae*) deploys a venomous retractable spine on its head that pierces attackers in total darkness."
   ],
-  "subcluster_idx": 0,
-  "fallback_idx": 1,
-  "call_count": 295
+  "subcluster_idx": 1,
+  "fallback_idx": 2,
+  "call_count": 296
 }
