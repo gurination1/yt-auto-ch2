@@ -1,6 +1,5 @@
 {
   "topics": [
-    "Arctic Bacteria's Million-Year Cryptobiosis",
     "The mind-bending parasite that chemically castrates crabs and forces males to act like females.",
     "Alien 'Elbow' Squid Filmed for First Time in New Deep-Sea Region",
     "Rattlesnake's Own Blood: The Ultimate Antivenom",
@@ -89,9 +88,10 @@
     "How the parasitic roundworm *Spinochordodes tellinii* chemically reprograms grasshoppers to commit deliberate mass suicide by leaping into deep water.",
     "How the deep-sea ghost shark (*Chimaeridae*) deploys a venomous retractable spine on its head that pierces attackers in total darkness.",
     "How the funnel-web spider's robust delta-hexatoxin targets human nervous systems with surgical precision, locking open voltage-gated channels to trigger massive, rapid paralysis.",
-    "Deinococcus radiodurans: The bacterial extremophile that reassembles shattered DNA after lethal radiation bursts"
+    "Deinococcus radiodurans: The bacterial extremophile that reassembles shattered DNA after lethal radiation bursts",
+    "The Wood Frog Glucose Cryoprotectant: Freezing completely solid with no heartbeat and thawing back to life"
   ],
-  "subcluster_idx": 3,
-  "fallback_idx": 9,
-  "call_count": 298
+  "subcluster_idx": 4,
+  "fallback_idx": 14,
+  "call_count": 299
 }
