@@ -1,6 +1,5 @@
 {
   "topics": [
-    "Alien 'Elbow' Squid Filmed for First Time in New Deep-Sea Region",
     "Rattlesnake's Own Blood: The Ultimate Antivenom",
     "The 'Conan the Bacterium' that can repair its DNA from thousands of radiation hits.",
     "Ancient 'Goo-Filled Bag' Animal Found in 3D Fossil",
@@ -89,9 +88,10 @@
     "How the funnel-web spider's robust delta-hexatoxin targets human nervous systems with surgical precision, locking open voltage-gated channels to trigger massive, rapid paralysis.",
     "Deinococcus radiodurans: The bacterial extremophile that reassembles shattered DNA after lethal radiation bursts",
     "The Wood Frog Glucose Cryoprotectant: Freezing completely solid with no heartbeat and thawing back to life",
-    "How the parasitoid wasp Ampulex compressa injects a precise neurotoxin directly into a cockroach's brain to turn the giant insect into a docile, walking living meal."
+    "How the parasitoid wasp Ampulex compressa injects a precise neurotoxin directly into a cockroach's brain to turn the giant insect into a docile, walking living meal.",
+    "The Giant Bathynomus Isopod: The deep-ocean scavenger that survives five consecutive years with zero nutrition"
   ],
-  "subcluster_idx": 0,
-  "fallback_idx": 15,
-  "call_count": 300
+  "subcluster_idx": 1,
+  "fallback_idx": 16,
+  "call_count": 301
 }
