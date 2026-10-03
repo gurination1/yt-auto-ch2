@@ -1,6 +1,5 @@
 {
   "topics": [
-    "The 'Conan the Bacterium' that can repair its DNA from thousands of radiation hits.",
     "Ancient 'Goo-Filled Bag' Animal Found in 3D Fossil",
     "Caterpillars Bribe Ants with Dopamine for Protection",
     "The Deep Sea's 'Squishy Secret': Why Soft Bodies Survive Crushing Pressure",
@@ -89,9 +88,10 @@
     "The Wood Frog Glucose Cryoprotectant: Freezing completely solid with no heartbeat and thawing back to life",
     "How the parasitoid wasp Ampulex compressa injects a precise neurotoxin directly into a cockroach's brain to turn the giant insect into a docile, walking living meal.",
     "The Giant Bathynomus Isopod: The deep-ocean scavenger that survives five consecutive years with zero nutrition",
-    "The Duck-Billed Platypus Crural Spur: The egg-laying mammal with ankle venom spurs and electroreceptive bill"
+    "The Duck-Billed Platypus Crural Spur: The egg-laying mammal with ankle venom spurs and electroreceptive bill",
+    "The African Lungfish Aestivation Cocoon: How this fish encases itself in dry mud for four years without water"
   ],
-  "subcluster_idx": 2,
-  "fallback_idx": 20,
-  "call_count": 302
+  "subcluster_idx": 3,
+  "fallback_idx": 24,
+  "call_count": 303
 }
