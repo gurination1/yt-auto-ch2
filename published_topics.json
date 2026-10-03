@@ -1,6 +1,5 @@
 {
   "topics": [
-    "Rattlesnake's Own Blood: The Ultimate Antivenom",
     "The 'Conan the Bacterium' that can repair its DNA from thousands of radiation hits.",
     "Ancient 'Goo-Filled Bag' Animal Found in 3D Fossil",
     "Caterpillars Bribe Ants with Dopamine for Protection",
@@ -89,9 +88,10 @@
     "Deinococcus radiodurans: The bacterial extremophile that reassembles shattered DNA after lethal radiation bursts",
     "The Wood Frog Glucose Cryoprotectant: Freezing completely solid with no heartbeat and thawing back to life",
     "How the parasitoid wasp Ampulex compressa injects a precise neurotoxin directly into a cockroach's brain to turn the giant insect into a docile, walking living meal.",
-    "The Giant Bathynomus Isopod: The deep-ocean scavenger that survives five consecutive years with zero nutrition"
+    "The Giant Bathynomus Isopod: The deep-ocean scavenger that survives five consecutive years with zero nutrition",
+    "The Duck-Billed Platypus Crural Spur: The egg-laying mammal with ankle venom spurs and electroreceptive bill"
   ],
-  "subcluster_idx": 1,
-  "fallback_idx": 16,
-  "call_count": 301
+  "subcluster_idx": 2,
+  "fallback_idx": 20,
+  "call_count": 302
 }
