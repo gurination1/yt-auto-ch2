@@ -1,6 +1,5 @@
 {
   "topics": [
-    "Nanobodies: The Future of Snakebite Treatment",
     "Microbes actively detoxifying nuclear waste using radiation as energy",
     "The Mimic Octopus: Nature's Master Shapeshifter That Becomes Other Animals",
     "Flesh-Eating Screwworm Outbreak in Texas",
@@ -89,9 +88,10 @@
     "The African Lungfish Aestivation Cocoon: How this fish encases itself in dry mud for four years without water",
     "Vampyroteuthis infernalis: The oxygen-deprived abyss cephalopod that emits bioluminescent cloud mucus",
     "How the parasitic flatworm *Schistosoma mansoni* dissolves human skin using precision enzymes to quietly hijack our blood vessels for decades.",
-    "The Immortal Jellyfish Turritopsis dohrnii: The marine organism that reverses its life cycle to live forever"
+    "The Immortal Jellyfish Turritopsis dohrnii: The marine organism that reverses its life cycle to live forever",
+    "The Mantis Shrimp: The club strike accelerating faster than a 22-caliber bullet to boil water into plasma"
   ],
-  "subcluster_idx": 1,
-  "fallback_idx": 3,
-  "call_count": 306
+  "subcluster_idx": 2,
+  "fallback_idx": 1,
+  "call_count": 307
 }
