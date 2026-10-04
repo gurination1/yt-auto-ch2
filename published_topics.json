@@ -1,6 +1,5 @@
 {
   "topics": [
-    "The Deep Sea's 'Squishy Secret': Why Soft Bodies Survive Crushing Pressure",
     "Nanobodies: The Future of Snakebite Treatment",
     "Microbes actively detoxifying nuclear waste using radiation as energy",
     "The Mimic Octopus: Nature's Master Shapeshifter That Becomes Other Animals",
@@ -89,9 +88,10 @@
     "The Duck-Billed Platypus Crural Spur: The egg-laying mammal with ankle venom spurs and electroreceptive bill",
     "The African Lungfish Aestivation Cocoon: How this fish encases itself in dry mud for four years without water",
     "Vampyroteuthis infernalis: The oxygen-deprived abyss cephalopod that emits bioluminescent cloud mucus",
-    "How the parasitic flatworm *Schistosoma mansoni* dissolves human skin using precision enzymes to quietly hijack our blood vessels for decades."
+    "How the parasitic flatworm *Schistosoma mansoni* dissolves human skin using precision enzymes to quietly hijack our blood vessels for decades.",
+    "The Immortal Jellyfish Turritopsis dohrnii: The marine organism that reverses its life cycle to live forever"
   ],
-  "subcluster_idx": 0,
-  "fallback_idx": 1,
-  "call_count": 305
+  "subcluster_idx": 1,
+  "fallback_idx": 3,
+  "call_count": 306
 }
