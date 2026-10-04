@@ -1,6 +1,5 @@
 {
   "topics": [
-    "Microbes actively detoxifying nuclear waste using radiation as energy",
     "The Mimic Octopus: Nature's Master Shapeshifter That Becomes Other Animals",
     "Flesh-Eating Screwworm Outbreak in Texas",
     "Deep-Sea Pressure Squeezes Food from Marine Snow",
@@ -89,9 +88,10 @@
     "Vampyroteuthis infernalis: The oxygen-deprived abyss cephalopod that emits bioluminescent cloud mucus",
     "How the parasitic flatworm *Schistosoma mansoni* dissolves human skin using precision enzymes to quietly hijack our blood vessels for decades.",
     "The Immortal Jellyfish Turritopsis dohrnii: The marine organism that reverses its life cycle to live forever",
-    "The Mantis Shrimp: The club strike accelerating faster than a 22-caliber bullet to boil water into plasma"
+    "The Mantis Shrimp: The club strike accelerating faster than a 22-caliber bullet to boil water into plasma",
+    "Tardigrade Cryptobiosis: How microscopic water bears survive radiation, boiling acid, and absolute zero"
   ],
-  "subcluster_idx": 2,
-  "fallback_idx": 1,
-  "call_count": 307
+  "subcluster_idx": 3,
+  "fallback_idx": 2,
+  "call_count": 308
 }
