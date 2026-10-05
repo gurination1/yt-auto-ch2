@@ -1,6 +1,5 @@
 {
   "topics": [
-    "Deep-Sea Pressure Squeezes Food from Marine Snow",
     "Geography cone snail's weaponized insulin venom that freezes fish in instant diabetic coma",
     "Radical 'Glass' State Survival in Extremophiles",
     "The aquatic beetle Regimbartia attenuata that survives being swallowed by a frog by actively crawling through its digestive tract and escaping alive through the anus.",
@@ -89,9 +88,10 @@
     "The Mantis Shrimp: The club strike accelerating faster than a 22-caliber bullet to boil water into plasma",
     "Tardigrade Cryptobiosis: How microscopic water bears survive radiation, boiling acid, and absolute zero",
     "The Bombardier Beetle: The dual-chamber chemical blast firing boiling toxic benzoquinones at predators",
-    "How the microscopic parasitic trematode *Ribeiroia ondatrae* manipulates amphibian embryonic development to intentionally manufacture grotesque multi-legged frogs, ensuring they are easily caught by wading birds."
+    "How the microscopic parasitic trematode *Ribeiroia ondatrae* manipulates amphibian embryonic development to intentionally manufacture grotesque multi-legged frogs, ensuring they are easily caught by wading birds.",
+    "How the deep-sea scalefoot gastropod reinforces its shell with an outer layer of magnetic iron sulfide grown straight from hydrothermal vent minerals."
   ],
-  "subcluster_idx": 0,
-  "fallback_idx": 5,
-  "call_count": 310
+  "subcluster_idx": 1,
+  "fallback_idx": 6,
+  "call_count": 311
 }
