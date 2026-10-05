@@ -1,6 +1,5 @@
 {
   "topics": [
-    "The Mimic Octopus: Nature's Master Shapeshifter That Becomes Other Animals",
     "Flesh-Eating Screwworm Outbreak in Texas",
     "Deep-Sea Pressure Squeezes Food from Marine Snow",
     "Geography cone snail's weaponized insulin venom that freezes fish in instant diabetic coma",
@@ -89,9 +88,10 @@
     "How the parasitic flatworm *Schistosoma mansoni* dissolves human skin using precision enzymes to quietly hijack our blood vessels for decades.",
     "The Immortal Jellyfish Turritopsis dohrnii: The marine organism that reverses its life cycle to live forever",
     "The Mantis Shrimp: The club strike accelerating faster than a 22-caliber bullet to boil water into plasma",
-    "Tardigrade Cryptobiosis: How microscopic water bears survive radiation, boiling acid, and absolute zero"
+    "Tardigrade Cryptobiosis: How microscopic water bears survive radiation, boiling acid, and absolute zero",
+    "The Bombardier Beetle: The dual-chamber chemical blast firing boiling toxic benzoquinones at predators"
   ],
-  "subcluster_idx": 3,
-  "fallback_idx": 2,
-  "call_count": 308
+  "subcluster_idx": 4,
+  "fallback_idx": 4,
+  "call_count": 309
 }
