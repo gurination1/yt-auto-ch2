@@ -1,6 +1,5 @@
 {
   "topics": [
-    "The aquatic beetle Regimbartia attenuata that survives being swallowed by a frog by actively crawling through its digestive tract and escaping alive through the anus.",
     "The microscopic fungus that forces infected ants to climb high branches and clamp their jaws into a death grip",
     "The Scaly-Foot Gastropod's magnetic iron-sulfide armor",
     "The ribbon worm's explosive, branching venomous proboscis that hunts like an alien parasite",
@@ -89,9 +88,10 @@
     "How the microscopic parasitic trematode *Ribeiroia ondatrae* manipulates amphibian embryonic development to intentionally manufacture grotesque multi-legged frogs, ensuring they are easily caught by wading birds.",
     "How the deep-sea scalefoot gastropod reinforces its shell with an outer layer of magnetic iron sulfide grown straight from hydrothermal vent minerals.",
     "The Deep-Sea Barreleye Fish: The transparent dome head containing upward-rotating emerald tubular eyes",
-    "The Geography Cone Snail: The hyper-complex conotoxin cocktail that paralyzes human nervous systems in seconds"
+    "The Geography Cone Snail: The hyper-complex conotoxin cocktail that paralyzes human nervous systems in seconds",
+    "How the pitcher plant (*Nepenthes rajah*) secretes a slippery viscoelastic fluid that turns the physics of insect footing against climbing prey."
   ],
-  "subcluster_idx": 3,
-  "fallback_idx": 6,
-  "call_count": 313
+  "subcluster_idx": 4,
+  "fallback_idx": 7,
+  "call_count": 314
 }
