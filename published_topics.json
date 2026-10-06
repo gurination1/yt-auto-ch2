@@ -1,6 +1,5 @@
 {
   "topics": [
-    "The microscopic fungus that forces infected ants to climb high branches and clamp their jaws into a death grip",
     "The Scaly-Foot Gastropod's magnetic iron-sulfide armor",
     "The ribbon worm's explosive, branching venomous proboscis that hunts like an alien parasite",
     "Siberian permafrost nematodes that woke up and successfully reproduced after sleeping for 46,000 years",
@@ -89,9 +88,10 @@
     "How the deep-sea scalefoot gastropod reinforces its shell with an outer layer of magnetic iron sulfide grown straight from hydrothermal vent minerals.",
     "The Deep-Sea Barreleye Fish: The transparent dome head containing upward-rotating emerald tubular eyes",
     "The Geography Cone Snail: The hyper-complex conotoxin cocktail that paralyzes human nervous systems in seconds",
-    "How the pitcher plant (*Nepenthes rajah*) secretes a slippery viscoelastic fluid that turns the physics of insect footing against climbing prey."
+    "How the pitcher plant (*Nepenthes rajah*) secretes a slippery viscoelastic fluid that turns the physics of insect footing against climbing prey.",
+    "How the parasitic crustacean *Cymothoa exigua* enters fish through their gills, completely devours their tongues, and replaces the missing organ to live as a permanent, functional body part."
   ],
-  "subcluster_idx": 4,
-  "fallback_idx": 7,
-  "call_count": 314
+  "subcluster_idx": 0,
+  "fallback_idx": 8,
+  "call_count": 315
 }
