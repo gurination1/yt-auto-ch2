@@ -1,6 +1,5 @@
 {
   "topics": [
-    "The African Crested Rat's deadly poison-absorbing hair armor",
     "The stolen host genes used by hairworms to chemically hijack cricket brains",
     "The deep-sea snail with a suit of solid iron armor forged directly from volcanic vents",
     "How the box jellyfish's dual-action neurotoxin triggers instant cardiovascular collapse by punching microscopic holes in human red blood cells, causing potassium to flood the bloodstream and stopping the heart in seconds.",
@@ -89,9 +88,10 @@
     "How the parasitic crustacean *Cymothoa exigua* enters fish through their gills, completely devours their tongues, and replaces the missing organ to live as a permanent, functional body part.",
     "Ophiocordyceps Parasitic Fungi: How fungal spores hijack ant motor neurons to build elevated death grips",
     "How the cone snail fires a microscopic insulin harpoon that crashes a victim's blood sugar to induce immediate, helpless hypoglycemic shock",
-    "How the deep-subsurface bacterium *Desulforudis audaxviator* survives miles beneath the Earth's crust in pitch-black water, deriving all its life energy entirely from natural uranium radioactive decay."
+    "How the deep-subsurface bacterium *Desulforudis audaxviator* survives miles beneath the Earth's crust in pitch-black water, deriving all its life energy entirely from natural uranium radioactive decay.",
+    "The Chironex Box Jellyfish: The microscopic nematocyst harpoons injecting cardiotoxic venom in 700 nanoseconds"
   ],
-  "subcluster_idx": 3,
-  "fallback_idx": 9,
-  "call_count": 318
+  "subcluster_idx": 4,
+  "fallback_idx": 10,
+  "call_count": 319
 }
