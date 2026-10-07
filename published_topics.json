@@ -1,6 +1,5 @@
 {
   "topics": [
-    "Siberian permafrost nematodes that woke up and successfully reproduced after sleeping for 46,000 years",
     "The African Crested Rat's deadly poison-absorbing hair armor",
     "The stolen host genes used by hairworms to chemically hijack cricket brains",
     "The deep-sea snail with a suit of solid iron armor forged directly from volcanic vents",
@@ -89,9 +88,10 @@
     "How the pitcher plant (*Nepenthes rajah*) secretes a slippery viscoelastic fluid that turns the physics of insect footing against climbing prey.",
     "How the parasitic crustacean *Cymothoa exigua* enters fish through their gills, completely devours their tongues, and replaces the missing organ to live as a permanent, functional body part.",
     "Ophiocordyceps Parasitic Fungi: How fungal spores hijack ant motor neurons to build elevated death grips",
-    "How the cone snail fires a microscopic insulin harpoon that crashes a victim's blood sugar to induce immediate, helpless hypoglycemic shock"
+    "How the cone snail fires a microscopic insulin harpoon that crashes a victim's blood sugar to induce immediate, helpless hypoglycemic shock",
+    "How the deep-subsurface bacterium *Desulforudis audaxviator* survives miles beneath the Earth's crust in pitch-black water, deriving all its life energy entirely from natural uranium radioactive decay."
   ],
-  "subcluster_idx": 2,
-  "fallback_idx": 8,
-  "call_count": 317
+  "subcluster_idx": 3,
+  "fallback_idx": 9,
+  "call_count": 318
 }
