@@ -1,6 +1,5 @@
 {
   "topics": [
-    "The ribbon worm's explosive, branching venomous proboscis that hunts like an alien parasite",
     "Siberian permafrost nematodes that woke up and successfully reproduced after sleeping for 46,000 years",
     "The African Crested Rat's deadly poison-absorbing hair armor",
     "The stolen host genes used by hairworms to chemically hijack cricket brains",
@@ -89,9 +88,10 @@
     "The Geography Cone Snail: The hyper-complex conotoxin cocktail that paralyzes human nervous systems in seconds",
     "How the pitcher plant (*Nepenthes rajah*) secretes a slippery viscoelastic fluid that turns the physics of insect footing against climbing prey.",
     "How the parasitic crustacean *Cymothoa exigua* enters fish through their gills, completely devours their tongues, and replaces the missing organ to live as a permanent, functional body part.",
-    "Ophiocordyceps Parasitic Fungi: How fungal spores hijack ant motor neurons to build elevated death grips"
+    "Ophiocordyceps Parasitic Fungi: How fungal spores hijack ant motor neurons to build elevated death grips",
+    "How the cone snail fires a microscopic insulin harpoon that crashes a victim's blood sugar to induce immediate, helpless hypoglycemic shock"
   ],
-  "subcluster_idx": 1,
-  "fallback_idx": 7,
-  "call_count": 316
+  "subcluster_idx": 2,
+  "fallback_idx": 8,
+  "call_count": 317
 }
