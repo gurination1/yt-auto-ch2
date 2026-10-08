@@ -1,6 +1,5 @@
 {
   "topics": [
-    "The stolen host genes used by hairworms to chemically hijack cricket brains",
     "The deep-sea snail with a suit of solid iron armor forged directly from volcanic vents",
     "How the box jellyfish's dual-action neurotoxin triggers instant cardiovascular collapse by punching microscopic holes in human red blood cells, causing potassium to flood the bloodstream and stopping the heart in seconds.",
     "The 'Devil Worm' (Halicephalobus mephisto) surviving miles underground in boiling, oxygen-free rock",
@@ -89,9 +88,10 @@
     "Ophiocordyceps Parasitic Fungi: How fungal spores hijack ant motor neurons to build elevated death grips",
     "How the cone snail fires a microscopic insulin harpoon that crashes a victim's blood sugar to induce immediate, helpless hypoglycemic shock",
     "How the deep-subsurface bacterium *Desulforudis audaxviator* survives miles beneath the Earth's crust in pitch-black water, deriving all its life energy entirely from natural uranium radioactive decay.",
-    "The Chironex Box Jellyfish: The microscopic nematocyst harpoons injecting cardiotoxic venom in 700 nanoseconds"
+    "The Chironex Box Jellyfish: The microscopic nematocyst harpoons injecting cardiotoxic venom in 700 nanoseconds",
+    "How the parasitic protozoan *Eimeria tenella* uses precision molecular triggers to puncture chicken intestinal walls, executing a scorched-earth replication cycle that stuns veterinary science."
   ],
-  "subcluster_idx": 4,
-  "fallback_idx": 10,
-  "call_count": 319
+  "subcluster_idx": 0,
+  "fallback_idx": 11,
+  "call_count": 320
 }
