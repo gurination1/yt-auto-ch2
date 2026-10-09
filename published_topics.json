@@ -1,6 +1,5 @@
 {
   "topics": [
-    "The Deep-Sea Amphipod's Titanium-Infused Exoskeleton That Withstands Marianas Trench Pressure",
     "How the stonefish injects a neurotoxin so agonizing that victims desperately beg doctors to amputate their limbs without anesthesia.",
     "How the Antarctic midge Belgica antarctica survives complete cellular dehydration and freezing by turning its body fluids into biological glass",
     "Why the archerfish shoots high-velocity water droplets with complex hydrodynamic force to knock flying insects out of the air from feet away.",
@@ -89,9 +88,10 @@
     "The *Phoracantha* longhorn beetle's biochemical defense: A sophisticated, pressurized chemical weapon that sprays a concentrated, volatile solvent capable of dissolving insect exoskeletons on contact.",
     "How the Antarctic marine nematode *Panagrolaimus detritophagus* survives over 46,000 years locked in frozen permafrost before waking up with a fully intact metabolism.",
     "How the male argonaut octopus detaches its entire reproductive arm, which swims independently to hunt down a female in the open ocean.",
-    "How the microscopic amoeba *Naegleria fowleri* exploits the human olfactory nerve to bypass the blood-brain barrier and rapidly consume brain tissue."
+    "How the microscopic amoeba *Naegleria fowleri* exploits the human olfactory nerve to bypass the blood-brain barrier and rapidly consume brain tissue.",
+    "How the abyssal helmet jellyfish (*Periphylla periphylla*) manufactures a rigid, highly toxic biochemical protein armor that withstands freezing temperatures and immense oceanic weight."
   ],
-  "subcluster_idx": 0,
-  "fallback_idx": 16,
-  "call_count": 325
+  "subcluster_idx": 1,
+  "fallback_idx": 17,
+  "call_count": 326
 }
