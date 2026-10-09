@@ -1,6 +1,5 @@
 {
   "topics": [
-    "The parasitic barnacle that castrates male crabs and rewires their brains to mother alien larvae",
     "The Deep-Sea Amphipod's Titanium-Infused Exoskeleton That Withstands Marianas Trench Pressure",
     "How the stonefish injects a neurotoxin so agonizing that victims desperately beg doctors to amputate their limbs without anesthesia.",
     "How the Antarctic midge Belgica antarctica survives complete cellular dehydration and freezing by turning its body fluids into biological glass",
@@ -89,9 +88,10 @@
     "How the abyssal rattail fish Macrouridae alters its cellular membranes with strange fats to keep its brain from seizing up in water cold enough to freeze blood.",
     "The *Phoracantha* longhorn beetle's biochemical defense: A sophisticated, pressurized chemical weapon that sprays a concentrated, volatile solvent capable of dissolving insect exoskeletons on contact.",
     "How the Antarctic marine nematode *Panagrolaimus detritophagus* survives over 46,000 years locked in frozen permafrost before waking up with a fully intact metabolism.",
-    "How the male argonaut octopus detaches its entire reproductive arm, which swims independently to hunt down a female in the open ocean."
+    "How the male argonaut octopus detaches its entire reproductive arm, which swims independently to hunt down a female in the open ocean.",
+    "How the microscopic amoeba *Naegleria fowleri* exploits the human olfactory nerve to bypass the blood-brain barrier and rapidly consume brain tissue."
   ],
-  "subcluster_idx": 4,
-  "fallback_idx": 15,
-  "call_count": 324
+  "subcluster_idx": 0,
+  "fallback_idx": 16,
+  "call_count": 325
 }
