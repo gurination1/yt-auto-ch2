@@ -1,6 +1,5 @@
 {
   "topics": [
-    "The Hairy Frog's Wolverine-like bone claws",
     "The parasitic barnacle that castrates male crabs and rewires their brains to mother alien larvae",
     "The Deep-Sea Amphipod's Titanium-Infused Exoskeleton That Withstands Marianas Trench Pressure",
     "How the stonefish injects a neurotoxin so agonizing that victims desperately beg doctors to amputate their limbs without anesthesia.",
@@ -89,9 +88,10 @@
     "How the parasitic protozoan *Eimeria tenella* uses precision molecular triggers to puncture chicken intestinal walls, executing a scorched-earth replication cycle that stuns veterinary science.",
     "How the abyssal rattail fish Macrouridae alters its cellular membranes with strange fats to keep its brain from seizing up in water cold enough to freeze blood.",
     "The *Phoracantha* longhorn beetle's biochemical defense: A sophisticated, pressurized chemical weapon that sprays a concentrated, volatile solvent capable of dissolving insect exoskeletons on contact.",
-    "How the Antarctic marine nematode *Panagrolaimus detritophagus* survives over 46,000 years locked in frozen permafrost before waking up with a fully intact metabolism."
+    "How the Antarctic marine nematode *Panagrolaimus detritophagus* survives over 46,000 years locked in frozen permafrost before waking up with a fully intact metabolism.",
+    "How the male argonaut octopus detaches its entire reproductive arm, which swims independently to hunt down a female in the open ocean."
   ],
-  "subcluster_idx": 3,
-  "fallback_idx": 14,
-  "call_count": 323
+  "subcluster_idx": 4,
+  "fallback_idx": 15,
+  "call_count": 324
 }
