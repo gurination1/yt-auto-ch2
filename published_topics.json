@@ -1,6 +1,5 @@
 {
   "topics": [
-    "How the Antarctic midge Belgica antarctica survives complete cellular dehydration and freezing by turning its body fluids into biological glass",
     "Why the archerfish shoots high-velocity water droplets with complex hydrodynamic force to knock flying insects out of the air from feet away.",
     "The microscopic parasitic flatworm Euhaplorchis californiensis that hacks killifish brains, forcing them to swim upside down and flash bright colors to attract predatory herons.",
     "How the deep-sea siphonophore Bathyphysa conifera deploys a terrifying living fishing line lined with lethal stinging nematocysts that stretch for miles across the pitch-black abyss.",
@@ -89,9 +88,10 @@
     "How the male argonaut octopus detaches its entire reproductive arm, which swims independently to hunt down a female in the open ocean.",
     "How the microscopic amoeba *Naegleria fowleri* exploits the human olfactory nerve to bypass the blood-brain barrier and rapidly consume brain tissue.",
     "How the abyssal helmet jellyfish (*Periphylla periphylla*) manufactures a rigid, highly toxic biochemical protein armor that withstands freezing temperatures and immense oceanic weight.",
-    "How the rough-skinned newt (*Taricha granulosa*) produces enough tetrodotoxin in its skin to instantly kill dozens of adult humans without even biting them."
+    "How the rough-skinned newt (*Taricha granulosa*) produces enough tetrodotoxin in its skin to instantly kill dozens of adult humans without even biting them.",
+    "How the Antarctic psychrophilic bacterium Psychromonas ingrahamii maintains fluid cellular membranes and actively divides in seawater chilled to a bone-crushing minus twelve degrees Celsius."
   ],
-  "subcluster_idx": 2,
-  "fallback_idx": 18,
-  "call_count": 327
+  "subcluster_idx": 3,
+  "fallback_idx": 19,
+  "call_count": 328
 }
