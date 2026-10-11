@@ -1,6 +1,5 @@
 {
   "topics": [
-    "How the deep-sea siphonophore Bathyphysa conifera deploys a terrifying living fishing line lined with lethal stinging nematocysts that stretch for miles across the pitch-black abyss.",
     "How the platypus injects a specialized cocktail of venom containing nerve-shredding proteins that human painkillers literally cannot touch, defying standard medical treatment.",
     "How the microscopic tardigrade (water bear) weaves a protective shield of intrinsically disordered proteins to survive the absolute vacuum of space and 150-degree heat.",
     "How the Dracula ant (*Mystrium camillae*) snaps its mandibles at 200 miles per hour\u2014the fastest recorded animal movement\u2014by springing them together like a mouse trap.",
@@ -89,9 +88,10 @@
     "How the rough-skinned newt (*Taricha granulosa*) produces enough tetrodotoxin in its skin to instantly kill dozens of adult humans without even biting them.",
     "How the Antarctic psychrophilic bacterium Psychromonas ingrahamii maintains fluid cellular membranes and actively divides in seawater chilled to a bone-crushing minus twelve degrees Celsius.",
     "How the barred owl (*Strix varia*) modifies its facial feather structure to create a sound-trapping parabolic dish that hears mice beneath deep snow.",
-    "How the microscopic protozoan Ichthyophthirius multifiliis burrows beneath fish skin to feed on living cells, triggering fatal whole-body infections known as white spot disease."
+    "How the microscopic protozoan Ichthyophthirius multifiliis burrows beneath fish skin to feed on living cells, triggering fatal whole-body infections known as white spot disease.",
+    "The Archerfish Optical Physics: How this fish computes water refraction to shoot down airborne insects"
   ],
-  "subcluster_idx": 0,
-  "fallback_idx": 21,
-  "call_count": 330
+  "subcluster_idx": 1,
+  "fallback_idx": 17,
+  "call_count": 331
 }
