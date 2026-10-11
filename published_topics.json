@@ -1,6 +1,5 @@
 {
   "topics": [
-    "How the platypus injects a specialized cocktail of venom containing nerve-shredding proteins that human painkillers literally cannot touch, defying standard medical treatment.",
     "How the microscopic tardigrade (water bear) weaves a protective shield of intrinsically disordered proteins to survive the absolute vacuum of space and 150-degree heat.",
     "How the Dracula ant (*Mystrium camillae*) snaps its mandibles at 200 miles per hour\u2014the fastest recorded animal movement\u2014by springing them together like a mouse trap.",
     "The microscopic fungal assassin *Tolypocladium* that injects precision neurotoxins into cicadas, replacing their muscle tissue with solid fungal spores while keeping them alive and flying to spread infection.",
@@ -89,9 +88,10 @@
     "How the Antarctic psychrophilic bacterium Psychromonas ingrahamii maintains fluid cellular membranes and actively divides in seawater chilled to a bone-crushing minus twelve degrees Celsius.",
     "How the barred owl (*Strix varia*) modifies its facial feather structure to create a sound-trapping parabolic dish that hears mice beneath deep snow.",
     "How the microscopic protozoan Ichthyophthirius multifiliis burrows beneath fish skin to feed on living cells, triggering fatal whole-body infections known as white spot disease.",
-    "The Archerfish Optical Physics: How this fish computes water refraction to shoot down airborne insects"
+    "The Archerfish Optical Physics: How this fish computes water refraction to shoot down airborne insects",
+    "The Abyssal Gulper Eel: The deep ocean predator whose expanding jaws swallow prey twice its own body size"
   ],
-  "subcluster_idx": 1,
-  "fallback_idx": 17,
-  "call_count": 331
+  "subcluster_idx": 2,
+  "fallback_idx": 11,
+  "call_count": 332
 }
