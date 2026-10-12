@@ -1,6 +1,5 @@
 {
   "topics": [
-    "How the deep-sea ghost octopus (Grimpoteuthis) survives crushing abyssal pressure without collapsing by replacing hard bones with a gelatinous, water-retaining structural matrix.",
     "How the tiny hooded pitohui bird coats its feathers in deadly batrachotoxin, a neurotoxin identical to poison dart frogs that paralyzes predators on contact.",
     "How the brine shrimp Artemia franciscana embryo enters cryptobiosis, dropping its metabolic rate to virtually zero inside an impermeable cyst shell to survive total desiccation for decades.",
     "How the Iberian ribbed newt pushes its own razor-sharp ribs directly through its sides to stab attackers with toxic biological daggers.",
@@ -89,9 +88,10 @@
     "The Abyssal Gulper Eel: The deep ocean predator whose expanding jaws swallow prey twice its own body size",
     "How the tiny desert crustacean *Branchinella spinosa* survives total habitat evaporation by drying into a lifeless powder dust grain for decades.",
     "How the deep-sea siphophore *Apolemia* grows longer than a blue whale while acting as a colonial network of specialized, autonomous organs sharing a single digestive tract.",
-    "How the parasitic flatworm *Dicrocoelium dendriticum* forces ants to climb grass blades at dusk and clamp down to be eaten by grazing livestock."
+    "How the parasitic flatworm *Dicrocoelium dendriticum* forces ants to climb grass blades at dusk and clamp down to be eaten by grazing livestock.",
+    "How the deep-sea siphonophore Bathyphysa conifera deploys venom-laced fishing tentacles that maintain structural integrity miles below the ocean surface."
   ],
-  "subcluster_idx": 0,
-  "fallback_idx": 14,
-  "call_count": 335
+  "subcluster_idx": 1,
+  "fallback_idx": 15,
+  "call_count": 336
 }
