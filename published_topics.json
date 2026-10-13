@@ -1,6 +1,5 @@
 {
   "topics": [
-    "How the brine shrimp Artemia franciscana embryo enters cryptobiosis, dropping its metabolic rate to virtually zero inside an impermeable cyst shell to survive total desiccation for decades.",
     "How the Iberian ribbed newt pushes its own razor-sharp ribs directly through its sides to stab attackers with toxic biological daggers.",
     "The microscopic parasitoid wasp Dinocampus coccinellae that hijacks ladybug nervous systems to build a twitching silk sleeping bag for its cocoon.",
     "How the deep-sea pearlfish uses a hardened muscular tail to violently spear its way backward into the suffocating anus of a living sea cucumber to hide from abyssal predators.",
@@ -89,9 +88,10 @@
     "How the deep-sea siphophore *Apolemia* grows longer than a blue whale while acting as a colonial network of specialized, autonomous organs sharing a single digestive tract.",
     "How the parasitic flatworm *Dicrocoelium dendriticum* forces ants to climb grass blades at dusk and clamp down to be eaten by grazing livestock.",
     "How the deep-sea siphonophore Bathyphysa conifera deploys venom-laced fishing tentacles that maintain structural integrity miles below the ocean surface.",
-    "How the velvet-bell lanternshark (*Etmopterus spinax*) secretes a toxic skin mucus laced with heavy metals to blind predatory fish in the pitch-black abyss."
+    "How the velvet-bell lanternshark (*Etmopterus spinax*) secretes a toxic skin mucus laced with heavy metals to blind predatory fish in the pitch-black abyss.",
+    "How the Antarctic midge Belgica antarctica survives freezing solid by systematically dehydrating its own internal organs into a glassy crystalline state."
   ],
-  "subcluster_idx": 2,
-  "fallback_idx": 16,
-  "call_count": 337
+  "subcluster_idx": 3,
+  "fallback_idx": 17,
+  "call_count": 338
 }
