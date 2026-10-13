@@ -1,6 +1,5 @@
 {
   "topics": [
-    "How the slow loris secretes a toxic oil from its arm glands that, when mixed with saliva, creates a flesh-rotting chemical weapon.",
     "How the hydrothermal vent Pompeii worm (Alvinella pompejana) thrives under continuous thermal stress, enduring blistering 80\u00b0C waters while wrapped in a protective fleece of heavy-metal detoxifying bacteria",
     "How the deep-sea pelican eel unhinges its massive, flexible jaws to swallow prey larger than its entire body whole",
     "How the parasitic wasp Glyptapanteles forces its caterpillar host to abandon feeding and violently whip its head to guard alien cocoons until it starves.",
@@ -89,9 +88,10 @@
     "How the Antarctic midge Belgica antarctica survives freezing solid by systematically dehydrating its own internal organs into a glassy crystalline state.",
     "How the lungless salamander (*Bolitoglossa*) launches its tongue at lightning speed using a specialized foot-powered muscle slingshot.",
     "The parasitic fungus 'Massospora cicadina' that forces cicadas to grow a fungal plug in their abdomen, turning them into hyper-sexualized, walking spore dispensers.",
-    "Abyssal amphipods survive the Hadal zone by utilizing specialized aluminum-rich exoskeletons that chemically bond with seawater minerals to reinforce their structural integrity against extreme hydrostatic compression."
+    "Abyssal amphipods survive the Hadal zone by utilizing specialized aluminum-rich exoskeletons that chemically bond with seawater minerals to reinforce their structural integrity against extreme hydrostatic compression.",
+    "How the paralysis tick (*Ixodes holocyclus*) injects a stealth neurotoxin that turns off mammalian breathing muscles while completely masking its presence from the immune system."
   ],
-  "subcluster_idx": 1,
-  "fallback_idx": 20,
-  "call_count": 341
+  "subcluster_idx": 2,
+  "fallback_idx": 21,
+  "call_count": 342
 }
