@@ -1,6 +1,5 @@
 {
   "topics": [
-    "The microscopic parasitoid wasp Dinocampus coccinellae that hijacks ladybug nervous systems to build a twitching silk sleeping bag for its cocoon.",
     "How the deep-sea pearlfish uses a hardened muscular tail to violently spear its way backward into the suffocating anus of a living sea cucumber to hide from abyssal predators.",
     "How the slow loris secretes a toxic oil from its arm glands that, when mixed with saliva, creates a flesh-rotting chemical weapon.",
     "How the hydrothermal vent Pompeii worm (Alvinella pompejana) thrives under continuous thermal stress, enduring blistering 80\u00b0C waters while wrapped in a protective fleece of heavy-metal detoxifying bacteria",
@@ -89,9 +88,10 @@
     "How the deep-sea siphonophore Bathyphysa conifera deploys venom-laced fishing tentacles that maintain structural integrity miles below the ocean surface.",
     "How the velvet-bell lanternshark (*Etmopterus spinax*) secretes a toxic skin mucus laced with heavy metals to blind predatory fish in the pitch-black abyss.",
     "How the Antarctic midge Belgica antarctica survives freezing solid by systematically dehydrating its own internal organs into a glassy crystalline state.",
-    "How the lungless salamander (*Bolitoglossa*) launches its tongue at lightning speed using a specialized foot-powered muscle slingshot."
+    "How the lungless salamander (*Bolitoglossa*) launches its tongue at lightning speed using a specialized foot-powered muscle slingshot.",
+    "The parasitic fungus 'Massospora cicadina' that forces cicadas to grow a fungal plug in their abdomen, turning them into hyper-sexualized, walking spore dispensers."
   ],
-  "subcluster_idx": 4,
-  "fallback_idx": 18,
-  "call_count": 339
+  "subcluster_idx": 0,
+  "fallback_idx": 19,
+  "call_count": 340
 }
