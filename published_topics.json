@@ -1,6 +1,5 @@
 {
   "topics": [
-    "How the desert resurrection plant (Selaginella lepidophylla) completely dries into a brittle brown ball for years, then instantly resurrects green tissue upon contact with water.",
     "How the paradoxical frog (*Pseudis paradoxa*) defies mammalian growth logic by shrinking to a fraction of its size as an adult.",
     "How the microscopic protozoan Toxoplasma gondii rewires mammalian fear circuits to make rodents actively run toward cat urine.",
     "How the deep-sea dragonfish (*Aristostias scintillans*) generates its own infrared bioluminescence, casting a secret hunting spotlight that only it can see.",
@@ -89,9 +88,10 @@
     "The predatory sea worm Eunice aphroditois uses a lightning-fast, spring-loaded jaw mechanism to snap prey in half with enough force to cut through bone.",
     "The microscopic parasitic crustacean Peltogaster paguri that forces hermit crabs to act as dedicated surrogate parents for the parasite's own offspring.",
     "How the deep-sea tripod fish (*Bathypterois grallator*) locks its elongated skeletal rays rigid to stand motionless on the crushing ocean floor like an underwater camera tripod.",
-    "How the assassin spider (*Mecysmauchenius*) swings a hyper-modified, spring-loaded chelicera mandible at blinding speeds to impale and liquefy rival spiders from a distance."
+    "How the assassin spider (*Mecysmauchenius*) swings a hyper-modified, spring-loaded chelicera mandible at blinding speeds to impale and liquefy rival spiders from a distance.",
+    "How the subterranean bacterium Halorubrum lacusprofundi endures the toxic salt loads of Deep Lake Antarctica by folding its proteins with extreme acid anchors."
   ],
-  "subcluster_idx": 2,
-  "fallback_idx": 1,
-  "call_count": 347
+  "subcluster_idx": 3,
+  "fallback_idx": 2,
+  "call_count": 348
 }
