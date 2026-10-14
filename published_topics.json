@@ -1,6 +1,5 @@
 {
   "topics": [
-    "How deep-sea xenophyophores\u2014giant single-celled amoebas\u2014grow up to twenty centimeters wide under extreme pressures that would instantly rupture normal cells.",
     "How the sea walnut (Beroe ovata) deploys specialized biochemical digestive enzymes that liquefy rival comb jellies from the inside out in seconds.",
     "How the desert resurrection plant (Selaginella lepidophylla) completely dries into a brittle brown ball for years, then instantly resurrects green tissue upon contact with water.",
     "How the paradoxical frog (*Pseudis paradoxa*) defies mammalian growth logic by shrinking to a fraction of its size as an adult.",
@@ -89,9 +88,10 @@
     "How the paralysis tick (*Ixodes holocyclus*) injects a stealth neurotoxin that turns off mammalian breathing muscles while completely masking its presence from the immune system.",
     "How the Antarctic hair-worm *Eutrodrilus* survives complete intracellular ice encapsulation by weaponizing rapid structural sugar synthesis to prevent cell wall rupture.",
     "The predatory sea worm Eunice aphroditois uses a lightning-fast, spring-loaded jaw mechanism to snap prey in half with enough force to cut through bone.",
-    "The microscopic parasitic crustacean Peltogaster paguri that forces hermit crabs to act as dedicated surrogate parents for the parasite's own offspring."
+    "The microscopic parasitic crustacean Peltogaster paguri that forces hermit crabs to act as dedicated surrogate parents for the parasite's own offspring.",
+    "How the deep-sea tripod fish (*Bathypterois grallator*) locks its elongated skeletal rays rigid to stand motionless on the crushing ocean floor like an underwater camera tripod."
   ],
-  "subcluster_idx": 0,
-  "fallback_idx": 24,
-  "call_count": 345
+  "subcluster_idx": 1,
+  "fallback_idx": 0,
+  "call_count": 346
 }
