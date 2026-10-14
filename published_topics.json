@@ -1,6 +1,5 @@
 {
   "topics": [
-    "How the deep-sea pelican eel unhinges its massive, flexible jaws to swallow prey larger than its entire body whole",
     "How the parasitic wasp Glyptapanteles forces its caterpillar host to abandon feeding and violently whip its head to guard alien cocoons until it starves.",
     "How deep-sea xenophyophores\u2014giant single-celled amoebas\u2014grow up to twenty centimeters wide under extreme pressures that would instantly rupture normal cells.",
     "How the sea walnut (Beroe ovata) deploys specialized biochemical digestive enzymes that liquefy rival comb jellies from the inside out in seconds.",
@@ -89,9 +88,10 @@
     "The parasitic fungus 'Massospora cicadina' that forces cicadas to grow a fungal plug in their abdomen, turning them into hyper-sexualized, walking spore dispensers.",
     "Abyssal amphipods survive the Hadal zone by utilizing specialized aluminum-rich exoskeletons that chemically bond with seawater minerals to reinforce their structural integrity against extreme hydrostatic compression.",
     "How the paralysis tick (*Ixodes holocyclus*) injects a stealth neurotoxin that turns off mammalian breathing muscles while completely masking its presence from the immune system.",
-    "How the Antarctic hair-worm *Eutrodrilus* survives complete intracellular ice encapsulation by weaponizing rapid structural sugar synthesis to prevent cell wall rupture."
+    "How the Antarctic hair-worm *Eutrodrilus* survives complete intracellular ice encapsulation by weaponizing rapid structural sugar synthesis to prevent cell wall rupture.",
+    "The predatory sea worm Eunice aphroditois uses a lightning-fast, spring-loaded jaw mechanism to snap prey in half with enough force to cut through bone."
   ],
-  "subcluster_idx": 3,
-  "fallback_idx": 22,
-  "call_count": 343
+  "subcluster_idx": 4,
+  "fallback_idx": 23,
+  "call_count": 344
 }
