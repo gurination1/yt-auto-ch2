@@ -1,6 +1,5 @@
 {
   "topics": [
-    "How the deep-sea dragonfish (*Aristostias scintillans*) generates its own infrared bioluminescence, casting a secret hunting spotlight that only it can see.",
     "How the velvet ant's biochemical cocktail delivers pain so intense it causes temporary blindness and systemic shock",
     "How the extremophile red alga (*Cyanidioschyzon merolae*) thrives inside boiling, highly acidic volcanic sulfur springs that instantly dissolve other lifeforms.",
     "How the wood-boring shipworm (*Teredo navalis*) utilizes specialized symbiotic gill bacteria to secrete heavy-duty wood-dissolving enzymes, turning solid oak ship hulls into literal dietary fuel.",
@@ -89,9 +88,10 @@
     "How the assassin spider (*Mecysmauchenius*) swings a hyper-modified, spring-loaded chelicera mandible at blinding speeds to impale and liquefy rival spiders from a distance.",
     "How the subterranean bacterium Halorubrum lacusprofundi endures the toxic salt loads of Deep Lake Antarctica by folding its proteins with extreme acid anchors.",
     "How the hairy frog (*Trichobatris robustus*) intentionally cracks its own toe bones to push them through its skin, using them as organic claws to shred attackers.",
-    "How the parasitic flatworm *Cryptocotyle lingua* manipulates marine snail behavior by blinding them, forcing infected hosts into open sunlight to ensure bird predation."
+    "How the parasitic flatworm *Cryptocotyle lingua* manipulates marine snail behavior by blinding them, forcing infected hosts into open sunlight to ensure bird predation.",
+    "The Golden Poison Frog Batrachotoxin: The 2-inch Colombian amphibian carrying enough neurotoxin to stop 10 humans"
   ],
-  "subcluster_idx": 0,
-  "fallback_idx": 4,
-  "call_count": 350
+  "subcluster_idx": 1,
+  "fallback_idx": 18,
+  "call_count": 351
 }
