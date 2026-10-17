@@ -1,6 +1,5 @@
 {
   "topics": [
-    "How hydrothermal vent-dwelling scale worms lock heavy metals into their dorsal plates to detoxify extreme abyssal chemistry.",
     "How the Brazilian wandering spider's venom triggers an agonizing, permanent physical reaction that medical science harnesses for targeted treatments",
     "How the hydrothermal vent archaeon *Methanothermococcus thermolithotrophicus* uses pure hydrogen and carbon dioxide to thrive at scalding, pressure-cooking temperatures above 80\u00b0C",
     "How the pistol shrimp snaps its claw shut so fast that it creates a cavitation bubble reaching temperatures hotter than the surface of the sun.",
@@ -89,9 +88,10 @@
     "How the African crested rat chews toxic bark and smears the lethal plant poison onto its specialized fur to deter predators.",
     "How the Antarctic icefish (*Chionodraco hamatus*) completely lacks red blood cells and hemoglobin, surviving sub-freezing polar waters entirely by pumping clear, oxygen-saturated plasma through its veins.",
     "The Alpheus Snapping Shrimp: How snapping its claw creates a cavitation bubble reaching 8,000 degrees Fahrenheit",
-    "How the microscopic parasitic nematode *Heterorhabditis bacteriophora* teams up with bioluminescent bacteria to hunt, invade, and liquefy insects from the inside out."
+    "How the microscopic parasitic nematode *Heterorhabditis bacteriophora* teams up with bioluminescent bacteria to hunt, invade, and liquefy insects from the inside out.",
+    "The Alvinella Pompeii Vent Worm: The deep hydrothermal vent organism thriving in 176-degree scalding water"
   ],
-  "subcluster_idx": 0,
-  "fallback_idx": 14,
-  "call_count": 355
+  "subcluster_idx": 1,
+  "fallback_idx": 19,
+  "call_count": 356
 }
