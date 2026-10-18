@@ -1,6 +1,5 @@
 {
   "topics": [
-    "How the microscopic predator Didinium nasutum shoots an invisible, harpoon-like toxic dart to instantly paralyze and swallow giant paramecia whole.",
     "How the deep-sea Atolla jellyfish deploys a blinding 'burglar alarm' flash to summon massive predators to devour whatever is attacking it",
     "How the stonefish deploys an engineered crucifix-shaped spinal needle that injects a flesh-melting protein cocktail specifically designed to maximize sheer agony.",
     "The microscopic 'ice-nucleating' bacteria that chemically trigger frost formation to shatter host plant cells and harvest leaked nutrients from within.",
@@ -89,9 +88,10 @@
     "The Alvinella Pompeii Vent Worm: The deep hydrothermal vent organism thriving in 176-degree scalding water",
     "How the hooded pitohui bird sequesters batrachotoxin neurotoxins inside its skin and feathers by eating toxic Choresine choresine beetles.",
     "How the desert resurrection plant *Myrothamnus flabellifolia* completely dehydrates into brittle, dead-looking ash during droughts, then resurrects its green cellular machinery within hours of rainfall.",
-    "How the marine flatworm *Pseudoceros dimidiatus* engages in violent 'penis fencing' where competitors duel for hours to determine who bears the metabolic cost of pregnancy."
+    "How the marine flatworm *Pseudoceros dimidiatus* engages in violent 'penis fencing' where competitors duel for hours to determine who bears the metabolic cost of pregnancy.",
+    "How the parasitic wasp *Glyptapanteles* forces its caterpillar host to abandon feeding and stand guard over the wasp's emerging cocoons until the host dies."
   ],
-  "subcluster_idx": 4,
-  "fallback_idx": 22,
-  "call_count": 359
+  "subcluster_idx": 0,
+  "fallback_idx": 23,
+  "call_count": 360
 }
