@@ -1,6 +1,5 @@
 {
   "topics": [
-    "How the stonefish deploys an engineered crucifix-shaped spinal needle that injects a flesh-melting protein cocktail specifically designed to maximize sheer agony.",
     "The microscopic 'ice-nucleating' bacteria that chemically trigger frost formation to shatter host plant cells and harvest leaked nutrients from within.",
     "The Deep-Sea Footballfish Esca Lure: Symbiotic bioluminescent bacteria glowing in total oceanic pitch black",
     "How the microscopic rotifer-eating fungus *Zoophagus insidians* deploys deadly adhesive traps that instantly snap shut to capture and digest swimming predators.",
@@ -89,9 +88,10 @@
     "How the desert resurrection plant *Myrothamnus flabellifolia* completely dehydrates into brittle, dead-looking ash during droughts, then resurrects its green cellular machinery within hours of rainfall.",
     "How the marine flatworm *Pseudoceros dimidiatus* engages in violent 'penis fencing' where competitors duel for hours to determine who bears the metabolic cost of pregnancy.",
     "How the parasitic wasp *Glyptapanteles* forces its caterpillar host to abandon feeding and stand guard over the wasp's emerging cocoons until the host dies.",
-    "How the deep-sea barotrauma-proof ghost octopus (*Vitreledonella richardi*) maintains a completely translucent, gelatinous body that withstands thousands of pounds of hydrostatic crushing pressure without collapsing."
+    "How the deep-sea barotrauma-proof ghost octopus (*Vitreledonella richardi*) maintains a completely translucent, gelatinous body that withstands thousands of pounds of hydrostatic crushing pressure without collapsing.",
+    "The Brazilian Wandering Spider Tx2-6 Peptide: The deadly neurotoxin causing violent cardiovascular collapse"
   ],
-  "subcluster_idx": 1,
-  "fallback_idx": 24,
-  "call_count": 361
+  "subcluster_idx": 2,
+  "fallback_idx": 21,
+  "call_count": 362
 }
