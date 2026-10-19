@@ -1,6 +1,5 @@
 {
   "topics": [
-    "The Deep-Sea Footballfish Esca Lure: Symbiotic bioluminescent bacteria glowing in total oceanic pitch black",
     "How the microscopic rotifer-eating fungus *Zoophagus insidians* deploys deadly adhesive traps that instantly snap shut to capture and digest swimming predators.",
     "How the deep-sea barrelfish (*Macropoma microstoma*) protects its exposed, bulbous eyes by housing them inside a completely transparent, fluid-filled dome skull.",
     "How the caterpillar *Cerura vinula* shoots a concentrated stream of 45-percent formic acid directly into the eyes of attackers",
@@ -89,9 +88,10 @@
     "How the parasitic wasp *Glyptapanteles* forces its caterpillar host to abandon feeding and stand guard over the wasp's emerging cocoons until the host dies.",
     "How the deep-sea barotrauma-proof ghost octopus (*Vitreledonella richardi*) maintains a completely translucent, gelatinous body that withstands thousands of pounds of hydrostatic crushing pressure without collapsing.",
     "The Brazilian Wandering Spider Tx2-6 Peptide: The deadly neurotoxin causing violent cardiovascular collapse",
-    "The Deep-Sea Footballfish Esca Lure: Symbiotic bioluminescent bacteria glowing in total oceanic pitch black"
+    "The Deep-Sea Footballfish Esca Lure: Symbiotic bioluminescent bacteria glowing in total oceanic pitch black",
+    "How the male orb-web spider (*Nephila*) deliberately self-castrates during mating to plug female genital openings and block rival sperm."
   ],
-  "subcluster_idx": 3,
-  "fallback_idx": 22,
-  "call_count": 363
+  "subcluster_idx": 4,
+  "fallback_idx": 23,
+  "call_count": 364
 }
