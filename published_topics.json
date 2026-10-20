@@ -1,6 +1,5 @@
 {
   "topics": [
-    "How the desert extremophile bacterium *Chroococcidiopsis* survives inside solid salt crystals by sucking moisture straight out of arid air molecules",
     "How the deep-sea hagfish explosively secretes liters of instant protein slime that suffocates attacking sharks by clogging their gills.",
     "How the parasitic barnacle Loxothylacus panopaei injects liquid root-like filaments throughout a living crab's body to castrate it and hijack its maternal instincts.",
     "How the deep-sea snail-fish (*Pseudoliparis*) survives the Mariana Trench by lacking a swim bladder and using a skeletal structure so loose and soft it completely liquefies out of water.",
@@ -89,9 +88,10 @@
     "How the male orb-web spider (*Nephila*) deliberately self-castrates during mating to plug female genital openings and block rival sperm.",
     "How the microscopic nematode *Howardula aoride* infects fungus-eating flies, chemically castrates them, and forces them to spread thousands of worm larvae across forest floors.",
     "How the deep-sea siphonophore utilizes specialized gas-filled pneumatophores to adjust buoyancy and cheat the crushing physics of the midnight zone.",
+    "The Axolotl Regenerative Genome: How this salamander regrows severed limbs, spinal cords, and heart muscle",
     "The Axolotl Regenerative Genome: How this salamander regrows severed limbs, spinal cords, and heart muscle"
   ],
-  "subcluster_idx": 2,
+  "subcluster_idx": 3,
   "fallback_idx": 8,
-  "call_count": 367
+  "call_count": 368
 }
