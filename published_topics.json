@@ -1,6 +1,5 @@
 {
   "topics": [
-    "How the deep-sea barrelfish (*Macropoma microstoma*) protects its exposed, bulbous eyes by housing them inside a completely transparent, fluid-filled dome skull.",
     "How the caterpillar *Cerura vinula* shoots a concentrated stream of 45-percent formic acid directly into the eyes of attackers",
     "How the desert extremophile bacterium *Chroococcidiopsis* survives inside solid salt crystals by sucking moisture straight out of arid air molecules",
     "How the deep-sea hagfish explosively secretes liters of instant protein slime that suffocates attacking sharks by clogging their gills.",
@@ -89,9 +88,10 @@
     "The Brazilian Wandering Spider Tx2-6 Peptide: The deadly neurotoxin causing violent cardiovascular collapse",
     "The Deep-Sea Footballfish Esca Lure: Symbiotic bioluminescent bacteria glowing in total oceanic pitch black",
     "How the male orb-web spider (*Nephila*) deliberately self-castrates during mating to plug female genital openings and block rival sperm.",
-    "How the microscopic nematode *Howardula aoride* infects fungus-eating flies, chemically castrates them, and forces them to spread thousands of worm larvae across forest floors."
+    "How the microscopic nematode *Howardula aoride* infects fungus-eating flies, chemically castrates them, and forces them to spread thousands of worm larvae across forest floors.",
+    "How the deep-sea siphonophore utilizes specialized gas-filled pneumatophores to adjust buoyancy and cheat the crushing physics of the midnight zone."
   ],
-  "subcluster_idx": 0,
-  "fallback_idx": 24,
-  "call_count": 365
+  "subcluster_idx": 1,
+  "fallback_idx": 0,
+  "call_count": 366
 }
