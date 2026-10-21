@@ -1,6 +1,5 @@
 {
   "topics": [
-    "How the deep-sea hagfish explosively secretes liters of instant protein slime that suffocates attacking sharks by clogging their gills.",
     "How the parasitic barnacle Loxothylacus panopaei injects liquid root-like filaments throughout a living crab's body to castrate it and hijack its maternal instincts.",
     "How the deep-sea snail-fish (*Pseudoliparis*) survives the Mariana Trench by lacking a swim bladder and using a skeletal structure so loose and soft it completely liquefies out of water.",
     "How the blue-ringed octopus carries a neurotoxin so potent a single drop can instantly paralyze twenty humans, yet it hunts silently using weaponized saliva.",
@@ -89,9 +88,10 @@
     "How the microscopic nematode *Howardula aoride* infects fungus-eating flies, chemically castrates them, and forces them to spread thousands of worm larvae across forest floors.",
     "How the deep-sea siphonophore utilizes specialized gas-filled pneumatophores to adjust buoyancy and cheat the crushing physics of the midnight zone.",
     "The Axolotl Regenerative Genome: How this salamander regrows severed limbs, spinal cords, and heart muscle",
-    "The Axolotl Regenerative Genome: How this salamander regrows severed limbs, spinal cords, and heart muscle"
+    "The Axolotl Regenerative Genome: How this salamander regrows severed limbs, spinal cords, and heart muscle",
+    "How the horned lizard squirts pressurized, foul-tasting blood straight out of its own eye sockets to blind canine predators."
   ],
-  "subcluster_idx": 3,
-  "fallback_idx": 8,
-  "call_count": 368
+  "subcluster_idx": 4,
+  "fallback_idx": 9,
+  "call_count": 369
 }
