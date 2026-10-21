@@ -1,6 +1,5 @@
 {
   "topics": [
-    "How the blue-ringed octopus carries a neurotoxin so potent a single drop can instantly paralyze twenty humans, yet it hunts silently using weaponized saliva.",
     "The Axolotl Regenerative Genome: How this salamander regrows severed limbs, spinal cords, and heart muscle",
     "The deep-sea 'glass sponge' Euplectella aspergillum weaves optical fibers from silica that outclass modern human internet cables in structural resilience and light transmission.",
     "The Mimic Octopus: The cephalopod that shifts skin texture, color, and posture to impersonate 15 toxic predators",
@@ -89,9 +88,10 @@
     "The Axolotl Regenerative Genome: How this salamander regrows severed limbs, spinal cords, and heart muscle",
     "How the horned lizard squirts pressurized, foul-tasting blood straight out of its own eye sockets to blind canine predators.",
     "How the microscopic protozoan *Toxoplasma gondii* rewires rodent fear circuitry in the brain, flipping the predator-prey dynamic so mice actively seek out cat urine.",
-    "How the deep-sea pearlfish (*Carapidae*) survives crushing abyssal pressures by living entirely inside the living, breathing respiratory organs of giant sea cucumbers."
+    "How the deep-sea pearlfish (*Carapidae*) survives crushing abyssal pressures by living entirely inside the living, breathing respiratory organs of giant sea cucumbers.",
+    "The Axolotl Regenerative Genome: How this salamander regrows severed limbs, spinal cords, and heart muscle"
   ],
-  "subcluster_idx": 1,
-  "fallback_idx": 11,
-  "call_count": 371
+  "subcluster_idx": 2,
+  "fallback_idx": 8,
+  "call_count": 372
 }
