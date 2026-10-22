@@ -1,6 +1,5 @@
 {
   "topics": [
-    "The Inland Taipan Neurotoxic Venom: The Australian serpent whose single bite drops 100 adult humans",
     "How the predatory sea slug *Pleurobranchaea maculata* weaponizes its own diet by sequestering lethal tetrodotoxin to repel hungry reef fish.",
     "How the hyper-saline lake archaeon *Halobacterium salinarum* builds a purple protein shield to harvest pure sunlight directly into cellular energy.",
     "How the assassin bug (*Reduviidae*) glues the corpses of its dead victims onto its back to create a terrifying biochemical camouflage shield.",
@@ -89,9 +88,10 @@
     "The Axolotl Regenerative Genome: How this salamander regrows severed limbs, spinal cords, and heart muscle",
     "The Axolotl Regenerative Genome: How this salamander regrows severed limbs, spinal cords, and heart muscle",
     "The Mimic Octopus: The cephalopod that shifts skin texture, color, and posture to impersonate 15 toxic predators",
-    "The Mimic Octopus: The cephalopod that shifts skin texture, color, and posture to impersonate 15 toxic predators"
+    "The Mimic Octopus: The cephalopod that shifts skin texture, color, and posture to impersonate 15 toxic predators",
+    "The Inland Taipan Neurotoxic Venom: The Australian serpent whose single bite drops 100 adult humans"
   ],
-  "subcluster_idx": 0,
-  "fallback_idx": 12,
-  "call_count": 375
+  "subcluster_idx": 1,
+  "fallback_idx": 15,
+  "call_count": 376
 }
