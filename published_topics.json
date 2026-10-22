@@ -1,6 +1,5 @@
 {
   "topics": [
-    "The Mimic Octopus: The cephalopod that shifts skin texture, color, and posture to impersonate 15 toxic predators",
     "The Inland Taipan Neurotoxic Venom: The Australian serpent whose single bite drops 100 adult humans",
     "How the predatory sea slug *Pleurobranchaea maculata* weaponizes its own diet by sequestering lethal tetrodotoxin to repel hungry reef fish.",
     "How the hyper-saline lake archaeon *Halobacterium salinarum* builds a purple protein shield to harvest pure sunlight directly into cellular energy.",
@@ -89,9 +88,10 @@
     "How the deep-sea pearlfish (*Carapidae*) survives crushing abyssal pressures by living entirely inside the living, breathing respiratory organs of giant sea cucumbers.",
     "The Axolotl Regenerative Genome: How this salamander regrows severed limbs, spinal cords, and heart muscle",
     "The Axolotl Regenerative Genome: How this salamander regrows severed limbs, spinal cords, and heart muscle",
+    "The Mimic Octopus: The cephalopod that shifts skin texture, color, and posture to impersonate 15 toxic predators",
     "The Mimic Octopus: The cephalopod that shifts skin texture, color, and posture to impersonate 15 toxic predators"
   ],
-  "subcluster_idx": 4,
+  "subcluster_idx": 0,
   "fallback_idx": 12,
-  "call_count": 374
+  "call_count": 375
 }
