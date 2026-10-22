@@ -1,6 +1,5 @@
 {
   "topics": [
-    "How the deep-sea dragonfish uses specialized skin pigments that absorb all surrounding light to achieve absolute invisibility in the pitch-black ocean.",
     "The Electrophorus Electric Eel Electrocytes: Thousands of stacked bio-batteries discharging 860 volts",
     "How the Yellowstone hot spring archaeon *Sulfolobus acidocaldarius* repairs shredded DNA inside boiling, battery-acid water using specialized sliding clamp proteins.",
     "How the bombardier beetle mixes boiling, volatile chemicals inside an internal combustion chamber to fire a targeted, high-speed toxic acid spray.",
@@ -89,9 +88,10 @@
     "The Electrophorus Electric Eel Electrocytes: Thousands of stacked bio-batteries discharging 860 volts",
     "The Electrophorus Electric Eel Electrocytes: Thousands of stacked bio-batteries discharging 860 volts",
     "The Electrophorus Electric Eel Electrocytes: Thousands of stacked bio-batteries discharging 860 volts",
+    "The Electrophorus Electric Eel Electrocytes: Thousands of stacked bio-batteries discharging 860 volts",
     "The Electrophorus Electric Eel Electrocytes: Thousands of stacked bio-batteries discharging 860 volts"
   ],
-  "subcluster_idx": 0,
+  "subcluster_idx": 1,
   "fallback_idx": 23,
-  "call_count": 380
+  "call_count": 381
 }
