@@ -1,6 +1,5 @@
 {
   "topics": [
-    "How the parasitic nematode Myrmeconema neotropicum swells ant abdomens into bright red berries, tricking birds into eating and spreading them.",
     "How the deep-sea dragonfish uses specialized skin pigments that absorb all surrounding light to achieve absolute invisibility in the pitch-black ocean.",
     "The Electrophorus Electric Eel Electrocytes: Thousands of stacked bio-batteries discharging 860 volts",
     "How the Yellowstone hot spring archaeon *Sulfolobus acidocaldarius* repairs shredded DNA inside boiling, battery-acid water using specialized sliding clamp proteins.",
@@ -89,9 +88,10 @@
     "The Inland Taipan Neurotoxic Venom: The Australian serpent whose single bite drops 100 adult humans",
     "The Electrophorus Electric Eel Electrocytes: Thousands of stacked bio-batteries discharging 860 volts",
     "The Electrophorus Electric Eel Electrocytes: Thousands of stacked bio-batteries discharging 860 volts",
+    "The Electrophorus Electric Eel Electrocytes: Thousands of stacked bio-batteries discharging 860 volts",
     "The Electrophorus Electric Eel Electrocytes: Thousands of stacked bio-batteries discharging 860 volts"
   ],
-  "subcluster_idx": 4,
+  "subcluster_idx": 0,
   "fallback_idx": 23,
-  "call_count": 379
+  "call_count": 380
 }
