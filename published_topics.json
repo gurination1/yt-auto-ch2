@@ -1,6 +1,5 @@
 {
   "topics": [
-    "The Electrophorus Electric Eel Electrocytes: Thousands of stacked bio-batteries discharging 860 volts",
     "How the Yellowstone hot spring archaeon *Sulfolobus acidocaldarius* repairs shredded DNA inside boiling, battery-acid water using specialized sliding clamp proteins.",
     "How the bombardier beetle mixes boiling, volatile chemicals inside an internal combustion chamber to fire a targeted, high-speed toxic acid spray.",
     "How the parasitic roundworm *Spinochordodes tellinii* chemically reprograms grasshoppers to commit deliberate mass suicide by leaping into deep water.",
@@ -89,9 +88,10 @@
     "The Electrophorus Electric Eel Electrocytes: Thousands of stacked bio-batteries discharging 860 volts",
     "The Electrophorus Electric Eel Electrocytes: Thousands of stacked bio-batteries discharging 860 volts",
     "The Electrophorus Electric Eel Electrocytes: Thousands of stacked bio-batteries discharging 860 volts",
+    "The Electrophorus Electric Eel Electrocytes: Thousands of stacked bio-batteries discharging 860 volts",
     "The Electrophorus Electric Eel Electrocytes: Thousands of stacked bio-batteries discharging 860 volts"
   ],
-  "subcluster_idx": 1,
+  "subcluster_idx": 2,
   "fallback_idx": 23,
-  "call_count": 381
+  "call_count": 382
 }
