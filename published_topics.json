@@ -1,6 +1,5 @@
 {
   "topics": [
-    "How the funnel-web spider's robust delta-hexatoxin targets human nervous systems with surgical precision, locking open voltage-gated channels to trigger massive, rapid paralysis.",
     "Deinococcus radiodurans: The bacterial extremophile that reassembles shattered DNA after lethal radiation bursts",
     "The Wood Frog Glucose Cryoprotectant: Freezing completely solid with no heartbeat and thawing back to life",
     "How the parasitoid wasp Ampulex compressa injects a precise neurotoxin directly into a cockroach's brain to turn the giant insect into a docile, walking living meal.",
@@ -89,9 +88,10 @@
     "Deinococcus radiodurans: The bacterial extremophile that reassembles shattered DNA after lethal radiation bursts",
     "Deinococcus radiodurans: The bacterial extremophile that reassembles shattered DNA after lethal radiation bursts",
     "Deinococcus radiodurans: The bacterial extremophile that reassembles shattered DNA after lethal radiation bursts",
+    "Deinococcus radiodurans: The bacterial extremophile that reassembles shattered DNA after lethal radiation bursts",
     "Deinococcus radiodurans: The bacterial extremophile that reassembles shattered DNA after lethal radiation bursts"
   ],
-  "subcluster_idx": 1,
+  "subcluster_idx": 2,
   "fallback_idx": 9,
-  "call_count": 386
+  "call_count": 387
 }
