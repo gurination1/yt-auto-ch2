@@ -1,6 +1,5 @@
 {
   "topics": [
-    "The Giant Bathynomus Isopod: The deep-ocean scavenger that survives five consecutive years with zero nutrition",
     "The Duck-Billed Platypus Crural Spur: The egg-laying mammal with ankle venom spurs and electroreceptive bill",
     "The African Lungfish Aestivation Cocoon: How this fish encases itself in dry mud for four years without water",
     "Vampyroteuthis infernalis: The oxygen-deprived abyss cephalopod that emits bioluminescent cloud mucus",
@@ -89,9 +88,10 @@
     "Deinococcus radiodurans: The bacterial extremophile that reassembles shattered DNA after lethal radiation bursts",
     "Deinococcus radiodurans: The bacterial extremophile that reassembles shattered DNA after lethal radiation bursts",
     "The Wood Frog Glucose Cryoprotectant: Freezing completely solid with no heartbeat and thawing back to life",
+    "The Giant Bathynomus Isopod: The deep-ocean scavenger that survives five consecutive years with zero nutrition",
     "The Giant Bathynomus Isopod: The deep-ocean scavenger that survives five consecutive years with zero nutrition"
   ],
-  "subcluster_idx": 0,
+  "subcluster_idx": 1,
   "fallback_idx": 16,
-  "call_count": 390
+  "call_count": 391
 }
